@@ -1,7 +1,5 @@
 
 
-- https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
-
-- https://github.com/owid/co2-data
-
-- [Kaggle GHG emissions datasets](https://www.kaggle.com/shabou/ghg-emissions)
+Data provider | Description | Geoscale | Data sources | Access |
+---|---------|---|---| ---| 
+Carbon Disclosure Project (CDP) | The CDP is an international non-profit organisation that helps companies and cities disclose their environmental impact and GHG emissions. CDP provides [an open data protal](https://data.cdp.net/) for exploring companies and city-wide collected data. | `City scale`| `CDP` | [Get data](https://data.cdp.net/browse?category=Emissions)|

@@ -1,0 +1,4 @@
+
+Data provider | Description | Geoscale | Data sources | Access |
+---|---------|---|---| ---|
+The Joint Research Center of Euorpean Commission | The Joint Research center produces the Emission **Database for Global Atmospheric Research (EDGAR)**. EDGAR provides independent estimates of the global anthropogenic emissions and emission trends, based on publicly available statistics, for the atmospheric modeling community as well as for policy makers. This scientific independent emission inventory is characterized by a coherent world historical trend from 1970 to year x-3, including emissions of all greenhouse gases, air pollutants and aerosols. Data are presented for all countries, with emissions provided per main source category, and spatially allocated on a 0.1x0.1 grid over the globe  | `World scale`  <br />  `Country scale`  <br />  `Grid scale`| `EDGAR` | [Get data](https://data.jrc.ec.europa.eu/collection/edgar) |
