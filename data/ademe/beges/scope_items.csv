@@ -1,0 +1,24 @@
+id,label,scope_id,scope_label
+1,Emissions directes des sources fixes de combustion,1,Emissions directes
+2,Emissions directes des sources mobiles à moteur thermique,1,Emissions directes
+3,Emissions directes des procédés hors énergie,1,Emissions directes
+4,Emissions directes fugitives,1,Emissions directes
+5,Emissions issues de la biomasse (sols et forêts),1,Emissions directes
+6,Emissions indirectes liées à la consommation d'électricité,2,Emissions indirectes associées à l'énergie
+7,"Emissions indirectes liées à la consommation de vapeur, chaleur ou froid",2,Emissions indirectes associées à l'énergie
+8,Autres émissions liées à l'énergie,3,Autres émissions indirectes
+9,Achats de produits et de services,3,Autres émissions indirectes
+10,Immobilisation des biens,3,Autres émissions indirectes
+11,Déchets,3,Autres émissions indirectes
+12,Transport de marchandise amont,3,Autres émissions indirectes
+13,Déplacements professionnels,3,Autres émissions indirectes
+14,Actifs en leasing amont,3,Autres émissions indirectes
+15,Investissements,3,Autres émissions indirectes
+16,Transport des visiteurs et des clients,3,Autres émissions indirectes
+17,Transport des marchandises aval,3,Autres émissions indirectes
+18,Utilisation des produits vendus,3,Autres émissions indirectes
+19,Fin des produits vendus,3,Autres émissions indirectes
+20,Franchise aval,3,Autres émissions indirectes
+21,Leasing aval,3,Autres émissions indirectes
+22,Déplacement domicile travail,3,Autres émissions indirectes
+23,Autres émissions indirectes,3,Autres émissions indirectes
