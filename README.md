@@ -17,13 +17,13 @@ The goal of data exploration tasks consists of exploring and analyzing the diffe
 
 ### Process
 
-Each member will be responsible for the analysis of x data sources.
-We create a branch by data source in the github repo.
-We create a folder by data source.
-For each data source, a readme file is needed to describe the content.
-Each data source explorer maintains his/her branch by documenting the data source, providing analysis notebooks and generating a json file describing datasource metadata.
-You are asked to commit changes as frequent as possible by adding issue number in the commit message. 
-When you want to merge your changes in the main branch, make a pull request by identifying the reviewer and linking the pull request to the issue you are working on.
+- Each contributor is responsible of the analysis of x data sources.
+- We create a branch by data source in the github repo.
+- We create a folder by data source.
+- For each data source, a readme file is needed to describe the content.
+- Each data source explorer maintains his/her branch by documenting the data source, providing analysis notebooks and generating a json file describing datasource metadata.
+- Contributors are asked to commit changes as frequent as possible by adding issue number in the commit message. 
+- When you want to merge your changes in the main branch, make a pull request by identifying the reviewer and linking the pull request to the issue you are working on.
 You will receive a message of acceptance when your pull request is merged.
 
 
