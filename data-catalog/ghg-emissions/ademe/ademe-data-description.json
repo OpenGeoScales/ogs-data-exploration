@@ -29,7 +29,8 @@
 				}
 			},
 			"Resolution": {
-				"SpatialResolution": "Municipalities",
+				"SpatialResolution": ["Communauté Urbaine", "Communauté d'agglomération","Communauté de Commune",
+				"Communes", "Départements","Métropole","Régions"],
 				"TemporalResolution": "year",
 			},
             "Gases": {
