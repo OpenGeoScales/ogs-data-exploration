@@ -13,7 +13,7 @@ The goal of documentation tasks consists of identifying relevant GHG data and do
 
 ### Outputs
 
-- List of data sources with respective links in wiki data-source page
+- List of data sources with respective links in [this wiki data-source page](https://github.com/OpenGeoScales/ogs-data-exploration/wiki/Data-sources)
 - Feeding wiki with references,  knowledge and concepts related to GHG emissions data
 
 ## Exploration
