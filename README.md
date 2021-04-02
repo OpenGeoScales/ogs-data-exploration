@@ -37,16 +37,15 @@ Every data source folder should contains a README file for describing the data s
     ├── README.md                   # overview of the project
     ├── data/                       # data files used in the project
         ├── ghg-emissions/           # a first split by topic
-	    	└── source 1            # folder for data source 1
-	    		└── README.md       # description of data source 1
-			└── sub-folder/     # folder containing data
-	    	└── source 2            # folder for data source 2
-	    		└── README.md       # description of data source 2
-			└── sub-folder/     # folder containing data
-	    	└── ...              
-	    	└── source n      
+	    └── source 1            # folder for data source 1
+	    	└── README.md       # description of data source 1
+		└── sub-folder/     # folder containing data
+	    └── source 2            # folder for data source 2
+	    	└── README.md       # description of data source 2
+		└── sub-folder/     # folder containing data
+	    └── ...              
+	    └── source n      
         ├── socio-economic/         # subdirectories by topic
-	└── geo-ref/                # subdirectories by topic
     ├── notebooks/                  # notebooks for exploring raw data
    	 ├── ghg-emissions        
 	    └── source 1            # folder for data source 1
