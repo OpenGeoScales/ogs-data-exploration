@@ -46,6 +46,17 @@ Every data source folder should contains a README file for describing the data s
 	    └── ...              
 	    └── source n      
         ├── socio-economic/         # subdirectories by topic
+    ├── data/                  # notebooks for exploring raw data
+   	 ├── socio-economic/
+   	 ├── ghg-emissions        
+	    └── source 1            # folder for data source 1
+	    	└── README.md      # Notebook for exploring data source 1
+		└── dataset      # Notebook for exploring data source 
+	    └── source 2            # folder for data source 2
+	    	└── README.md      # Notebook for exploring data source 1
+		└── dataset      # Notebook for exploring data source 2
+	    └── ...            # folder for data source 2
+	    └── source n            # folder for data source 2
     ├── notebooks/                  # notebooks for exploring raw data
    	 ├── ghg-emissions        
 	    └── source 1            # folder for data source 1
