@@ -35,28 +35,25 @@ Every data source folder should contains a README file for describing the data s
 
     project_name/
     ├── README.md                   # overview of the project
-    ├── data/                       # data files used in the project
-        ├── ghg-emissions/           # a first split by topic
-	    └── source 1            # folder for data source 1
-	    	└── README.md       # description of data source 1
-		└── sub-folder/     # folder containing data
-	    └── source 2            # folder for data source 2
-	    	└── README.md       # description of data source 2
-		└── sub-folder/     # folder containing data
-	    └── ...              
-	    └── source n      
-        ├── socio-economic/         # subdirectories by topic
     ├── data/                  # notebooks for exploring raw data
-   	 ├── socio-economic/
+    	├── ghg-emissions
+		└── source 1            # folder for data source 1
+			└── README.md      # Notebook for exploring data source 1
+			└── dataset      # Notebook for exploring data source 
+		└── source 2            # folder for data source 2
+			└── README.md      # Notebook for exploring data source 1
+			└── dataset      # Notebook for exploring data source 2
+		└── ...            # folder for data source 2
+		└── source n            # folder for data source 2
+	├── socio-economic
+    ├── notebooks/                  # notebooks for exploring raw data
    	 ├── ghg-emissions        
 	    └── source 1            # folder for data source 1
-	    	└── README.md      # Notebook for exploring data source 1
-		└── dataset      # Notebook for exploring data source 
+	    	└── Notebook 1      # Notebook for exploring data source 1
+		└── Notebook 2      # Notebook for exploring data source 
 	    └── source 2            # folder for data source 2
-	    	└── README.md      # Notebook for exploring data source 1
-		└── dataset      # Notebook for exploring data source 2
-	    └── ...            # folder for data source 2
-	    └── source n            # folder for data source 2
+	    	└── Notebook 1      # Notebook for exploring data source 1
+		└── Notebook 2      # Notebook for exploring data source 2
     ├── notebooks/                  # notebooks for exploring raw data
    	 ├── ghg-emissions        
 	    └── source 1            # folder for data source 1
