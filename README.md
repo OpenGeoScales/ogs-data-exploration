@@ -82,7 +82,11 @@ cd ogs-data-exploration
 ```
 - By default you are working in the main branch. Change the branch and select the branch associated with the dataset you are working on.
 ```
-git checkout -b ademe
+git checkout  'name of the branch'
+```
+For example to switch to the branch 'ademe'
+```
+git checkout  ademe
 ```
 - Make changes: add notebooks, add data, change readme...
 - Track all the changes
