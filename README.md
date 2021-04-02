@@ -36,28 +36,29 @@ Every data source folder should contains a README file for describing the data s
     project_name/
     ├── README.md                   # overview of the project
     ├── data/                       # notebooks for exploring raw data
-   	 ├── ghg-emissions        
-	    └── source 1            # folder for data source 1
-	    	└── README.md      # Notebook for exploring data source 1
-		└── dataset      # Notebook for exploring data source 
-	    └── source 2            # folder for data source 2
-	    	└── README.md1      # Notebook for exploring data source 1
-		└── dataset      # Notebook for exploring data source 2
-	├── socio-economic 
+   	    ├── ghg-emissions        
+	        └── source 1            # folder for data source 1
+	    	    └── README.md      # Notebook for exploring data source 1
+		    └── dataset      # Notebook for exploring data source 
+	        └── source 2            # folder for data source 2
+	    	    └── README.md1      # Notebook for exploring data source 1
+		    └── dataset      # Notebook for exploring data source 2
+	    ├── socio-economic 
+	    └── geo-ref 
     ├── notebooks/                  # notebooks for exploring raw data
-   	 ├── ghg-emissions        
-	    └── source 1            # folder for data source 1
-	    	└── Notebook 1      # Notebook for exploring data source 1
-		└── Notebook 2      # Notebook for exploring data source 
-	    └── source 2            # folder for data source 2
-	    	└── Notebook 1      # Notebook for exploring data source 1
-		└── Notebook 2      # Notebook for exploring data source 2
+   	    ├── ghg-emissions        
+	       └── source 1            # folder for data source 1
+	    	   └── Notebook 1      # Notebook for exploring data source 1
+		   └── Notebook 2      # Notebook for exploring data source 
+	       └── source 2            # folder for data source 2
+	    	   └── Notebook 1      # Notebook for exploring data source 1
+		   └── Notebook 2      # Notebook for exploring data source 2
     ├── data-catalog/               # notebooks for exploring raw data
-   	 ├── ghg-emissions        
-	    └── source 1            # folder for data source 1
-	    	└── data-desc.json  # json file describing data source 1
-	    └── source 1            # folder for data source 2
-	    	└── data-desc.json  # json file describing data source 2
+   	    ├── ghg-emissions        
+	       └── source 1            # folder for data source 1
+	    	   └── data-desc.json  # json file describing data source 1
+	       └── source 1            # folder for data source 2
+	    	   └── data-desc.json  # json file describing data source 2
 
 ### Procedure
 
