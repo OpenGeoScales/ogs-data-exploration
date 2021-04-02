@@ -1,5 +1,7 @@
 # ogs-data-exploration
-Welcome to the ogs-data-exploration repository!
+
+Welcome to the ogs-data-exploration repository 👋
+
 This repository is dedicated to the cartography and exploration of greenhouse gas (GHG) emissions data at various geographical scales.
 Two main goals are defined for this repository:
 
