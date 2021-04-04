@@ -194,7 +194,8 @@ cd ogs-data-exploration
 ```
 - By default you are working in the main branch. Change the branch and select the branch associated with the dataset you are working on.
 ```
-git checkout  'name of the branch'
+git branch 'name of the branch'       #If the branch does not already exist, create a new branch named "name of the branch"   
+git checkout  'name of the branch' #Switch to "new-branch"
 ```
 For example to switch to the branch 'ademe'
 ```
