@@ -1,0 +1,112 @@
+{
+    "Version": "2021-02-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "ademe",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "Lou Dupont",
+				"DataProviderLink": "https://www.data.gouv.fr/fr/datasets/bilans-demissions-de-ges-publies-sur-le-site-de-lademe-1/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "BEGES",
+				"DataSourceLink": "https://www.bilans-ges.ademe.fr/fr/bilanenligne/bilans/index/siGras/0",
+				"DataSourceOrganism": "ADEME",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "France",
+					"NumberOfSpatialEntities": 238,
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 2009,
+					"MaxDate": 2020,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Communauté Urbaine", "Communauté d'agglomération","Communauté de Commune",
+				"Communes", "Départements","Métropole","Régions"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": "All GHG gases",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "Base Carbone",
+				"ProtocolLink": "https://www.bilans-ges.ademe.fr/fr/accueil/contenu/index/page/decouverte/siGras/1"
+			},
+			"EstimationMethod": {
+				"MethodType": "Bottom-up",
+				"MethodDescription": "https://www.bilans-ges.ademe.fr/fr/accueil/contenu/index/page/decouverte/siGras/1"
+			}
+        },
+		{
+            "DataSourceStorageName": "owid",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "Our World in Data",
+				"DataProviderLink": "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions",
+				"DataProviderDesc": "https://ourworldindata.org/about"
+			},
+			"DataSource": {
+				"DataSourceName": "OWID",
+				"DataSourceLink": "https://github.com/owid/co2-data/blob/master/owid-co2-data.csv",
+				"DataSourceOrganism": "Global Carbon Project for CO2, Climate Data Explorer for other GHG (methane, nitrous oxides)",
+				"DataSourceDesc": "https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 236,
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 1750,
+					"MaxDate": 2019,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Country"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": "All GHG gases",
+        "ListOfGases": ["CO2", "CH4", "N2O", "TotalGHG"],
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": ["TBD"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+        "ListOfSectors": ["cement","coal", "flaring", "gas", "oil", "other industries"]
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "TBD",
+				"ProtocolLink": "TBD"
+			},
+			"EstimationMethod": {
+				"MethodType": "TBD",
+				"MethodDescription": "TBD"
+			}
+        }
+    ]
+}
