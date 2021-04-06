@@ -1,0 +1,161 @@
+{
+    "Version": "2021-06-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Fossil-Fuel CO2 Emissions (Global)"],
+			"DataProvider": {
+				"DataProviderName": ["T.A. Boden", "R.J. Andres", "G. Marland"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/overview_2014.html",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 1,
+					"ListOfSpatialEntities": "World"
+				},
+				"TemporalCoverage": {
+					"MinDate": 1751,
+					"MaxDate": 2014
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "World",
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Fossil-Fuel CO2 Emissions (Regions)"],
+			"DataProvider": {
+				"DataProviderName": ["T.A. Boden", "R.J. Andres", "G. Marland"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/tre_regional.html",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 10,
+					"ListOfSpatialEntities": ["Western Europe", "Oceania", "North American", "Middle East", "Germany", "Far East", "Developing America", "Centrally Planned Europe", "Centrally Planned Asia", "Africa"]
+				},
+				"TemporalCoverage": {
+					"MinDate": 1751,
+					"MaxDate": 2014
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "World region",
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Fossil-Fuel CO2 Emissions (Countries)"],
+			"DataProvider": {
+				"DataProviderName": ["T.A. Boden", "R.J. Andres", "G. Marland"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/tre_regional.html",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 258,
+					"ListOfSpatialEntities": ["AFGHANISTAN","ALBANIA","ALGERIA","ANDORRA","ANGOLA","ANGUILLA","ANTARCTIC FISHERIES","ANTIGUA & BARBUDA","ARGENTINA","ARMENIA","ARUBA","AUSTRALIA","AUSTRIA","AZERBAIJAN","BAHAMAS","BAHRAIN","BANGLADESH","BARBADOS","BELARUS","BELGIUM","BELIZE","BENIN","BERMUDA","BHUTAN","BONAIRE"," SAINT EUSTATIUS"," AND SABA","BOSNIA & HERZEGOVINA","BOTSWANA","BRAZIL","BRITISH VIRGIN ISLANDS","BRUNEI (DARUSSALAM)","BULGARIA","BURKINA FASO","BURUNDI","CAMBODIA","CANADA","CAPE VERDE","CAYMAN ISLANDS","CENTRAL AFRICAN REPUBLIC","CHAD","CHILE","CHINA (MAINLAND)","CHRISTMAS ISLAND","COLOMBIA","COMOROS","CONGO","COOK ISLANDS","COSTA RICA","COTE D IVOIRE","CROATIA","CUBA","CURACAO","CYPRUS","CZECH REPUBLIC","CZECHOSLOVAKIA","DEMOCRATIC PEOPLE S REPUBLIC OF KOREA","DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)","DEMOCRATIC REPUBLIC OF VIETNAM","DENMARK","DJIBOUTI","DOMINICA","DOMINICAN REPUBLIC","EAST & WEST PAKISTAN","ECUADOR","EGYPT","EL SALVADOR","EQUATORIAL GUINEA","ERITREA","ESTONIA","ETHIOPIA","FAEROE ISLANDS","FALKLAND ISLANDS (MALVINAS)","FEDERAL REPUBLIC OF GERMANY","FEDERATED STATES OF MICRONESIA","FEDERATION OF MALAYA-SINGAPORE","FIJI","FINLAND","FORMER DEMOCRATIC YEMEN","FORMER GERMAN DEMOCRATIC REPUBLIC","FORMER PANAMA CANAL ZONE","FORMER YEMEN","FRANCE (INCLUDING MONACO)","FRENCH EQUATORIAL AFRICA","FRENCH GUIANA","FRENCH INDO-CHINA","FRENCH POLYNESIA","FRENCH WEST AFRICA","GABON","GAMBIA","GEORGIA","GERMANY","GHANA","GIBRALTAR","GREECE","GREENLAND","GRENADA","GUADELOUPE","GUATEMALA","GUINEA","GUINEA BISSAU","GUYANA","HAITI","HONDURAS","HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA","HUNGARY","ICELAND","INDIA","INDONESIA","IRAQ","IRELAND","ISLAMIC REPUBLIC OF IRAN","ISRAEL","ITALY (INCLUDING SAN MARINO)","JAMAICA","JAPAN","JAPAN (EXCLUDING THE RUYUKU ISLANDS)","JORDAN","KAZAKHSTAN","KENYA","KIRIBATI","KUWAIT","KUWAITI OIL FIRES","KYRGYZSTAN","LAO PEOPLE S DEMOCRATIC REPUBLIC","LATVIA","LEBANON","LEEWARD ISLANDS","LESOTHO","LIBERIA","LIBYAN ARAB JAMAHIRIYAH","LIECHTENSTEIN","LITHUANIA","LUXEMBOURG","MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA","MACEDONIA","MADAGASCAR","MALAWI","MALAYSIA","MALDIVES","MALI","MALTA","MARSHALL ISLANDS","MARTINIQUE","MAURITANIA","MAURITIUS","MEXICO","MONGOLIA","MONTENEGRO","MONTSERRAT","MOROCCO","MOZAMBIQUE","MYANMAR (FORMERLY BURMA)","NAMIBIA","NAURU","NEPAL","NETHERLAND ANTILLES","NETHERLAND ANTILLES AND ARUBA","NETHERLANDS","NEW CALEDONIA","NEW ZEALAND","NICARAGUA","NIGER","NIGERIA","NIUE","NORWAY","OCCUPIED PALESTINIAN TERRITORY","OMAN","PACIFIC ISLANDS (PALAU)","PAKISTAN","PALAU","PANAMA","PAPUA NEW GUINEA","PARAGUAY","PENINSULAR MALAYSIA","PERU","PHILIPPINES","PLURINATIONAL STATE OF BOLIVIA","POLAND","PORTUGAL","PUERTO RICO","QATAR","REPUBLIC OF CAMEROON","REPUBLIC OF KOREA","REPUBLIC OF MOLDOVA","REPUBLIC OF SOUTH SUDAN","REPUBLIC OF SOUTH VIETNAM","REPUBLIC OF SUDAN","REUNION","RHODESIA-NYASALAND","ROMANIA","RUSSIAN FEDERATION","RWANDA","RWANDA-URUNDI","RYUKYU ISLANDS","SABAH","SAINT HELENA","SAINT LUCIA","SAINT MARTIN (DUTCH PORTION)","SAMOA","SAO TOME & PRINCIPE","SARAWAK","SAUDI ARABIA","SENEGAL","SERBIA","SEYCHELLES","SIERRA LEONE","SINGAPORE","SLOVAKIA","SLOVENIA","SOLOMON ISLANDS","SOMALIA","SOUTH AFRICA","SPAIN","SRI LANKA","ST. KITTS-NEVIS","ST. KITTS-NEVIS-ANGUILLA","ST. PIERRE & MIQUELON","ST. VINCENT & THE GRENADINES","SUDAN","SURINAME","SWAZILAND","SWEDEN","SWITZERLAND","SYRIAN ARAB REPUBLIC","TAIWAN","TAJIKISTAN","TANGANYIKA","THAILAND","TIMOR-LESTE (FORMERLY EAST TIMOR)","TOGO","TONGA","TRINIDAD AND TOBAGO","TUNISIA","TURKEY","TURKMENISTAN","TURKS AND CAICOS ISLANDS","TUVALU","UGANDA","UKRAINE","UNITED ARAB EMIRATES","UNITED KINGDOM","UNITED KOREA","UNITED REPUBLIC OF TANZANIA","UNITED STATES OF AMERICA","URUGUAY","USSR","UZBEKISTAN","VANUATU","VENEZUELA","VIET NAM","WALLIS AND FUTUNA ISLANDS","YEMEN","YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC)","YUGOSLAVIA (MONTENEGRO & SERBIA)","ZAMBIA","ZANZIBAR","ZIMBABWE"]
+				},
+				"TemporalCoverage": {
+					"MinDate": 1751,
+					"MaxDate": 2014
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "Country",
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        }
+    ]
+}
