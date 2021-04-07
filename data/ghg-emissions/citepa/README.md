@@ -28,9 +28,8 @@ The Ministry in charge of the Environment has entrusted the Interprofessional Te
 
 Inventory file for GHG by municipality in 2016 (35797 municipalities)
 
-File contain quantity of GHG in Teq CO2 (Ton CO2 equivalent) with the six main gas (CO2, CH4, N2O, CFC, HFC, SF6) taken into account by the kyoto potocol.
+The file contain quantity of GHG in Teq CO2 (Ton CO2 equivalent) with the six main gas (CO2, CH4, N2O, CFC, HFC, SF6) taken into account by the kyoto potocol.
 (farming, others transports, international others transports, CO2 biomass out of total, wastes, energy, non-energy industry, Residential, Road, Tertiary)
-
 
 
 fields: 
