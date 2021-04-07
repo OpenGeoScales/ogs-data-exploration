@@ -23,3 +23,32 @@ The Ministry in charge of the Environment has entrusted the Interprofessional Te
 
 - [ADEME Open Data Portal](https://data.ademe.fr/datasets/igt-pouvoir-de-rechauffement-global)
 - [Datagouv Open Data Portal](https://www.data.gouv.fr/fr/datasets/inventaire-de-gaz-a-effet-de-serre-territorialise/)
+
+
+
+Inventory file for GHG by municipality in 2016 (35797 municipalities)
+
+File contain quantity of GHG in Teq CO2 (Ton CO2 equivalent) with the six main gas (CO2, CH4, N2O, CFC, HFC, SF6) taken into account by the kyoto potocol.
+(farming, others transports, international others transports, CO2 biomass out of total, wastes, energy, non-energy industry, Residential, Road, Tertiary)
+
+
+
+fields: 
+INSEE commune => municipality code (uri-reference) 
+Commune ==> municipality name (string)
+
+Tous les champs suivant sont des secteurs stockant la quantité de GES en Teq CO2 (number):
+All the followings fields are sectors with quantity of GHG in Teq CO2 (number):
+
+farming
+others transports
+international others transports
+CO2 biomass out of total
+wastes
+energy
+non-energy industry
+Residential
+Road
+Tertiary
+lat (number) => geographical coordinate that allow to locate depending equator
+lon (number) => geographical coordinate that allow to locate depending Greenwich meridian
