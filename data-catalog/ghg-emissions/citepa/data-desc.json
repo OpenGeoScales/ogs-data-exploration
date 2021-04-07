@@ -1,0 +1,57 @@
+{
+    "Version": "2021-02-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "ademe",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "ademe",
+				"DataProviderLink": "https://data.ademe.fr/datasets/igt-pouvoir-de-rechauffement-global",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "IGT - Pouvoir de réchauffement global-full",
+				"DataSourceLink": "https://www.bilans-ges.ademe.fr/fr/bilanenligne/bilans/index/siGras/0",
+				"DataSourceOrganism": "ADEME",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "France",
+					"NumberOfSpatialEntities": 35797,
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 2016,
+					"MaxDate": 2016,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Communes"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["NA"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["Agriculture","Autres transports","Autres transports international","Déchets","Energie","Industrie hors-énergie","Résidentiel","Routier","Tertiaire"],
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "Base Carbone",
+				"ProtocolLink": "https://www.bilans-ges.ademe.fr/fr/accueil/contenu/index/page/decouverte/siGras/1"
+			},
+			"EstimationMethod": {
+				"MethodType": "Bottom-up",
+				"MethodDescription": "https://www.bilans-ges.ademe.fr/fr/accueil/contenu/index/page/decouverte/siGras/1"
+			}
+        }
+    ]
+}
