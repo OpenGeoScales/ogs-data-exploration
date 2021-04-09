@@ -38,7 +38,7 @@
 			},
             "Scopes": {
 				"Included": ["Scope 1", "Scope 2", "Scope 3"],
-				"FilterByScope": "True"
+				"FilterByScope": "False"
 			},
 			"Sectors": {
 				"Included": "All sectors",
@@ -90,7 +90,7 @@
 			},
             "Scopes": {
 				"Included": ["Scope 1", "Scope 2", "Scope 3"],
-				"FilterByScope": "True"
+				"FilterByScope": "False"
 			},
 			"Sectors": {
 				"Included": "All sectors",
@@ -142,7 +142,110 @@
 			},
             "Scopes": {
 				"Included": ["Scope 1", "Scope 2", "Scope 3"],
-				"FilterByScope": "True"
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Annual Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude"],
+			"DataProvider": {
+				"DataProviderName": ["T.A. Boden", "R.J. Andres"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp058/ndp058_v2016.html",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 64800,
+					"ListOfSpatialEntities": "NA"},
+				"TemporalCoverage": {
+					"MinDate": 1751,
+					"MaxDate": 2013
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "1°x1°",
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "Marland and Rotty (1984)",
+				"MethodDescription": "NA"
+			}
+        },
+
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Monthly Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude"],
+			"DataProvider": {
+				"DataProviderName": ["T.A. Boden", "R.J. Andres"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_v2016.html",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 64800,
+					"ListOfSpatialEntities": "NA"},
+				"TemporalCoverage": {
+					"MinDate": 1950,
+					"MaxDate": 2013
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "1°x1°",
+				"TemporalResolution": "Month"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
 			},
 			"Sectors": {
 				"Included": "All sectors",
