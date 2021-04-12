@@ -1,0 +1,58 @@
+{
+    "Version": "2021-12-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "oecd",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "OECD",
+				"DataProviderLink": "https://www.oecd.org/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "OECD Statistics",
+				"DataSourceLink": "https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG",
+				"DataSourceOrganism": "OECD",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "OECD",
+					"NumberOfSpatialEntities": 48,
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 1990,
+					"MaxDate": 2018,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Country"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": ["Greenhouse gases", "Carbon dioxide", "Methane", "Nitrous oxide", "Nitrogen trifluoride",
+					"Sulphur hexafluoride", "Perfluorocarbons" "Hydrofluorocarbons", "Unspecified mix of HFCs and PFCs"]
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "",
+				"ProtocolLink": ""
+			},
+			"EstimationMethod": {
+				"MethodType": "",
+				"MethodDescription": ""
+			}
+        }
+    ]
+}
