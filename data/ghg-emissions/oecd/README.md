@@ -18,8 +18,9 @@ After being processed (the process is shown in the corresponding notebook), the 
 
 | Field | Description |
 | ---- | ------------------- |
-| id | Identifier of the country and the year |
-| COU | Code of the country |
+| ID | Identifier of the country and the year |
+| COUNTRY_CODE | Code of the country |
+| COUNTRY | Name of the country |
 | YEAR | Year of the data |
 | CH4__INDEX_1990 | Methane: Total GHG excl. LULUCF, Index 1990=100 	[Index] |
 | CH4__INDEX_2000 | Methane: Total GHG excl. LULUCF, Index 2000=100 	[Index] |

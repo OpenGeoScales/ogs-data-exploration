@@ -38,8 +38,8 @@
 				"FilterByGase": "True"
 			},
             "Scopes": {
-				"Included": ["Scope 1", "Scope 2", "Scope 3"],
-				"FilterByScope": "True"
+				"Included": ["None"],
+				"FilterByScope": "False"
 			},
 			"Sectors": {
 				"Included": "All sectors",
