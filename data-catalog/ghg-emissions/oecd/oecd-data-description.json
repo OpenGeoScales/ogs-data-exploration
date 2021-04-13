@@ -21,7 +21,13 @@
 				"SpatialCoverage":{
 					"MainCoverage": "OECD",
 					"NumberOfSpatialEntities": 48,
-					"ListOfSpatialEntities": []
+					"ListOfSpatialEntities": ["Argentina", "Australia", "Austria", "Belgium", "Brazil", "Canada",
+						"Switzerland", "Chile", "China (People's Republic of)", "Colombia", "Costa Rica", "Czech Republic",
+						"Germany", "Denmark", "Spain", "Estonia", "European Union (28 countries)", "Finland", "France",
+						"United Kingdom", "Greece", "Hungary", "Indonesia", "India", "Ireland", "Iceland", "Israel", "Italy",
+						"Japan", "Korea", "Lithuania", "Luxembourg", "Latvia", "Mexico", "Netherlands", "Norway", "New Zealand",
+						"OECD - Europe", "OECD - Total", "Poland", "Portugal", "Russia", "Slovak Republic", "Slovenia", "Sweden",
+						"Turkey", "United States", "South Africa"]
 				},
 				"TemporalCoverage": {
 					"MinDate": 1990,
