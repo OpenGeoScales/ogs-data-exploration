@@ -208,7 +208,6 @@
 				"MethodDescription": "NA"
 			}
         },
-
         {
             "DataSourceStorageName": "cdiac",
 			"Topics": ["Monthly Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude"],
@@ -250,6 +249,57 @@
 			"Sectors": {
 				"Included": "All sectors",
 				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Global Carbon Budget","Global Carbon Project"],
+			"DataProvider": {
+				"DataProviderName": ["Global Carbon Project", "Le Quéré C"],
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CIDAC",
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 1,
+					"ListOfSpatialEntities": "World"},
+				"TemporalCoverage": {
+					"MinDate": 1750,
+					"MaxDate": 2015
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "World",
+				"TemporalResolution": "Year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["fossil fuel and cement emissions", "land-use change emissions", "atmospheric growth", "ocean sink", "land sink"],
+				"FilterBySector": "True"
 			},
 			"Protocol": {
 				"ProtocolName": "NA",
