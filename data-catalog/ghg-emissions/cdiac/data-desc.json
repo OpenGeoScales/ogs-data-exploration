@@ -261,18 +261,18 @@
         },
         {
             "DataSourceStorageName": "cdiac",
-			"Topics": ["Global Carbon Budget","Global Carbon Project"],
+			"Topics": ["Global Carbon Budget (World)","Global Carbon Project"],
 			"DataProvider": {
-				"DataProviderName": ["Global Carbon Project", "Le Quéré C"],
+				"DataProviderName": "CDIAC",
 				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
 				"DataProviderDesc": "NA"
 			},
 			"DataSource": {
-				"DataSourceName": "CIDAC",
-				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
-				"DataSourceOrganism": "CDIAC",
+				"DataSourceName": ["Global Carbon Project", "Le Quéré C"],
+				"DataSourceLink": "https://www.globalcarbonproject.org/",
+				"DataSourceOrganism": "Global Carbon Project",
 				"DataSourceDesc": "NA",
-				"DataFormat": "csv",
+				"DataFormat": "xlsx",
 				"DataAccess": "download"
 			},
             "Coverage": {
@@ -299,6 +299,57 @@
 			},
 			"Sectors": {
 				"Included": ["fossil fuel and cement emissions", "land-use change emissions", "atmospheric growth", "ocean sink", "land sink"],
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": ["Global Carbon Budget (National)","Global Carbon Project"],
+			"DataProvider": {
+				"DataProviderName": "CDIAC",
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": ["Global Carbon Project", "CDIAC"],
+				"DataSourceLink": ["https://cdiac.ess-dive.lbl.gov/", "https://www.globalcarbonproject.org/"],
+				"DataSourceOrganism": ["Global Carbon Project", "CDIAC"],
+				"DataSourceDesc": "NA",
+				"DataFormat": "xlsx",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 234,
+					"ListOfSpatialEntities": ["AFGHANISTAN","ALBANIA","ALGERIA","ANDORRA","ANGOLA","ANGUILLA","ANTIGUA & BARBUDA","ARGENTINA","ARMENIA","ARUBA","AUSTRALIA","AUSTRIA","AZERBAIJAN","BAHAMAS","BAHRAIN","BANGLADESH","BARBADOS","BELARUS","BELGIUM","BELIZE","BENIN","BERMUDA","BHUTAN","BONAIRE, SAINT EUSTATIUS, AND SABA","BOSNIA & HERZEGOVINA","BOTSWANA","BRAZIL","BRITISH VIRGIN ISLANDS","BRUNEI (DARUSSALAM)","BULGARIA","BURKINA FASO","BURUNDI","CAMBODIA","CANADA","CAPE VERDE","CAYMAN ISLANDS","CENTRAL AFRICAN REPUBLIC","CHAD","CHILE","CHINA (MAINLAND)","COLOMBIA","COMOROS","CONGO","COOK ISLANDS","COSTA RICA","COTE D IVOIRE","CROATIA","CUBA","CURACAO","CYPRUS","CZECH REPUBLIC","DEMOCRATIC PEOPLE S REPUBLIC OF KOREA","DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)","DENMARK","DJIBOUTI","DOMINICA","DOMINICAN REPUBLIC","ECUADOR","EGYPT","EL SALVADOR","EQUATORIAL GUINEA","ERITREA","ESTONIA","ETHIOPIA","FAEROE ISLANDS","FALKLAND ISLANDS (MALVINAS)","FEDERATED STATES OF MICRONESIA","FIJI","FINLAND","FRANCE (INCLUDING MONACO)","FRENCH GUIANA","FRENCH POLYNESIA","GABON","GAMBIA","GEORGIA","GERMANY","GHANA","GIBRALTAR","GREECE","GREENLAND","GRENADA","GUADELOUPE","GUATEMALA","GUINEA","GUINEA BISSAU","GUYANA","HAITI","HONDURAS","HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA","HUNGARY","ICELAND","INDIA","INDONESIA","IRAQ","IRELAND","ISLAMIC REPUBLIC OF IRAN","ISRAEL","ITALY (INCLUDING SAN MARINO)","JAMAICA","JAPAN","JORDAN","KAZAKHSTAN","KENYA","KIRIBATI","KUWAIT","KYRGYZSTAN","LAO PEOPLE S DEMOCRATIC REPUBLIC","LATVIA","LEBANON","LESOTHO","LIBERIA","LIBYAN ARAB JAMAHIRIYAH","LIECHTENSTEIN","LITHUANIA","LUXEMBOURG","MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA","MACEDONIA","MADAGASCAR","MALAWI","MALAYSIA","MALDIVES","MALI","MALTA","MARSHALL ISLANDS","MARTINIQUE","MAURITANIA","MAURITIUS","MEXICO","MONGOLIA","MONTENEGRO","MONTSERRAT","MOROCCO","MOZAMBIQUE","MYANMAR (FORMERLY BURMA)","NAMIBIA","NAURU","NEPAL","NETHERLANDS","NEW CALEDONIA","NEW ZEALAND","NICARAGUA","NIGER","NIGERIA","NIUE","NORWAY","OCCUPIED PALESTINIAN TERRITORY","OMAN","PAKISTAN","PALAU","PANAMA","PAPUA NEW GUINEA","PARAGUAY","PERU","PHILIPPINES","PLURINATIONAL STATE OF BOLIVIA","POLAND","PORTUGAL","QATAR","REPUBLIC OF CAMEROON","REPUBLIC OF KOREA","REPUBLIC OF MOLDOVA","REPUBLIC OF SOUTH SUDAN","REPUBLIC OF SUDAN","REUNION","ROMANIA","RUSSIAN FEDERATION","RWANDA","SAINT HELENA","SAINT LUCIA","SAINT MARTIN (DUTCH PORTION)","SAMOA","SAO TOME & PRINCIPE","SAUDI ARABIA","SENEGAL","SERBIA","SEYCHELLES","SIERRA LEONE","SINGAPORE","SLOVAKIA","SLOVENIA","SOLOMON ISLANDS","SOMALIA","SOUTH AFRICA","SPAIN","SRI LANKA","ST. KITTS-NEVIS","ST. PIERRE & MIQUELON","ST. VINCENT & THE GRENADINES","SURINAME","SWAZILAND","SWEDEN","SWITZERLAND","SYRIAN ARAB REPUBLIC","TAIWAN","TAJIKISTAN","THAILAND","TIMOR-LESTE (FORMERLY EAST TIMOR)","TOGO","TONGA","TRINIDAD AND TOBAGO","TUNISIA","TURKEY","TURKMENISTAN","TURKS AND CAICOS ISLANDS","UGANDA","UKRAINE","UNITED ARAB EMIRATES","UNITED KINGDOM","UNITED REPUBLIC OF TANZANIA","UNITED STATES OF AMERICA","URUGUAY","UZBEKISTAN","VANUATU","VENEZUELA","VIET NAM","WALLIS AND FUTUNA ISLANDS","YEMEN","ZAMBIA","ZIMBABWE","KP Annex B","Non KP Annex B","OECD","Non-OECD","EU28","Africa","Asia","Central America","Europe","Middle East","North America","Oceania","South America","Bunkers","World"]},
+				"TemporalCoverage": {
+					"MinDate": 1750,
+					"MaxDate": 2015
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "World",
+				"TemporalResolution": "Year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["Consumption emissions", "Emissions transfers"],
 				"FilterBySector": "True"
 			},
 			"Protocol": {
