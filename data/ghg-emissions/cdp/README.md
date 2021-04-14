@@ -10,23 +10,26 @@ They provide also with 'corporate data', 'data for investors' and a yearly score
 
 ## Dataset description
 
-The dataset `2020 - City-Wide Emissions` can be either downloaded or accessed via API from [this portal](https://data.cdp.net/)
+The data is composed of 3 datasets according to the year of the report (2018, 2019 or 2020).
+They can be either downloaded or accessed via API from [this portal](https://data.cdp.net/)
 
 
 ## Fields description
 
 | Field | Description |
 |-------|-------------|
+| Index | colonne que j'ai ajoutée qui représente l'index de la ligne dans le dataset original (avant de concatener) |
 || Year Reported to CDP | année du rapport |
 | Account Number | id de la ligne dans le dataset |
 | Organization | entité en charge de la mesure |
 | City | ville concernée |
 | Country | pays concerné |
 | CDP Region | zone géographique (north america, europe , ...) |
+| Reporting Authority | ⚠️ présent uniquement pour 2018-2019. authorité responsable (plusieurs valeurs) |
 | Access | vaut toujours 'public' |
 | City-wide emissions inventory | est-ce que la ville a déja produit ses émissions de GHG ? (oui, en cours, ne compte pas le faire) |
 | Accounting year | date de début et de fin de la période mesurée |
-| Administrative city boundary | type d'administration (city, city-state, province ...) |
+| Administrative city boundary | ⚠️ présent uniquement pour 2020. type d'administration (city, city-state, province ...) |
 | Inventory boundary (compared to Administrative city boundary) | zone du bilan comparée à la zone administrative |
 | Primary Protocol | Protocole utilisé (GPC, ICLEI, ou autres) |
 | Primary Protocol Comment | commentaires |
