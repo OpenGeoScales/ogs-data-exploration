@@ -337,7 +337,7 @@
 				}
 			},
 			"Resolution": {
-				"SpatialResolution": "World",
+				"SpatialResolution": "Country",
 				"TemporalResolution": "Year"
 			},
             "Gases": {
@@ -350,6 +350,57 @@
 			},
 			"Sectors": {
 				"Included": ["Consumption emissions", "Emissions transfers"],
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": "Production of CO2 from Fossil Fuel Burning by Fuel Type, 1860-1982",
+			"DataProvider": {
+				"DataProviderName": "CDIAC",
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CDIAC",
+				"DataSourceLink": ["R. M. Rotty","G. Marland"],
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "dat",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 1,
+					"ListOfSpatialEntities": "NA"},
+				"TemporalCoverage": {
+					"MinDate": 1860,
+					"MaxDate": 1982
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "World",
+				"TemporalResolution": "Year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["SOLID FUEL", "LIQUID FUEL", "GAS FUEL", "GAS FLARING", "CEMENT MANUFACTURING"],
 				"FilterBySector": "True"
 			},
 			"Protocol": {
