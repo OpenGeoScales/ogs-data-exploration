@@ -462,6 +462,108 @@
 				"MethodType": "NA",
 				"MethodDescription": "NA"
 			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": "Annual Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+			"DataProvider": {
+				"DataProviderName": "CDIAC",
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": ["T.A. Boden", "R.J. Andres", "G. Marland"],
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_annual_del13C_v2016.html",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "text",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 64800,
+					"ListOfSpatialEntities": "NA"},
+				"TemporalCoverage": {
+					"MinDate": 1751,
+					"MaxDate": 2013
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "1°x1°",
+				"TemporalResolution": "Year"
+			},
+            "Gases": {
+				"Included": "CO2 isomass",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["All sectors"],
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "Andres et al. (1996)",
+				"MethodDescription": "NA"
+			}
+        },
+        {
+            "DataSourceStorageName": "cdiac",
+			"Topics": "Monthly Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+			"DataProvider": {
+				"DataProviderName": "CDIAC",
+				"DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": ["T.A. Boden", "R.J. Andres", "G. Marland"],
+				"DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_del13C_v2016.html",
+				"DataSourceOrganism": "CDIAC",
+				"DataSourceDesc": "NA",
+				"DataFormat": "text",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 64800,
+					"ListOfSpatialEntities": "NA"},
+				"TemporalCoverage": {
+					"MinDate": 1950,
+					"MaxDate": 2013
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": "1°x1°",
+				"TemporalResolution": "Month"
+			},
+            "Gases": {
+				"Included": "CO2 isomass",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2", "Scope 3"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["All sectors"],
+				"FilterBySector": "False"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "Andres et al. (1996)",
+				"MethodDescription": "NA"
+			}
         }
     ]
 }
