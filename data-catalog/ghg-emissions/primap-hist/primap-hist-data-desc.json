@@ -1,0 +1,120 @@
+{
+	"Version": "2021-02-09",
+	"DatasourceAttributes": [
+		{
+			"DataSourceStorageName": "primap-hist",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "PIK",
+				"DataProviderLink": "https://zenodo.org/record/4479172",
+				"DataProviderDesc": "The Potsdam Institute for Climate Impact Research focuses its researches on the climate impact to reach a global sustainability and to bring knowledge and solutions for a more manageable climate in the future."
+			},
+			"DataSource": {
+				{
+					"DataSourceName": "Global CO2 emissions from cement production v4 (Andrew 2019)",
+					"DataSourceLink": "https://zenodo.org/record/3380081",
+					"DataSourceOrganism": "CICERO Center for International Climate Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "xlsx",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "BP Statistical Review of World Energy",
+					"DataSourceLink": "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+					"DataSourceOrganism": "British Petroleum",
+					"DataSourceDesc": "NA",
+					"DataFormat": "xlsx",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "CDIAC",
+					"DataSourceLink": "https://data.ess-dive.lbl.gov/view/doi:10.3334/CDIAC/00001_V2017",
+					"DataSourceOrganism": "Carbon Dioxide Information Analysis Center",
+					"DataSourceDesc": "NA",
+					"DataFormat": "NA",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "EDGAR version 4.2",
+					"DataSourceLink": "https://edgar.jrc.ec.europa.eu/",
+					"DataSourceOrganism": "Emissions Database for Global Atmospheric Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "NA",
+					"DataAccess": "NA"
+				},
+				{
+					"DataSourceName": "EDGAR version 4.2 FT2010",
+					"DataSourceLink": "https://edgar.jrc.ec.europa.eu/",
+					"DataSourceOrganism": "Emissions Database for Global Atmospheric Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "NA",
+					"DataAccess": "NA"
+				},
+				{
+					"DataSourceName": "EDGAR version 5.0",
+					"DataSourceLink": "http://data.europa.eu/89h/488dc3de-f072-4810-ab83-47185158ce2a",
+					"DataSourceOrganism": "Emissions Database for Global Atmospheric Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "NA",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "EDGAR-HYDE 1.4",
+					"DataSourceLink": "https://themasites.pbl.nl/tridion/en/themasites/edgar/emission_data/edgar-hyde-100yr/edgar-hyde-1-4.html",
+					"DataSourceOrganism": "Emissions Database for Global Atmospheric Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "zip",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "EDGAR-HYDE 1.4",
+					"DataSourceLink": "https://themasites.pbl.nl/tridion/en/themasites/edgar/emission_data/edgar-hyde-100yr/edgar-hyde-1-4.html",
+					"DataSourceOrganism": "Emissions Database for Global Atmospheric Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "zip",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "FAOSTAT database",
+					"DataSourceLink": "http://www.fao.org/faostat/en/#data",
+					"DataSourceOrganism": "Food and Agriculture Organisation of the United Nations",
+					"DataSourceDesc": "NA",
+					"DataFormat": "csv",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "RCP historical data",
+					"DataSourceLink": "http://www.pik-potsdam.de/~mmalte/rcps/",
+					"DataSourceOrganism": "Potsdam Institute for Climate Impact Research",
+					"DataSourceDesc": "NA",
+					"DataFormat": "zip",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "UNFCCC National Communications and National Inventory Reports for developing countries",
+					"DataSourceLink": "https://zenodo.org/record/4320577",
+					"DataSourceOrganism": "UNFCCC",
+					"DataSourceDesc": "NA",
+					"DataFormat": "zip",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "UNFCCC Biennial Update Reports",
+					"DataSourceLink": "https://unfccc.int/BURs",
+					"DataSourceOrganism": "UNFCCC",
+					"DataSourceDesc": "NA",
+					"DataFormat": "pdf",
+					"DataAccess": "download"
+				},
+				{
+					"DataSourceName": "UNFCCC Common Reporting Format (CRF)",
+					"DataSourceLink": "https://unfccc.int/ghg-inventories-annex-i-parties/2020",
+					"DataSourceOrganism": "UNFCCC",
+					"DataSourceDesc": "NA",
+					"DataFormat": "zip",
+					"DataAccess": "download"
+				}
+			}
+		}
+	]
+}
