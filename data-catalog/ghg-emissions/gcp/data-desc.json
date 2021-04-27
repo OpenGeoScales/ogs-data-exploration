@@ -1,0 +1,57 @@
+{
+    "Version": "2021-02-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "gcp",
+			"Topics": ["CO2 emissions"],
+			"DataProvider": {
+				"DataProviderName": "Global Carbon Project",
+				"DataProviderLink": "https://www.globalcarbonproject.org/carbonbudget/20/data.htm",
+				"DataProviderDesc": "https://essd.copernicus.org/articles/12/3269/2020/"
+			},
+			"DataSource": {
+				"DataSourceName": "",
+				"DataSourceLink": "",
+				"DataSourceOrganism": "",
+				"DataSourceDesc": "NA",
+				"DataFormat": "xlsx",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": "NA",
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 1750,
+					"MaxDate": 2020
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["World", "National"],
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": "CO2",
+				"FilterByGase": "False"
+			},
+            "Scopes": {
+				"Included": ["Scope 1", "Scope 2"],
+				"FilterByScope": "True"
+			},
+			"Sectors": {
+				"Included": "",
+				"FilterBySector": ""
+			},
+			"Protocol": {
+				"ProtocolName": "Aggregations of various databases",
+				"ProtocolLink": "https://essd.copernicus.org/articles/12/3269/2020/"
+			},
+			"EstimationMethod": {
+				"MethodType": "Various",
+				"MethodDescription": "https://essd.copernicus.org/articles/12/3269/2020/"
+			}
+        }
+    ]
+}

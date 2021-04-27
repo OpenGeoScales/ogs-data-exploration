@@ -1,0 +1,59 @@
+{
+    "Version": "2021-04-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "owid",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "Our World in Data",
+				"DataProviderLink": "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions",
+				"DataProviderDesc": "https://ourworldindata.org/about"
+			},
+			"DataSource": {
+				"DataSourceName": "OWID",
+				"DataSourceLink": "https://github.com/owid/co2-data/blob/master/owid-co2-data.csv",
+				"DataSourceOrganism": "Global Carbon Project for CO2, Climate Data Explorer for other GHG (methane, nitrous oxides)",
+				"DataSourceDesc": "https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 236,
+					"ListOfSpatialEntities": []
+				},
+				"TemporalCoverage": {
+					"MinDate": 1750,
+					"MaxDate": 2019,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Country"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": "All GHG gases",
+        "ListOfGases": ["CO2", "CH4", "N2O", "TotalGHG"],
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": ["TBD"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+        "ListOfSectors": ["cement","coal", "flaring", "gas", "oil", "other industries"]
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "TBD",
+				"ProtocolLink": "TBD"
+			},
+			"EstimationMethod": {
+				"MethodType": "TBD",
+				"MethodDescription": "TBD"
+			}
+        }
+    ]
+}
