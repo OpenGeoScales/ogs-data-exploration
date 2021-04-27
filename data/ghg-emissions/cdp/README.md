@@ -14,8 +14,18 @@ The data is composed of 3 datasets according to the year of the report (2018, 20
 They can be either downloaded or accessed via API from [this portal](https://data.cdp.net/)
 
 
+
+There are also emissions [by sector](https://data.cdp.net/Emissions/2017-Cities-GPC-Inventory-Data/m9dr-uyqa)
+There also [emissions reduction target data](https://data.cdp.net/Emissions/2016-Cities-Emissions-Reduction-Targets/g6yr-2gzv)
+There are also two 2020 datasets about Canadian cities [here](https://data.cdp.net/Emissions/2020-Canadian-Cities-Emissions-CRF-Format-/muuq-k63v) and [here](https://data.cdp.net/Emissions/2020-Canadian-Cities-Emissions-GPC-Format-/j9gw-nwjy)
+The format seems quite different
+
+=> check if we should include these datasets (not done yet)
+
 ## Fields description
 
+
+The following table describes columns for data from 2018 to 2020 (it needs to be updated). For more details about the columns included in the different datasets please check [this excel file]()
 | Field | Description |
 |-------|-------------|
 | Index | colonne que j'ai ajoutée qui représente l'index de la ligne dans le dataset original (avant de concatener) |

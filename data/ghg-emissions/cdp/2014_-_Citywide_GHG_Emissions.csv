@@ -1,0 +1,691 @@
+City Name,Account No,Country,City Short Name,C40,Reporting Year,Measurement Year,Primary Methodology,Methodology Details,Total City-wide Emissions (metric tonnes CO2e),Reason for Increase/Decrease in emissions,City Location,Country Location
+Municipalidad de La Paz,50364,Bolivia,La Paz,,2014,2012,Other: Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC),"Norma Boliviana NB-ISO 14064:1 ""Gases de efecto invernadero - Parte 1: Especificaciones con orientación, a nivel de las organizaciones, para la cuantificación y el informe de las emisiones y remosiones de gases de efecto invernadero.",1440.5,,"(-16.5, -68.15)","(-16.290154, -63.588653)"
+Bogotá Distrito Capital,31154,Colombia,Bogotá,C40,2014,2013,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"A partir de las proyecciones del inventario GEI línea base de Bogotá se efectuaron las proyecciones para el año 2013 con base en la metodología IPCC 2006 para las categorías de energía, residuos, Agricultura, Silvicultura, Uso del suelo (ASUS) y procesos industriales.
+
+Para el cálculo en función del Alcance 1, se realiza la sumatoria total de las emisiones directas en toneladas de CO2 Equivalentes, exceptuando las emisiones indirectas y ASUS. En el reporte correspondiente al año 2012, se incluyeron las emisiones de Agricultura Silvicultura y Usos del Suelo por lo que para este año las emisiones presentan una aparente disminución. 
+
+Para el alcance 2, se realiza el cálculo de las emisiones indirectas de CO2 equivalente generadas por el consumo de energía eléctrica para Bogotá D.C.",16077576.18,"El incremento se debe a que las proyecciones se calcularon con base en el aumento de la tasa de incremento  del PIB, la población y la tasa de incremento de los escenario propuestos IPCC A2 y B2.","(4.598056, -74.075833)","(4.570868, -74.297333)"
+Taipei City Government,31446,Taiwan,Taipei,,2014,2012,"Other: International Emissions Analysis Protocol (ICLEI), 2006 IPCC Guidelines foe National Greenhouse Gas Inventories, IPCC 1995 GWP","GHG emissions counting in Taipei City contain 6 categories, which include transportation, residence & business, industry, waste, agriculture as well as forestry, and Scope 1 & 2 activities. All inventories based on IPCC methodology.",14416100,"In order to achieve the goal of city’s carbon reduction policy, the city’s bureaus implement carbon reduction strategies or activities through consolidated network; participation in international action to reduce greenhouse gases, and the outcomes have been gradually vivid. In addition, 2012 citywide electricity consumption is the lowest for the last five years account for the total emission decline.","(25.037525, 121.563782)","(23.69781, 120.960515)"
+"City of London, ON",50558,Canada,"London, ON",,2014,2012,International Emissions Analysis Protocol (ICLEI),"Please see our report, 2012 Community Energy & Greenhouse Gas Inventory: Challenges & Opportunities for information on methodology used
+
+http://www.london.ca/residents/Environment/Energy/Documents/2012_Inventory_Report.pdf",2920000,"Total community energy use in London in 2012 was 52,800 terajoules, six percent above 1990 levels, but nine percent below the recent peak in 2007. Between 2007 and 2012, decreases in energy use were most noted for transportation (15 percent drop). 
+
+In 2012, energy use per person in London was 12 percent below 1990 levels. The biggest improvements can be seen in transportation energy use per person, which was 17 percent lower than 1990. This may reflect the shift in vehicle use and vehicle preferences associated with the oil price spike of 2008, and the subsequent higher fuel prices above the $1.00 per litre range. The slow recovery from the economic recession could also account for some of the reduction in fuel use.
+
+Residential energy use per person was also 17 percent below 1990 levels. This may be attributed to improvements in the energy efficiency of consumer appliances, space heating and cooling systems, home retrofits and new home construction. The unusually warm winter of 2012 also reduced the demand for space heating, with a seven percent difference noted between 2011 and 2012.
+
+Energy use per person related to the local economy in 2012 was five percent lower than 1990. In recent years, energy use by local employers has dropped significantly; with energy use per person being 15 percent lower than it was at its peak in 2004. Part of this can be attributed to the slow recovery from the recession. However, local utilities such as London Hydro and Union Gas have also been increasing efforts to promote energy conservation and demand management with their business client base. As noted above, the unusually warm winter of 2012 also reduced the demand for space heating.
+
+Total greenhouse gas emissions from London have decreased compared to the “peak” in 2005. In 2012, greenhouse gas emissions were 22 percent lower than 2005. In fact, London’s emissions in 2012 were 10 percent lower than the 1990 level used to benchmark emission reduction efforts. This is below the Kyoto Protocol objective (six percent below 1990) that Canada had previously committed to.
+However, it is important to note that the unusually warm winter of 2012 also played a part in reducing emissions, and that emissions in 2013 are likely to be higher than 2012.
+
+Greenhouse gas emissions associated with electricity are significantly lower in 2012 (about 60 percent) than their peak in 2003.","(42.9837, -81.2497)","(56.130366, -106.346771)"
+Pretoria - Tshwane,49360,South Africa,Pretoria,,2014,2012,International Emissions Analysis Protocol (ICLEI),The methodology as defined in the International Local Government GHG Emissions Analysis Protocol V1.0 and the Local Government Operations Protocol for the Quantification and Reporting of GHG Inventories V1.1 where used where applicable and viable.,11984729,,"(-25.746111, 28.188056)","(-30.559482, 22.937506)"
+Santiago de Cali,36037,Colombia,Cali,,2014,2012,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"Rating Sources: For the classification of the sources the IPCC methodology (2006 ) and guidelines from countries such as Argentina and Mexico for indirect quantification of GHG emissions was used. The classification of sources of GHG emissions was performed for the following sectors : Industrial , Transportation and Services ( Waste Disposal , Waste water treatment , energy consumption) .
+
+Data Collection: Request for information and review and selection of information for the years 2006, 2010 and 2011.
+
+Calculation Methodology : Calculation methodologies for each of the sectors classified are presented.
+
+ 1. Industrial Sector 
+
+                   Calculation of  CO2 eq = GHG Emission  x PCG
+                               
+where :
+                               GHG Emission = AD * FE
+                                AD : Activity data
+                                FE : Emission Factors
+
+2 . Transportation Sector 
+
+Secondary vehicular traffic density information was used and GHG emissions per km of  track were calculated through the IVE program.
+
+3 . Services sector
+
+        3.1 . Wastewater Management : WWTP Cañaveralejo: The estimation of emissions of greenhouse gases (GHGs ) , was performed using the following equation :
+
+                                            CH4 emission = (ROT * FE ) - RM
+where :
+CH4 emission = t CH4/year
+ROT = total organic waste from domestic wastewater (kg DBO5/año )
+EF = emission factor for domestic wastewater (kg BOD5 CH4/kg )
+RM = methane recovered and / or flared ( kgCH )
+
+            3.2 . Disposal of solid waste ( Navarro ) Source Area:  LandGEM model ( EPA Landfill Gas Emissions Model ) proposed by the EPA to estimate emissions of greenhouse gases (GHG) was used.
+
+            3.3 . Home energy consumption : Power area. The estimation of emissions of greenhouse gases (GHG) was performed using the following equation :
+
+                                   GHG emission FE = AD *
+where :
+AD : Activity data
+FE : Emission Factors",4566962,The measurement on the previous year and made reference to the reference year are intended to adjust the value of the carbon footprint. So it is not possible to make a statement about this issue,"(3.420556, -76.522222)","(4.570868, -74.297333)"
+Dublin City Council,31313,Ireland,Dublin,,2014,2011,Other: Codema (Dublin's energy agency) derived,See LGO1.3 attachment,2942349,,"(53.344479, -6.270843)","(53.41291, -8.24389)"
+"City of Portland, OR",14874,USA,"Portland, OR",C40,2014,2012,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),"Portland and Multnomah County gather data on carbon emissions to inform policy and programmatic decisions and to monitor overall progress toward emission goals. In general, the methodology follows guidelines developed by ICLEI — Local Governments for Sustainability and uses the Clean Air and Climate Protection software developed jointly by ICLEI and STAPPA/ALAPCO.
+ 
+This inventory is for all of Multnomah County. The City of Portland is 79% of Multnomah County by population. The inventory includes all emissions associated with electricity, natural gas, fuel oil (distillate and residual), propane, gasoline, diesel and solid waste disposal. These sources are discussed in further detail below.
+
+Electricity is provided to customers in Multnomah County by Portland General Electric (PGE) and Pacific Power (PP). Both PGE and PP provide data on the number of kilowatt-hours (kWh) sold to their distribution customers in each of three sectors: residential, commercial and industrial. Because these total numbers include sales of “green power” (i.e., power generated from sources that do not emit carbon emissions) to customers who have elected to purchase such power, these numbers are adjusted to determine how many kWh were sold to customers in Multnomah County from the utilities’ standard sources. To calculate the carbon emissions from grid power, the inventory uses emission factors provided by ICLEI for the Northwest Power Pool of the Western Electricity Coordinating Council.
+
+NW Natural, the sole natural gas utility for Multnomah County, provides data on the total therms used in the county by the residential, commercial and industrial sectors. The carbon emissions attributable to natural gas usage are calculated by multiplying the total number of therms by the conversion factor provided by ICLEI for converting therms to CO2-e. 
+
+Fuel oil data are taken from the U.S. Energy Information Administration’s “Annual Fuel Oil and Kerosene Sales Report” contained in the Petroleum Supply Annual (EIA Report), which publishes data on the sales in Oregon of heating oil, propane and kerosene. Figures are broken down in the three residential, commercial and industrial customer classes. In the absence of more specific information about usage in Multnomah County, the inventory assigns the county a share based on the percent of Oregon’s population living in Multnomah County. ICLEI provides conversion factors for carbon emissions associated with each of these heating fuels. The carbon emissions from these fuels attributable to Multnomah County are calculated by multiplying the total amount of each fuel by the applicable conversion factor.
+
+Emissions from gasoline are calculated based on the number of gallons of gasoline sold in Multnomah County. The State of Oregon, which collects a county gas tax on behalf of Multnomah County, issues quarterly reports detailing the total gallons of gasoline sold in the county. Gasoline sales provide an imperfect measure, since clearly some people who drive in Multnomah County purchase gasoline outside of the county while others purchase it in the county but drive elsewhere. 
+
+The EIA Report contains data for the sales in Oregon of diesel fuel and certain other transportation fuels used for rail, shipping, on-highway use, military uses and off -highway use. Because of the interstate and international character of air, rail and shipping, ICLEI recommends not attributing fuel used by these modes to a given locality, and the inventory excludes these. The inventory allocates to Multnomah County a share of Oregon’s total sales of diesel for on-highway and construction use according to population. 
+
+Metro, the regional government for the Portland area, operates the solid waste transfer stations serving Multnomah County and provides data on the total tonnage of materials landfilled each year from the Metro region. The inventory assigns a share of the total tonnage to Multnomah County based on the percent of Metro population that is in Multnomah County. The Oregon Department of Environmental Quality (DEQ) conducts studies to determine the composition of waste in Oregon landfills. Thus, it is possible to estimate the composition of waste buried in landfills that are attributable to Multnomah County.
+
+Some landfills capture methane gas and flare it. For each landfill that receives waste from Metro, DEQ provides an estimate of the percentage of methane captured. Using ICLEI’s Clean Air and Climate Protection software, and based on the Metro tonnage data, DEQ waste composition studies and estimates of methane recapture rates, the inventory estimates the total amount of methane generated at landfills that is released into the atmosphere. Landfill emissions included in the inventory reflect the cumulative future methane emissions that can be expected from waste disposed in a given year, as opposed to the amount of actual methane emissions from landfills in that year.",7511675,"Portland and Multnomah County emissions decreased by -3.49% from 2011. Overall emissions have declined since 1990, currently at -11.6% below 1990 levels. Residential electricity use decreased -4.1% from the previous year. Cmmercial sector electricity use decreased by -.56% and by about -3.6% from the industrial sector.  Natural gas usage decreased in all  three sectors, -8.5% for residential, -6.34% for commercial, and down 10.8% for the industrial sector. For transportation fuels, gasoline usage declined by 7% and diesel fuel usage decreased by 1%. Overall other fossil fuel usage decreased by 10.5% from 2011.","(45.52, -122.6819)","(37.09024, -95.712891)"
+City of Philadelphia,31181,USA,Philadelphia,C40,2014,2010,International Emissions Analysis Protocol (ICLEI),"In general the ICLEI protocol was followed, however in some cases data was not available in the same fashion or format as described in the protocol.  
+
+- Electricity, natural gas and steam usage was provided by the local utilities.
+- Data related to on-site combustion of fuels was derived using the American Communities Surveys and allocated to Philadelphia based on population.
+- Emissions from transportation was derived using the local regional planning commission's transportation model and EPA MOVES. EPA's non road emissions model was used for off road vehicles
+- Industrial emissions were estimated by looking at EPAs GHG reporting project data and comparing it to previously known information from utilities.
+- Waste data was modeled using MSW and private collection data along with local landfill and incernator emissions based on total waste.  This was counted as a scope 3 emissions because none of these facilities are within the City of Philadelphia",19780964,"Emissions are down from the 2006 benchmark and up slightly from 1990.  There are several contributing factors to this:
+- A cleaner Electricity grid from 2006 to 2010
+- Reduced Vehicle Miles Traveled from 2006 to 2010
+- Industrial Emissions are down from 1990 and 2006
+- Building energy use is up from 2006.  It should be noted that two inventory years (2006 and 2010) had very different weather patterns and 2010 was a particularly cold year which is part of the reason for the large increase in natural gas use and in energy use in buildings.)","(39.952335, -75.163789)","(37.09024, -95.712891)"
+Greater London Authority,3422,United Kingdom,London,C40,2014,2011,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"Stationary - Published central government datasets used for energy consumption and CO2 emissions from homes (residential buildings) and workplaces (commercial, industrial and government buildings and facilities).
+
+Mobile - The London Atmospheric Emissions Inventory (in-house model) is used to calculate distances travelled from transport of people and goods by  road, railways, water-borne navigation, aviation, and off-road surface transport. National emissions factors are applied.
+
+Please note that as non-CO2 greenhouse gases are minimal within London (less than 1% of emissions) only CO2 emissions are reported here.",39920355,"London's CO2 emissions in 2011 fell by 10 percent on 2010 levels, and by eleven percent on 1990 levels. This is significant as London's population is growing at a faster rate than expected. CO2 emissions reductions from 2010 appear to be driven by a warmer winter, meaning less gas consumption, as well as reductions achieved through national government and Mayoral programmes.","(51.504858, -0.078689)","(55.378051, -3.435973)"
+City of Minneapolis,35879,USA,Minneapolis,,2014,2012,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),,4396116,"Electricity grid mix has gotten cleaner, warmer winter, slightly more fuel-efficient cars, airport has converted much of the fleet to more fuel efficient planes.","(44.983334, -93.26667)","(37.09024, -95.712891)"
+City of Melbourne,31109,Australia,Melbourne,C40,2014,2012,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"City of Melbourne includes the emissions sources categorised in the GPC trial. Emissions sources are converted to CO2e using the emissions factors listed in the Australian National Greenhouse Accounts.
+
+* Electricity, gas and water data was provided directly by the utility companies.
+* Emissions from private vehicle use were estimated using a transport model built by Council which incorporates data from twice yearly traffic surveys and data on vehicle use collected by the Australian Bureau of Statistics.
+* Emissions from tram and rail were taken from the government website which publishes emissions reports for all companies that reach the mandatory reporting threshold as dictated in the National Greenhouse and Energy Reporting Act 2007.
+*The amount of waste produced within the municipality was estimated from a waste survey comissioned by Council and conducted in 2012.",6442240,This year we used the same data reported for the GPC trial (with boundary changes resulting in different overall totals). The increase this year was due almost entirely to differences in the electricity data provided by the utility company (no explanation has been provided by the company).,"(-37.814107, 144.96328)","(-25.274398, 133.775136)"
+Kaohsiung City Government,31112,Taiwan,Kaohsiung,,2014,2012,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"The methodology we used is mainly based on "" Guidelines for City Level Greenhouse Gas Inventories"", which was published by Environmental Protection Administration, Executive Yuan, R.O.C. in July 2011, and ""2006 IPCC Guidelines for National Greenhouse Gas Inventories"". In addition, if there is emission coefficient research for specific local GHG emission estimation, we will apply local emission coefficient for calculation. Whole emission sources are separated into 7 sectors including energy sector, transportation sector, residential/commercial sector, industrial sector, waste sector, agriculture sector, and forestry sector. We collected data of energy and fuel consumption from each sector's competent authorities, and calculated city GHG emission with recommended emission coefficients.",63251100,"Compared to 2011 (63,640,300 tonnes), greenhouse gas emission in 2012 (63,251,100 tonnes) is slightly lower. If we look back on emission data of last few years, the amount of GHG emission in Kaohsiung is slightly on a down trend. The main source of GHG emission in Kaohsiung is industry sector accounting for over 80% of total amount, which makes carbon reduction works even tougher in the city. However, implementing and cooperating with the regulations of GHG control rules published by central administrative authority, Kaohsiung believes that positive results will gradually reveal soon.","(22.629705, 120.343804)","(23.69781, 120.960515)"
+Comune di Ferrara,36286,Italy,Ferrara,,2014,2007,Other:,"The Baseline Emissions Inventory (BEI) was created according to the methodological instrument made available by Emilia-Romagna Region, with the technical-scientific support of the ARPA (Regional Agency for the Prevention and the Environment) within the Climate Plans regional work group, in which the Municipality of Ferrara participates. 
+The cognitive foundation for producing the inventory is represented by the regional inventory of greenhouse gas emissions, created by the Emilia-Romagna Region and ARPA Emilia-Romagna, according to the standard methods of estimation recognised on an international level (IPCC, CORINAIR). To construct this regional inventory, the INEMAR software was used (INventario EMissioni ARia: Air Emissions Inventory), which consists of an application system created to estimate the emissions of various pollutants, for various types of activity (e.g.: heating, traffic, agriculture and industry) and by type of fuel, according to the international classification adopted in the field of EMEP-CORINAIR inventories. Initially created by the Lombardy Region in collaboration with the Piedmont Region, INEMAR has been managed by ARPA Lombardy since 2003, and since 2006 it has been developed in the context of an inter-regional cooperation that still sees the participation of Lombardy, Piedmont, Veneto, Friuli Venezia Giulia, Emilia-Romagna, Apulia, Marche and the autonomous provinces of Trento and Bolzano.
+In a suitable manual, the Emilia-Romagna Region defined, in a shared manner with the regional local bodies, the methods for the processing and breakdown at the Municipal level of the data from the regional inventory of greenhouse gas emissions from 2007, a baseline reference year.
+At the Municipal level, the breakdown of emissions were then made available within a software developed by ARPA Emilia-Romagna and based on the Inventory tool LAKS, created and financed with the contribution of the financial tool LIFE of the European Community within the European Project LIFE+ ""LAKS ‐ Local Accountability for Kyoto Goals"". This software was made available to the local bodies of the Emilia-Romagna Region to draft their own Climate Plans and Sustainable Energy Action Plans (SEAP).
+As envisaged by the Intergovernmental Panel on Climate Change (IPCC) Guidelines, in order to calculate emissions, the “bottom‐up” method was used, based on the sector end-use of fuels. In those cases where it was not possible to obtain accurate data, particularly concerning territorial data, a ""top-down"" approach was used, resorting to statistical processing of data aggregated at a provincial level.
+The overall picture of emissions of the Terre Estensi Association was built from the emissions inventory of the individual Municipalities of Ferrara, Masi Torello and Voghiera that constitute the Association, making the sum of the contributions of the three Municipalities. In line with the agreements within the Regional Work Group on Climate Plans, the year 2007 was chosen as a baseline reference year. The classification of the sources was created in accordance with the Cartesio Guidelines, which correspond with the ICLEI Protocol and ISO 14064. Emissions were subdivided by sector (e.g.: consumption and emissions of residential buildings, transports, waste, etc.), in accordance with the categories established by the Cartesio Guidelines and eventually adapted to the specific characteristics of the territory. Overall emissions of the territory were calculated based on estimates created by ARPA Emilia-Romagna as a breakdown of the Regional Inventory INEMAR. The territorial perimeter considered for the emissions inventory of the Terre Estensi Association was made of the sum of the territories of the three member Municipalities and thus referred to the Municipal administrative confines, considering all emissions within the geopolitical confines of the area in which each of the three Municipalities has jurisdiction. Even if the local administration can only have limited influence on certain types of activities, the analysis considers all activities that can influence greenhouse gas emissions in one territory. In line with European and regional methodological indications, excluded from the analysis are all systems included within the ETS (Emission Trade System), the exchange system of active emission quotas at the European level. In turn, direct and indirect emissions are subdivided in the main sectors responsible for energy consumption and thus for generating greenhouse gases. The Sectors considered for indirect emissions concern Residential and Service Sector, Industry (non-ETS), Transport, Waste, Agriculture, Local energy production, Other sources",1582605.13,,"(44.8357395, 11.6189949)","(41.87194, 12.56738)"
+New York City,3417,USA,New York,C40,2014,2011,Other:,"ConEdison (ConEd) provided data on use of citywide electricity
+and steam, and natural gas in the Bronx, Manhattan, and parts of
+Queens. National Grid reported natural gas use data for Brooklyn,
+parts of Queens, and Staten Island. The Long Island Power Author-
+ity (LIPA) reported electricity use data for the Rockaways area of
+Queens. Fuel oil use was provided by private fuel oil suppliers, per
+Local Law 43 of 2013, which requires fuel oil providers to report
+fuel oil deliveries by fuel type to the City on an annual basis. The
+New York Metropolitan Transportation Council (NYMTC) provided
+on-road transportation vehicle-miles-traveled (VMT) data. Energy
+use data for public transit were provided by the Metropolitan
+Transportation Authority (MTA) for New York City Transit (NYCT)
+subways and buses, Staten Island Railway (SIR), MTA Metro-North
+Rail Road (MNR) and Long Island Railroad (LIRR) commuter rail,
+and MTA Bus Company buses; by the Port Authority of New York
+and New Jersey (PANYNJ) for Trans-Hudson (PATH) commuter rail;
+and New Jersey Transit (NJT) for its commuter rail and buses.
+Data used to calculate fugitive and process CH4 and process N2O
+from wastewater treatment were provided by DEP. CH4 emissions
+were calculated based on the destruction of volatile material in
+anaerobic digesters. Based on the measured concentration and
+flow of volatile organic solids, it is estimated that 15 cubic feet of
+digester gas is produced for every pound of volatile organic solids
+destroyed. N2O emissions were calculated by applying the daily
+nitrogen load discharged by each of the City’s 14 wastewater
+treatment plant to the formula in the LGOP.
+
+Fugitive CH4 from in-city landfills was calculated from landfill gas
+collection data provided by the New York City Department of Sani-
+tation (DSNY) and DEP per the LGOP. Fugitive CH4 from exported
+solid waste was calculated using waste disposal figures for resi-
+dential, commercial, and construction and demolition waste and
+applying emissions factors from the USCP, which were taken from
+EPA’s Waste Reduction Model (WARM). Fugitive CH4 from natural
+gas distribution was calculated using data provided by National
+Grid and ConEd. Fugitive SF6 from electricity distribution was cal-
+culated using data provided by ConEd. 
+
+All DSNY-managed municipal solid waste (residential and some
+institutional solid waste) generated in New York City is exported to 
+landfills by private contractor and waste-to-energy facilities by
+DSNY. Fuel consumed by trains and trucks exporting solid waste
+out of the city is calculated using data provided by DSNY detailing
+the mass of waste transported, mode of transport, and distance
+to each disposal facility. Fuel use was calculated by estimating
+how many trucks and trains are needed to transport the waste,
+and applying average fuel economy figures to the weighted aver-
+age distance to receiving landfills.
+
+Scope 3 aviation emissions were calculated using fuel use data
+from the PANYNJ. Emissions coefficients in the LGOP were applied
+to the total volume of jet fuel and aviation gasoline loaded onto
+airplanes at LaGuardia and John F. Kennedy airports, as modeled
+by PANYNJ using the numbers of passengers departing from each
+airport during the year of analysis.
+
+GHG emissions were calculated from all data acquired as
+described using emissions coefficients in the LGOP, unless other-
+wise noted. Fuel economy factors for on-road vehicles were cal-
+culated as described in the Updates and Revisions section of the
+Appendices. All emissions coefficients and fuel economy figures
+are reported in Appendix C.",45923778,"Citywide emissions changes from 2005 to 2012:
+• Citywide emissions were 19 percent lower in 2012 than 2005,
+almost two-thirds to the PlaNYC goal of a 30 percent reduction by 2030 (See Fig. 3)
+• Reduced carbon intensity of the city’s electricity supply was
+the largest driver of GHG emissions reduction, reducing GHG
+emissions by more than 6.6 million metric tons (or 11 percent)
+• Local economy, population, and building square footage have
+grown while total energy consumption has decreased slightly
+• New Yorkers reduced electricity and heating fuels use per unit
+of building floor area, and reduced per capita vehicle use and
+solid waste generation
+• Fugitive sulfur hexafluoride (SF6) emissions from electricity
+distribution decreased significantly","(40.7127837, -74.0059413)","(37.09024, -95.712891)"
+Prefeitura do Rio de Janeiro,31176,Brazil,Rio de Janeiro,C40,2014,2012,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"We have also used a methodology developed by Centro Clima/ COPPE/UFRJ, which builds upon the guidelines from the IPCC-2006 Guide, and also considers the adaptations already incorporated in the protocols for Brazilian national communications to the UN framework on Climate Change, 2004 and 2010. The publication is called ""Comunicação Nacional Inicial do Brasil à Convenção-Quadro das Nações Unidas sobre Mudanças no Clima"", Ministério da Ciência e Tecnologia, Brasília. 
+
+In relation to the tiers utilized, those were dependant on the availability of data for each source of emissions. The same applies to emissions factors that, as much as possible, were obtained locally. In their absence, the priority for utilization of this information followed this hierarchical criteria:
+a) national values, as provided by the national communications of Brazil;
+b) values acquired through the specialized literature in Brazil;
+c) default values as provided by the IPCC-2006. 
+
+We measured the values of carbon dioxide, methane and nitrous oxide in the city for 2012. 
+
+Global Warming Potential was based on the values established on the fourth IPCC (AR-4) in 2007: 21 for CH4 and 310 for N20.",20758240,"The emissions have increased for the following reasons:
+- growth in GDP and increased economic activity in the city due to the proximity to the World Cup in 2014 and Olympic Games in 2016.
+- the city is undergoing major infrastructural changes, with heavy investments in transportation and urban remodelling, which increases the number of public works;
+- increase in the usage of thermal energy due to federal policy;
+- increase in the consumption of gasoline, due to a) federal direct tax subsidies to petrol, b) federal tax exemptions for the purchase of new automobiles and c) elevation of income in Rio
+- increase in car fleet
+- crisis in the production of ethanol nationwide, leading to the consumption of more gasoline.
+- establishment of Thyssenkrup CSA , an industrial plant that produces iron ore, and which is not yet working at its full potential (that will happen in 2016). It is one of the most modern plants in the world and with lowest carbon impact in the steel sector. It produces its own electricity and sells the excess to the grid.  
+In 2012 TKCSA produced 8.8Mt CO2 of gross GHG emissions (scope 1), whereas net emissions (difference between net and avoided emissions) were estimated in 6.3 million of metric tonnes of CO2, which produced 3.5 million metric tonnes of iron ore, according to CSA reports. TKCSA represented 80% of increases in city emissions from 2005 levels.
+- Additionally, Rio has one of lowest emissions rate per capita among large metropolises in the world (3,5 tons per capita).","(-22.9054389, -43.5614471)","(-14.235004, -51.92528)"
+Seoul Metropolitan Government,31187,South Korea,Seoul,C40,2014,2011,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"1) Additional Protocols: 
+- Guidelines For Local Government Greenhouse Gas Inventories.,  Korea Environment Corporation, 2010
+- ISO 14064-1 (Specification with guidance at the organizational level for quantification and reporting of greenhouse gas emissions and removals)
+
+2) Calculation: 
+Considering 2006 IPCC G/L as standard methodology, Seoul has applied domestic activity and basic Emission Factors of the guideline for calculation as well as basic city data (energy consumption, waste, etc.). Emissions of 6 major greenhouse gases (CO2, CH4, N2O, HFCs, PFCs, SF6) stated in the Kyoto Protocol were calculated and Seoul applied Global Warming Potentials (GWPs) from the second Assessment Report from the IPCC. 
+
+3) Classification of emission source: 
+In large, the classification is based on the 2006 IPCC G/L classification system but the categories were integrated or specified according to the characteristics of the city of Seoul. Based on the range of Seoul's authority, emission sources were classified into Scope 1 (Direct emission) and Scope 2 (Indirect emission), in accordance with the local GHG calculation guidelines.  
+
+4) Measurement: 
+Activities are collected from the official statistics of the national government and are used as activity for calculation of greenhouse gas emissions by sector. Official statistics provided by the national government are released every year and include oil statistics, electricity statistics, and chronology regional energy statistics. Emission calculations such as Emission Factor, are mainly based on the IPCC Guideline.
+(Example: Emissions from energy sector = Fuel consumption (TJ) × Fuel emission factor (kgGHG/TJ)",49008230,"GHG emission quantity in energy industry was reduced by 1,440tCO2eq year on year, especially contributed by the reduction in indirect emission in electricity.","(37.566535, 126.9779692)","(35.907757, 127.766922)"
+Jakarta City Government,31166,Indonesia,Jakarta,C40,2014,2005,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"Identify GHG emissions from potential sector, such energy using, transportation, solid waste, waste water, and industrial.
+Inventory GHG emissions and transportation as potential source.
+Identify mitigaton action through define criteria and scoring
+
+
+Method of calculation:Emission / absorption of GHG = AD x EF
+
+AD: The data generated from the construction activities and human activities
+EF: The amount of emissions per uptake per unit",43860000,"- Commitment to Reduce the Greenhouse Gas Emissions 
+
+- Jakarta’s commitment to reduce greenhouse gas     emissions, the target to cut emissions by 30% by 2030  will be applied. The greenhouse gas emisions target is based upon the base line of emision in 2005, which was 34,67 million tons of CO2e and the emisions projection for 2030 (if we were continue with “BAU=Business As Usual”) of 117.45 million tons of CO2e.  
+
+Based on this prediction, the 30% reduction would need to be   approximately 35,24 million tons of CO2e / year. To support the reduction commitment, the following  mitigation strategies will be applied:
+
+Implement energy savings and increase the utilization of environmentally-friendly alternative energy. 
+
+Improve emissions control of moving and unmoving sources","(-6.2087634, 106.845599)","(-0.789275, 113.921327)"
+Village of Kadiovacik,35755,Turkey,Kadiovacik,,2014,2013,2006 IPCC Guidelines for National Greenhouse Gas Inventories,The worksheets (calculation tools) of green house gas protocol are used to calculate CO2 emission.,467.45,"Photovoltaic panels
+LED bulbs
+decrease in fuel usage","(38.3434574, 26.553613)","(38.963745, 35.243322)"
+Municipality of Recife,35872,Brazil,Recife,,2014,2012,International Emissions Analysis Protocol (ICLEI),"In the first Inventory of GHG Emissions of Recife emissions of carbon dioxide ( CO2 ) , nitrous oxide ( N2O ) and methane ( CH4 ) , issued within the limits of the municipality during the year 2012 were recorded . The greenhouse gas emissions was performed for each type of GHG and converted paw tons of CO2 equivalent ( CO2e ) according to the global warming potentials below:
+• Carbon dioxide ( CO2 ) = 1 CO2e ;
+• Methane ( CH4) CO2 e = 21 ;
+• Nitrous oxide ( N2O ) = 310 CO2e .
+The methodological approach used in the collection and storage of data was based on the International Protocol for Analysis of Emissions ( EIPA ) . The EIPA Protocol was launched in 2009 by ICLEI in order to promote a specific analysis methodology for local governments , detailing emissions at two levels : government and community.
+For purposes Rapporteur , the First Emission Inventory of Greenhouse Effect is according to Global Protocol for Communities ( GPC ) , thus the results presented in this paper goes against this global initiative , providing the opportunity for methodological harmonization with other cities around the world .",1883,This is our first inventory.,"(8.3127386, -62.7284414)","(-14.235004, -51.92528)"
+Comune di Napoli,36158,Italy,Naples,,2014,2005,Other:,,2913435,,"(40.8419943, 14.2513831)","(41.87194, 12.56738)"
+Mexico City,31172,Mexico,Mexico City,C40,2014,2012,"Other: Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) pilot Version 1.0 (C40 and ICLEI), IPCC Guidelines for National Greenhouse Gas Inventories published in 2006 and IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories, published in 2000.","Quality Assurance/Quality Control. Activities include calculations revision, data management, verification procedures and uncertainties calculation.",24551216,"Emissions from transportation sector are 8% lower due to a reduction of vehicles in the fleet.
+
+The data base for industrial facilities was updated.","(19.4326077, -99.133208)","(23.634501, -102.552784)"
+Comune di Bologna,36274,Italy,Bologna,,2014,2009,2006 IPCC Guidelines for National Greenhouse Gas Inventories,Sustainable Energy Action Plan Guide Line,2270524.7,"Main cause is the economic crisis, secondary are actued mitigation actions","(44.4856087, 11.3547975)","(41.87194, 12.56738)"
+City of Miami,35870,USA,Miami,,2014,2006,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"For community data, City specific data was used where available, such as utility provided records. If City specific data was not available, relevant values were extrapolated by population ratios from County or State data.",4762364.27,,"(25.7890972, -80.2040435)","(37.09024, -95.712891)"
+City of Burlington,2430,USA,Burlington,,2014,2010,Other: US Community Protocol for Accounting and Reporting,"The City of Burlington collects emissions data in an Excel-based GHG Inventory Modeling Workbook developed and populated with the help of an environmental consultant.  Electricity data comes from the Burlington Electric Department. Natural gas data is provided by Vermont Gas. To generate transportation data, staff input miles per functional class and average annual daily traffic into CACP Transport Assistant Tool to obtain vehicle miles traveled by functional class and total emissions. The calculation of the community solid waste adds the total CSWD municipal solid waste and construction and demolition debris, then multiplied it by the Burlington population over the CSWD population.",287535.99,No additional inventory analysis has been completed since last reporting period.,"(44.4758825, -73.212072)","(37.09024, -95.712891)"
+Municipality of Curitiba,31156,Brazil,Curitiba,C40,2014,2008,2006 IPCC Guidelines for National Greenhouse Gas Inventories,,3028301,,"(8.309021, -62.7288829)","(-14.235004, -51.92528)"
+Comune di Piacenza,36495,Italy,Piacenza,,2014,1990,Other: Sustainable Energy Action Plan,"The SEAP consists of two parts:
+
+1. The emissions inventory base (EIB), which provides information about the energy consumption of the township, on current and future CO2 emissions, calculated using the conversion factors listed in the guidelines of the European Commission, quantifies the amount of CO2 down, identify problems and opportunities for sustainable energy development of the territory and potential in relation to the exploitation of renewable energy sources.
+
+Year taken as reference for calculations is 1990, in which the total CO2 emissions in the municipality of Piacenza amounted to 615,452 tons.
+
+Following the guidelines of the EU total emissions have been separated the quantities resulting from industrial / commercial and the relative proportion of mobility on the same highway as Admiral. The Town Council has no direct powers. Therefore, emissions from sectors which Admiral. They can hack through their regulatory instruments / regulations and their initiatives / incentives (Municipality as Consumer, Construction and Urban Planning, Mobility and Transport, Agriculture and Forestry, Waste Management, Strategic Planning, Communication and Information) amounted to 284,462 tons., as the basis on which to calculate the amount to be cut down to move in 2020 to a value of at least 20% lower than in 1990.
+
+In 2020, CO2 emissions from the sectors mentioned above correspond without corrective action to 338,259 tons. The set of actions that will be put in place will generate savings of 111,926 tons to 226,333 tons, bringing this value. equal to the value of 1990 decreased by 20.4%. Also in the SEAP were also included actions whose effects can not be quantified in terms of numbers but will also contribute to the achievement / improvement of the result.
+
+2. The Action Plan (SEAP), which identifies a set of actions that the Administration intends to pursue in order to achieve the CO2 reduction defined in the EIB.
+
+The Action Plan is the instrument through which the municipality intends to achieve the goal of reduction of 111,926 tons. CO2 emissions in 2020.
+
+E 'was structured by defining n. 8 sectors of intervention for each specific actions are identified (n. 25) outlined in tabs that slope down detailed rules for implementation and the resources that the Town Council intends to put in place.",615452,,"(45.0519969, 9.6926451)","(41.87194, 12.56738)"
+Government of Hong Kong Special Administrative Region,31169,Hong Kong,Hong Kong,C40,2014,2010,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"The GHG inventory has been developed based on the relevant decisions of Conference of Parties of the UNFCCC and using internationally agreed and adopted methods, including the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories contain the latest calculation methodologies adopted internationally to compile complete, national inventories of greenhouse gases.",41500000,"Hong Kong's GHG emission recorded a small decrease of 1.9%, from 42.3 million tonnes CO2e in 2009 to 41.5 million tonnnes CO2e in 2010, mainly due to increase in the share of natural gas use for local electricity generation.","(22.2880809, 114.1398015)","(22.396428, 114.109497)"
+City of Copenhagen,31009,Denmark,Copenhagen,C40,2014,2012,Other: National Danish Carbon Emissions methodology for municipalities,"The methodology used provides an inventory of greenhouse gases at the municipality level, divided into sectors. The sectors are similar to those used for the official Danish emission inventory (IPCC sectors), and include; collective power and heating, Indivitual heating, Mobile sources, Tranportation and machinery, Incustrial processes, Solvents, Agriculture, Land use, and waste depositing and wastewater.
+
+Simplified generalizations of the equations used for emission calculations are used. These are based on the assumption that emissions of a given activity can be estimated using data descriptive for the size of the activity multiplied by an emission factor pr unit or activity. That is, the inventory is primarily based on scope-2 data on heat and power consumption and scope-1 data on road traffic.
+
+The method includes CO2-, CH4- and N2O-emission in the inventory.
+
+As for the national inventories the calculation is built into several levels (Tiers) with increased requirements for municipalities regarding data quality. Each municipality may use different tiers for different sectors depending on the data available.
+
+Tier 1 is mainly based on the Danish natinoal greenhouse gas inventory data using appropriate distributino keyw, in most cases the municipality's share of total population, for a given activity into municipality level.
+
+Tier 2 is more detailed and includes emission factors used in the Danish national greenhouse gas inventories, while municipalities use their own activity data.
+
+At Tier 3, which is the most detailes level; municipalities use municipality specific emission factors and activity data.",1958886,"The CO2-emissions from the City of Copenhagen in 2012 was 6% lower than the emissions in 2011. The reduction in the emissions is primarily caused by more wind power i the power production in Copenhagen and in Denmark in general. 
+
+For Denmark as a whole, one kilowatt-hour of electricity emitted an average of almost 16% less CO2 in 2012 than in 2011, and almost 34% less than in 2005. This drop is partly attributable to higher wind production as well as more use of biomass in combined heat and power production.
+
+There has also been a fall in electricity consumption in Copenhagen of about 2% compared with 2011.
+
+Finally, Carbon emissions from traffic have also dropped slightly compared with 2011.","(55.6760968, 12.5683371)","(56.26392, 9.501785)"
+Seixal,50667,Portugal,Seixal,,2014,2007,International Emissions Analysis Protocol (ICLEI),,415526,They decreased due to the implementation of the measures of the Action Plan for Sustainable Energy (PAES),"(-23.4266216, -46.5828767)","(39.399872, -8.224454)"
+City of St Louis,35393,USA,St. Louis,,2014,2010,International Emissions Analysis Protocol (ICLEI),"This inventory was conducted using processes developed by ICLEI for their Cities for Climate Protection Program.  ICLEI provided an Excel-based Master Data Workbook to aid with the data organization.  Data was then entered into ICLEI’s emissions-calculating software, Clean Air-Climate Protection (2009) version 3.0 (CACP).  CACP is the primary tool used by local governments in the United States to conduct greenhouse gas emissions inventories.  Prior to data entry into CACP, some coefficients must be manually entered.  This inventory used a list of published electricity emissions factors by EPA’s Emission and Generation Resource Integrated Database (eGRID) for region SERC Midwest for 2005, and the North American Electric Reliability Corporation (NERC) electricity factors for criteria air pollutants for 2005 for the region represented by map number 04.",7506359,,"(38.6270025, -90.1994042)","(37.09024, -95.712891)"
+Tokyo Metropolitan Government,31111,Japan,Tokyo,C40,2014,2011,Other: The Guidline set by Japanese Ministry of Environment,"Basically we follow a guideline set by the Ministry of Environment, which is called the ""Guideline for local governments about establishing local climate change action plans"". However, if there are new international or domestic methods which are more applicable, we use those methods too.
+
+-Targets of calculations are CO2, CH4, N2O, HFC, PFC, SF6 and NF3.
+-We calculate CO2 equivalent amount of emission for each gas by multiplying the amount of each emission by its global warming potential.
+-Emissions are calculated by economic sectors: Residential, Commercial, Industrial and Transportation.
+-Indirect CO2 emissions from consumption of purchased electricity are also included.
+-Concerning emissions from trains, ships, and airplanes, we calculate them within the geographic boundary of TMG conforming to the international rule.",64770000,"The deterioration of electricity emission factor.
+from 0.377 kg-CO2/kWh of FY 2010 to 0.461 kg-CO2/kWh of FY 2011 (approx. 28% worsened)","(35.6896342, 139.6921007)","(36.204824, 138.252924)"
+Prefeitura de São Paulo,31184,Brazil,São Paulo,C40,2014,2003,2006 IPCC Guidelines for National Greenhouse Gas Inventories,,15115000,,"(-23.5505199, -46.6333094)","(-14.235004, -51.92528)"
+Municipality of Belo Horizonte,35848,Brazil,Belo Horizonte,,2014,2014,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"In this inventory are presented the following issues:
+
+1) Emissions from Stationary Sector Units, which are sub-sectored emissions in residential, commercial / institutional, industrial and power generation, essentially related to energy consumption profile in each building;
+
+2) Emissions Sector Mobile Units, which are sub-sectored in emissions by road transport, rail and air, reflecting the energy matrix of the transport system deployed in the city;
+
+3) Emissions from Waste Sector, which are sub-sectored in emissions by waste disposal in landfill, biological treatment and waste treatment / disposal of effluents.
+
+GHG emissions by fuel consumption
+Different concentrations of biofuels (ethanol and biodiesel) were established by the national authority for the distribution of Automotive Gasoline and Diesel. These concentrations were considered in the calculations and applied to the total of each fuel checked for the municipality, according to regulatory developments in the industry.
+GHG emissions for electricity consumption
+The indirect CO2 emissions per electricity consumption were calculated taking into account the average emission factor of the National Interconnected System in each year of the period considered. 
+GHG emissions per treatment and release of liquid effluents
+Belo Horizonte has 4 sewage treatment plants (STP) in operation, which are emitting methane and nitrous oxide: Arrudas STP, located in Sabará / MG which receiving wastewater of Belo Horizonte and Contagem / MG; Onça STP located in Belo Horizonte and also receives a fraction of sewage Contagem / MG; Olhos D'Água STP and Minas Solidária STP, located in Belo Horizonte and receive exclusive city sewers. There are a fifth STP, ETAF Sarandi/Ressaca that employs physicolchemical processes that do not emit greenhouse gases.
+Moreover, a fraction of sewage collected in Belo Horizonte is not forwarded to any treatment plant, being deposited directly into the water body; another fraction of wastewater, which is not collected, it is presumably treated in septic systems (septic tanks), followed by infiltration.
+Only a fraction derived of Belo Horizonte was considered in all STP which emit methane and nitrous oxide:
+Arrudas STP
+The Arrudas STP employs an activated sludge system for wastewater treatment, which is an aerobic system generates a high volume of biological sludge. This biological sludge is taken to stabilization in anaerobic reactors equipped with flow meters and methane content of biogas. There are too a firing device for biogás treatment.
+Onça STP, Olhos D’Água STP e Minas Solidária STP
+These stations employ wastewater treatment UASB reactors for wastewater treatment, which is a system emitting methane and nitrous oxide. These STP not have flow meters and methane content of the biogas. 
+Autodepuration of Sewage in water bodies
+A portion of the sewage collected by the local utility is disposal without any treatment in any water bodies, and emits methane.
+Sewage Treatment Not Collected
+The amount of sewage that is collected by the local utility can be arranged in various ways.
+GHG emissions by treating municipal solid waste
+Landfill
+The solids waste generated in Belo Horizonte are taken for disposal in landfill in the municipality of Santa Luzia / MG (CTR Macaúbas), where there is no biogas recovery system. It was assumed, as a measure of conservatism, that 100% of the biogas generated in massive municipal solid waste is released into the atmosphere.
+A fraction of the waste collected in the city is still willing to massive treatment center CTR-BR-040 in Belo Horizonte, in a separate area where, from 2010, began a system of thermoelectric generation from biogas generated at the landfill. Thus, biogas derived from the ancient massive waste should not be considered in the GHG inventory from 2010. Is it considered only the fraction derived from the provisions in recent separate area and not covered by biogas recovery system.
+It is worth mentioning that according to this model first-order decay, GHG emissions due to waste disposal in landfill in a given year will be distributed in the following years, generating a passive emission, in decreasing order. For purposes of this inventory, we adopted a period of 10 (ten) years as horizon degradation of waste within the massif.
+Composting
+BH also conducts composting for organic waste. These activities take place in the CTRS Rod BR-040 and may incur nitrous oxide and methane. 
+The calculations and formules can be seen on the attached doc.",2878873,"increase of medium income and, basically, number of cars increase","(38.5198325, -8.8695345)","(-14.235004, -51.92528)"
+City of Cleveland,35859,USA,Cleveland,,2014,2010,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),"This inventory was assembled through the collection and analysis of data with City of Cleveland staff as well as other city stakeholders such as utilities, regional coordinating agencies, local organizations and large emitters. Associated GHG emissions for all activities were calculated using an approach consistent with the International Council for Local Environmental Initiatives (ICLEI) - U.S. Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI) as the main guiding document, with methodologies from The Climate Registry (TCR), the World Resources Institute (WRI), the Intergovernmental Panel on Climate Change (IPCC), and the U.S. Environmental Protection Agency (EPA) also referenced. 
+
+Tools - Inventory Management System:
+Most of the calculations used to develop this inventory were carried out in an Information Management System (IMS), a Microsoft Excel-based spreadsheet that collects into one tool the original data, methodology applied, emission factors selected and a summary of GHG emission results. The IMS also provides charting, forecasting and benchmarking capabilities
+
+Additional Notes:
+
+> Scope 1 emissions includes stationary combustion and industrial process related emissions reported by some of the large emitters in the city. Direct fuel consumed numbers are not available for these emitters.
+> Emissions associated with electricity generation plants is included under Scope 2 as indirect  emissions, except electricity consumed numbers reported from Rail transit under Scope 1 emissions.
+ > Only fuels consumed that were inventoried under Scope 1 emissions have been reported in C1.7",11889595,2010 Baseline Inventory that’s being reported is our 1st comprehensive GHG inventory.,"(41.49932, -81.6943605)","(37.09024, -95.712891)"
+Comune di Oristano,36252,Italy,Oristano,,2014,2005,2006 IPCC Guidelines for National Greenhouse Gas Inventories,We collect data from local energy provider and then we calculate GHG according to AEEG (autority for electric energy and gas) and IPCC conversion factors.,154534,,"(39.9094132, 8.588777)","(41.87194, 12.56738)"
+Ville de Montreal,35894,Canada,Montreal,,2014,2009,"Other: 2006 IPCC Guidelines for National Greenhouse Gas Inventories AND Guide d'inventaire des émissions de gaz à effet de serre d'un organisme municipal (MDDEP, 2009)","Consumption data, for electrical and natural gas energy sources, were provided by the source suppliers (Hydro-Québec and Gaz Métro, respectively) for residential, commercial, institutional and industrial sectors. 
+
+Oil and wood consumption values for residential, commercial, and institutional sectors were estimated using available provincial data.
+
+Industrial GHG emissions data relating to energy sources other than electricity and natural gas, as well as emissions stemming from industrial processes, were available from Montreal’s Division du contrôle des rejets industriels, which has compiled these data for more than 20 years. 
+
+Montreal’s transportation related GHG emissions were extracted from the provincial GHG inventory.  These were calculated, for each type of emitter, according to the proportion of provincial licence plates registered within the agglomeration’s political boundaries.  
+
+Landfill emissions were quantified using LandGEM (Landfill Gas Emissions Model), an established quantification tool developed by the USEPA.",13722942,We have not produced a new inventory.,"(45.5086699, -73.5539925)","(56.130366, -106.346771)"
+Prefeitura de Florianópolis,50384,Brazil,Florianópolis,,2014,2004,Other: vários,várias fontes bibliográficas,441664,,"(-27.5949884, -48.5481743)","(-14.235004, -51.92528)"
+City of Porto,46514,Portugal,Porto,,2014,2004,Other: Methodology developed for the specific purpose and context,The GHG emissions inventory was developed through the energy supply and demand data by the Portuguese Directorate-General for Energy and Geology (www.dgeg.pt) and the National Statistics Institute (www.ine.pt). The Transports sector was estimated through a separate and specific mobility needs model.,1300000,"Porto Energy Agency has already calculated GHG emissions for 2004 and 2009. The 2004 GHG emissions were the basis for the Sustainable Action Plan development. As this is the first report, 2004 GHG emissions and related SEAP policies were submitted. The 2009 GHG emissions point to a decrease in the emissions mainly because of the decrease in the demand of fossil fuels (in mobility due to the Metro expansion) and “greener” national grid electricity.","(41.1579438, -8.6291053)","(39.399872, -8.224454)"
+City of Los Angeles,10894,USA,Los Angeles,C40,2014,2010,Other: ICF METHODOLOGY,"Numerous widely accepted protocols for estimating GHG emissions were used to prepare the
+Regional Inventory. The protocols used in the development of this inventory include those following
+(listed in order of applicability for the inventory):
+ CARB LGOP (California Air Resources Board et al. 2010). This protocol is the standard for
+estimating emissions resulting from government buildings and facilities, government fleet
+vehicles, wastewater treatment and potable water treatment facilities, landfill and composting
+facilities, and other operations.
+ The Climate Registry General Reporting Protocol (The Climate Registry 2009a). This
+protocol provides guidance for preparing GHG inventories in California.
+ IPCC Guidelines for National Greenhouse Gas Inventories (Intergovernmental Panel on
+Climate Change 2006). This document is the international standard for inventories and provides
+much of the baseline methodology used in the national and statewide emissions inventories.
+ CARB California Greenhouse Gas Inventory Data 1990–2006 (California Air Resources
+Board 2010). CARB’s documentation provides background methodology, activity data, protocols,
+and calculations used for California’s statewide inventory.
+ CEC Inventory of California Greenhouse Gas Emissions and Sinks: 1990 to 2004 (California
+Energy Commission 2006). This inventory provides useful methodology and emission factors for
+statewide GHG emissions inventorying.
+ EPA Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990–2008 (U.S.
+Environmental Protection Agency 2011). This inventory provides useful methodology and
+emission factors for nationwide GHG emissions inventorying.
+The LGOP employs the convention of categorizing local government emission sources as Scope 1
+(direct), Scope 2 (indirect), and Scope 3 (other indirect). Although the LGOP is geared towards
+municipal inventories, these same scope definitions apply to community inventories. The LGOP
+defines these emissions as follows (California Air Resources Board et al. 2010).
+ Scope 1: All direct GHG emissions (with the exception of direct CO2 emissions from biogenic
+sources);
+ Scope 2: Indirect GHG emissions associated with the consumption of purchased or acquired
+electricity, steam, heating, or cooling; and
+ Scope 3: All other indirect emissions not covered in Scope 2 that are not under the control or
+influence of the local government (or a community), such as the emissions resulting from the
+extraction and production of purchased materials and fuels, and transport‐related activities in
+vehicles not owned or controlled by the reporting entity.
+Scope 1 and 2 emissions were quantified and included in the Regional Inventory. For example, direct
+building energy emissions associated with on‐site natural gas use are included in Scope 1 because
+these emissions occur within each city and are subject to each respective city’s influence or control.",38717974,"Emissions have increased overall since the last inventory in 2004. This is due to increased energy usage in residential buildings, more vehicles and increased vehicle miles traveled. The down economy contributed to greater miles traveled for individuals searching for employment, increased electricity usage at home as more individuals found themselves at home without employment.  Yet, as the economy began to strengthen, more individuals found themselves able to drive more to avoid the airline prices when taking smaller trips.","(34.0522342, -118.2436849)","(37.09024, -95.712891)"
+Alcaldía Metropolitana de Caracas,31159,Venezuela,Caracas,C40,2014,2013,2006 IPCC Guidelines for National Greenhouse Gas Inventories,We used only one methodology: the 2006 IPCC Guidelines for National Greenhouse Gas Inventory. Data was collected or estimated from official sources.,17424651,"Emissions have increased mainly due to the increase in fuel consumption for transport, and the increase in electricity consumption and waste generation due to population growth.","(10.4696404, -66.8037185)","(6.42375, -66.58973)"
+City of Baltimore,35853,USA,Baltimore,,2014,2010,Other: Greenhouse Gas Emissions (ICLEI),"ICLEI’s methodology provides a systematic framework for local governments to track energy- and waste-related activities in the community, and to calculate the amounts of greenhouse gases produced by each activity and sector. The inventory methodology involves two sections: a community-wide assessment and a separate inventory of government operations.
+
+Once completed, these inventories provide the basis for an emission forecast, and allow for the quantification of emission reductions associated with proposed measures.
+
+Baltimore City’s Greenhouse Gas Emissions Inventory consists of two essentially distinct inventories: one for the Baltimore City community as a whole, defined by geographic borders, and one highlighting emissions resulting from the City of Baltimore’s Government operations and buildings owned. The Government Inventory is a subset of the Community Inventory (emissions from the municipal operations are embedded in the community inventory). Distinguishing the City Governmental emissions in this way allows the City, which formally committed to reducing emissions, to lead by example in tracking its own facilities and vehicles while evaluating the effectiveness of its emission reduction efforts.
+
+Compiling Baltimore City’s emissions inventory required the collection of information from a variety of sources. The data represents 2010 energy usage, except where notes indicate data gaps that necessitated use of older records.
+
+For our scope, all emissions associated with energy consumed in Baltimore City are included, regardless of the location of the original energy source. This means that, even though the electricity used by Baltimore residents is produced in a plant outside of Baltimore City’s geographical borders, this energy and the emissions associated with it appear in Baltimore City’s inventory. The decision to capture emissions in this way reflects the general philosophy that a community should take full responsibility for the impacts associated with its energy consumption, regardless of where the energy generation occurs.",7579144,,"(39.2903848, -76.6121893)","(37.09024, -95.712891)"
+Comune di Torino,35886,Italy,Turin,,2014,2005,"Other: The city of Turin used, for its emission inventory, the methodology suggested by JRC (""How to develope a sustainable energy action plan"") for the Covenant of Mayors initiative.","The methodology consists in the collection of data about yearly energy consumption (MWh/year) from different sources (electricity, natural gas, diesel, liquid gas, biomass, pv, solar thermal, wind…). Following methodology of covenant of mayors , by considering different emission coefficients (Ton CO2/MWh) for all different suorces – is possible to obtain the total CO2 emission (Ton/year).",5065364,Our inventory was not updated since last year.,"(45.1006374, 7.6680046)","(41.87194, 12.56738)"
+Vila Nova De Gaia,50675,Portugal,Vila Nova De Gaia,,2014,2009,Other:,"Os dados utilizados foram recolhidos no Instituto Nacional de Estatísticas  e na Direção Geral de Energia e Geologia.
+www.DGEG.pt
+www.ine.pt",,,"(41.1238759, -8.6117851)","(39.399872, -8.224454)"
+City of Durban,35863,South Africa,Durban,,2014,2012,Other: International Local Government GHG Emissions Analysis Protocol Version 1.0; and Local Government Operations Protocol for the Quantification and Reporting of Greenhouse Gas Emissions Inventories Version 1.1,The protocols used were designed to provide standardized set of guidelines to assist local governments in quantifying and reporting GHG emissions associated with their government and community operations. Both protocols are based upon the Corporate GHG Protocol developed by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) as well as technical guidance provided by the United Nations Intergovernmental Panel on Climate Change (IPCC).,23154180,Primarily due to better data collection and addressing data gaps.,"(-29.8586804, 31.0218404)","(-30.559482, 22.937506)"
+Bornova Municipality,44132,Turkey,Bornova,,2014,2011,Other: IPCC,,758627,,"(35.2141598, 33.2947541)","(38.963745, 35.243322)"
+Cascais,50680,Portugal,Cascais,,2014,2010,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"this was made with calculous platforms from international organizations such as UN (IPCC, and ICLEI) as well as EU comission",565382,,"(38.6970565, -9.4222945)","(39.399872, -8.224454)"
+Singapore Government,35993,Singapore,Singapore,C40,2014,2012,Other: Revised 1996 IPCC Guidelines,"Singapore’s GHG inventory is computed using the IPCC sectoral approach. This approach sums up GHG emissions from the different sectors of the economy - power generation, industry, buildings, transport, households. As a city-state, there is no distinction between local government and municipal emissions inventory. Our national inventory is reported to the UNFCCC in line with the IPCC guidelines, which entails Scope 1 emissions. (Scope 1 emissions are direct GHG emissions from sources that are owned or controlled by the entity. Scope 1 can include emissions from fossil fuels burned on site, emissions from entity-owned or entity-leased vehicles, and other direct sources).",41500000,,"(51.9055346, 4.4742753)","(1.352083, 103.819836)"
+City of San Francisco,31182,USA,San Francisco,C40,2014,2012,International Emissions Analysis Protocol (ICLEI),"The methodology for each type of emissions is explained below:
+
+Residential/Commercial/Industrial/Direct Access Electricity: 
+The majority of electricity used by the Residential, Commercial and Industrial sectors of San Francisco is purchased from PG&E. Exceptions to this are power to municipal operations, which is provided by the San Francisco Public Utility Commission (detailed in the Municipal Inventory guidance), and the remaining Direct Access power customers.
+
+Data is provided by PG&E and the SFPUC. Emissions from electricity are calculated by applying each electricity source’s unique carbon profile to the total MWh’s consumed by each supplier’s customers.
+
+Residential/Commercial/Industrial and Municipal Natural Gas: 
+The residential, commercial, industrial, and municipal sectors of San Francisco purchase their natural gas from PG&E. Data is provided by both PG&E and the SFPUC. The California Climate Action Registry stationary combustion natural gas emissions factor is applied to the activity data to determine tons of GHGs. The emission factor for natural gas is based on combustion only and does not include upstream methane leakage from extraction and distribution of natural gas.
+
+Municipal Electricity (including MUNI fleet electricity): 
+Electricity usage data for municipal operations is obtained from the SFPUC. The electricity EF is provided by the SFPUC and applied to the usage data to determine the CO2 emissions.
+
+Intra-regional & SF Road Vehicles: 
+All vehicle related VMT have been consolidated into one report.  SFCTA provides modeled VMT data from their SFCHAMP model that includes all trips made by passenger vehicles and trucks within San Francisco and assigns half of the VMT associated with trips into or outside of SF.  The other half is attributed to the source or destination city per MTC guidance.  Pass-thru VMT are excluded from the total.  This methodology follows MTC guidance.  Daily VMT are multiplied by 330 to account for total weighted annual VMT where weekend demand is less than weekday. The 2010 CHAMP model did not include emissions from buses or freight. 
+CO2e emissions are provided by the Bay Air Area Quality Management District using the Air Resource Board’s EMFAC model database.  The emission factor varies by year based on fleet composition used in the model from the DMV and modeling assumptions.
+
+The emission factors vary by year and were supplied by the Bay Air Area Quality Management District. They were derived using EMFAC.
+
+Rail – Caltrain Diesel Fuel: 
+Estimates on total system fuel usage are obtained as well as passenger data, specifically total ridership and number of de-boardings in San Francisco. The percentage of trips de-boarding in San Francisco is share of trips attributable to San Francisco. This percentage is then applied to the total fuel usage, and that amount of fuel is multiplied by the California Climate Action Registry CO2 factor for diesel from mobile sources to determine emissions.
+ 
+Rail – BART Electricity: 
+In order to estimate emissions from BART attributable to San Francisco market area, data and total system power consumption was obtained from BART staff. Transbay and Westbay ridership was considered attributable to San Francisco and was divided by total ridership to determine a market share % for San Francisco. This market share % was than multiplied by total system power usage to determine the San Francisco share of power usage. The total system power data is based on electric propulsion data from: http://www.ntdprogram.gov/ntdprogram/data.htm. Emissions factor data is available from PG&E and is commonly published in internal/external reports on energy or GHG emissions.
+  
+Ferry – Diesel Fuel: 
+Ferry data is an estimation of emissions from all Bay Area leisure and commuter ferries. Starting in 2009, the data for all 3 agencies included in SF’s inventory (City of Alameda, City of Vallejo, and Golden Gate Bridge, Highway, and Transportation District) is reported at: http://www.ntdprogram.gov/ntdprogram/data.htm.  Mode type is ‘FB’.
+
+MUNI – Diesel Fuel:
+Estimates of diesel fuel used by the SF Municipal Transportation Authority (SFMTA) revenue fleet (buses) were obtained from the SFMTA. The biodiesel content was separated out and only the diesel portion was included in the inventory for diesel emissions calculations. 
+
+Emissions were calculated per Equation TR.4.A.2. Carbon Dioxide Emissions from Mobile Combustion of the U.S. Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions, Version 1.0, October 2012. 
+
+The Emission Factor used was from the California Climate Action Registry General Reporting Protocol Version 3.1, January 2009.",4884340,"While there were decreased emissions from natural gas, municipal electricity, waste and municipal transportation bus diesel use, there were increased emissions from residential and commercial electricity use.
+
+Updated information for community vehicle miles travelled (VMT) and the Caltrain and Ferry systems were not available as of the date of this submission so no comparisons can be made for those sectors at this time.","(37.7749295, -122.4194155)","(37.09024, -95.712891)"
+City of Boston,35268,USA,Boston,C40,2014,2011,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"For its inventory, the City of Boston relies on a mix of actual measurements and modeled calculations. Actual measurements are available for electricity, natural gas, and steam (obtained directly from energy utilities), and all sources related to mass transit and water and sewer (obtained from the regional authorities). Regional transportation models are used to calculate vehicle-miles-traveled in Boston, which are then converted to GHGs based on average fleet mileage. Fuel oil consumption is estimated based on sampling, census data, and some state consumption figures.
+
+For its 2012 inventory, now in preparation, the City of Boston is taking advantage of some additional data sets to refine and adjust its modeled calculations. This modified methodology will then be used to revise its inventories for 2011 and earlier.",6766714,"The major factor in emission reduction is fuel switching, primarily from oil to natural gas. This has occurred at the generation scale (in electricity and steam generating plants) and at the individual scale (energy for heating individual homes and businesses). Increased energy efficiency has compensated for increases in population and economic and institutional development.","(42.3584308, -71.0597732)","(37.09024, -95.712891)"
+Vilnius City Municipality,36154,Lithuania,Vilnius,,2014,2011,Other: EU Directive 2003/87/EB,,1499304,,"(54.6871555, 25.2796514)","(55.169438, 23.881275)"
+City of Zaragoza,46473,Spain,Zaragoza,,2014,2012,"Other: El método está eleborado en esta Agencia de Medio Ambiente y descrito en la información del archivo adjunto al cuestionario ""2005-2012 Consumo y emisión CDP"".","EMISIONES DE CO2 DIRECTAS E INDIRECTAS (los datos no se refieren a CO2 equivalente). Se hacen constar los datos correspondientes a 2012 por no estar todavía disponibles los correspondientes a 2013.
+Se ha establecido una metodología sencilla basada en los datos directos de consumo de combustibles en  la ciudad facilitando de este modo la actualización anual de las emisiones.
+Los datos de consumo directo de combustibles son proporcionados cada año, directamente, por los canalizadores en los casos de  electricidad, gas natural y combustibles líquidos mientras que son estimados en el caso de los GLP, a partir de los datos de las distribuidoras.
+Para los cálculos se utilizan los factores de emisión calculados a partir de los datos del informe del Inventario Nacional de Emisiones del Ministerio de Agricultura, Alimentación  y Medio Ambiente (MAGRAMA), en el caso de las emisiones directas, y los proporcionados por la Comisión Nacional de la Energía (CNE) para las emisiones debidas al uso de la electricidad.",3349364,Los motivos coinciden con los descritos en el caso de la municipalidad,"(41.6488226, -0.8890853)","(40.463667, -3.74922)"
+City of Sydney,31114,Australia,Sydney,C40,2014,2005,Other: CCAP City reporting tool by Kinesis,"Consultancy commissioned to prepare emissions inventory based on utility network data, transport and waste analysis",5458899,"Emissions have decreased due to cleaning of the grid, increased network costs leading to greater awareness and behaviour change (indicating there is some price elasticity in electricity consumption), improved energy efficiency, uptake of solar PV and weather influences.","(-33.8674869, 151.2069902)","(-25.274398, 133.775136)"
+City of Nagoya,35902,Japan,Nagoya,,2014,2010,Other:,"We measure GHG emission by human activities in the city area based on the manual for development of a local government action plan against global warming.
+Outline of the calculation measures is as follows:
+1. Collection of necessary data by refering to statistics and interviews to
+concerned parties
+2. We measure each GHG emission by multiplying each figure (data) by emission factors.",13650000,"Large reduction of CO2 emission associated with use of electricity at offices, shops factories and households, and the use of the Kyoto Mechanism Credit Acquisition Programme,have contributed to
+reduction in GHG emission.","(35.1814464, 136.906398)","(36.204824, 138.252924)"
+Ayuntamiento de San Luis Potosí,50369,Mexico,San Luis Potosí,,2014,2013,Other: Kioto,"The Kyoto Protocol (1997) considered as the first mechanism regarding international environmental issue, guided to reduce the emission of Greenhouse Gases (GHG) that cause climate change.
+From the three methodological approaches presented by the IPCC (Metodology of the Intergovernmental Panel of experts about Climate Change), the method was applied. Tier level 1 (Tier 1) this simplified method includes factors of emission by default that cover the main resources and sinks of greenhouse gases, Carbon Dioxide (CO2), Methane (CH4), and Nitrous Oxide (N2O).",4026722,"There is no information about it until now, the only inventory done was GHG in 2010, so that, there is not a parameter to compare.","(22.1564699, -100.9855409)","(23.634501, -102.552784)"
+City of Goiânia,42123,Brazil,Goiânia,,2014,2010,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"The Protocol for Global Community - Scale GHG Emissions (GPC 2012) was used as standard for the categorization and allocation of emissions and aggregation of results.
+The GPC consists of a compilation of guidelines for the preparation of municipal inventories of GHG emissions. The GPC 2012 shares the terminology of various international programs reporting of emissions, including the C40 Cities Climate Leadership Group, the International Local Government GHG Emissions Analysis Protocol (IEAP-ICLEI) and the GHG Protocol Corporate Accounting and Reporting Standard. Moreover, GPC 2012 converses directly with the IPCC 2006 Guidelines for National GHG Inventories.
+Aiming at a broad identification of emission sources and the establishment of a flow of information necessary for the completion of this study, four teams were created themes, being: stationary units, mobile units, and waste, industrial processes and product uses. The teams were grouped in four thematic workshops held between 26 and 27 June 2012 at the Administrative Center of the city of Goiania. During the implementation of these workshops were identified institutions and those responsible for sending the information necessary for calculations of emissions of greenhouse gases in the municipality.
+For calculations of GHG emissions used the IPCC Inventory Software (IIS) version 2.0, a software developed and provided by the Intergovernmental Panel on Climate Change (IPCC).
+The data were placed on the software as a correspondence between GPC and IPCC categories, except in the case of the activities of electricity consumption (scope 2 emissions, the GPC category that has no corresponding IPCC - these emissions have been included in Section 5 - other).
+Another category that deserves observation refers to the disposal of solid waste in landfills. For this category we used the GPC, which allocates all expected emissions inventory in the year in which the waste is landfilled, IIS was not used for the calculation of this emission source.",2016320,Goiania has only one measure. We do not have last year's data to be compared.,"(-16.6868912, -49.2647943)","(-14.235004, -51.92528)"
+City of Seattle,16581,USA,Seattle,C40,2014,2012,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),Please see detailed source notes throughout the inventory document.,,"This 2012 GHG inventory finds that the “core” emissions targeted by the Climate Action Plan -- have been similar in each of the four years analyzed: 1990, 2005, 2008, and 2012.  After accounting for GHG offsets purchased by Seattle City Light (for the small portion of fossil fuel based electricity in their portfolio), total core emissions have declined from approximately 3.8 million tons in 1990 to approximately 3.6 million tons in 2008 and 2012.    
+
+This decline, though modest, is more impressive considering Seattle’s population and economy have grown considerably since 1990.  On a per resident basis, Seattle’s emissions declined  22% per since 1990 and 6% since 2008.
+
+A number of factors led to emissions decreases that counteracted the effect of population and economic growth, especially (as already noted) the decrease in carbon intensity of Seattle City Light’s electricity, more efficient cars and trucks, and building efficiency (including smaller dwellings) and fuel switching.  Increased efficiency of air travel also contributed to a decrease in GHG emissions.","(47.6062095, -122.3320708)","(37.09024, -95.712891)"
+Faro,50673,Portugal,Faro,,2014,2010,"Other: IrRADIARE, Science for evolution","The analysis proposed scenarios for the evolution of energy demand for a time horizon that ends in 2030 .
+The scenarios are calculated using a mathematical model which considers base projections available through international organizations and bodies responsible for planning public and prospective studies. These projections refer to variables macroeconomic and demographic .
+Addition are considered scenarios of evolution of the system National estimates for energy national space.
+Among the set of entities whose references were considered highlights as Eurostat , the European Agency
+Environment , the International Agency Energy , the Directorate - General for Mobility and Transport of the European Commission, the General Directorate of Energy European Commission , the JRC Research of the European Commission (JRC), the Organization for Economic Cooperation and Economic Development and
+Naturally the national bodies relevant such as the General Directorate Energy and Geology, the Portuguese Agency Environment , the Entity Energy Services Regulatory and the National Institute of Statistics.
+The macroeconomic scenario and energy proposed by the European Commission, in 2009 the "" European Energy and Transport - Trends to 2030 "" stands out among the elements considered reference of the proposed scenarios.
+These scenarios used as feature the PRIMES model, supported by some more specialized models and 12/142 databases, such as those focusing to predict the evolution of international energy markets.
+It was also considered as a reference, the POLES model of the energy system world , the GEM - E3, and some models macroeconomics.",265.85,,"(57.9441874, 19.1424789)","(39.399872, -8.224454)"
+Comune di Padova,36494,Italy,Padova,,2014,2005,Other: LAKS Inventory Quantification Tool for Italy,"The LAKS Inventory Quantification Tool is a tool created to assist municipal governments working in the LAKS Project with the calculation of their ""Government Operations"" greenhouse gas emissions and the geopolitical area ""Community"" CO2e emissions.  It has been developed by the ICLEI Europe specifically for use by LAKS local governments in Italy.",1892158,,"(45.411639, 11.8783489)","(41.87194, 12.56738)"
+City of Turku,50154,Finland,Turku,,2014,2011,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"For a local authority level the IPCC guidelines have been applied according to: European Union/Covenant of Mayors, 2010. How to develop a Sustainable Energy Action Plan - Guidebook. Part II, Baseline emissions inventory. The sectors included are: heating, electricity consumption (including industry), road traffic, agriculture and waste management.",1033000,Due to long term determined policy. For example the share of renewable energy sources in district heating has been increased.,"(60.4518126, 22.2666303)","(61.92411, 25.748151)"
+City of Yokohama,31113,Japan,Yokohama,C40,2014,2010,"Other: Yokohama determines levels of greenhouse gas (GHG) emissions, promotes their reduction, and manages the progress of reduction on the basis of the Yokohama City Action Plan for Global Warming Countermeasures (district measure edition; 2011), which was prepared in accordance with the provisions of Article 20, Item 3, Paragraph 3 of the Act on Promotion of Global Warming Countermeasures.  It measures GHG emissions in accordance with the manual for formulation of action plans by local public entities for global warming countermeasures (regional measure edition, Vol. 1), which was formulated by the Ministry of the Environment.","
+Carbon dioxide (CO2), methane (CH4), dinitrogen monoxide (N2O), hydrofluorocarbon (HFC), perfluorocarbon (PFC), sulfur hexafluoride (SF6)
+
+   *Calculation method for CO2 only
+*CO2: Fuel combustion, use of electrical power supplied by other parties, use of heat supplied by other parties, waste incineration
+
+[Fuel combustion]
+Determination of the yearly amount of consumption for various types of fuel (fuel (heavy) oil, city gas, etc.) in each economic field (energy conversion, industrial, business, residential, and transportation) from various statistical data, and multiplication of the amount for each fuel by its particular CO2 emission coefficient.
+
+[Use of electrical power]
+Based on the indirect emission method.  Collection of data for yearly amount of electrical power consumption in each division from electric power companies and multiplication of the amount by the CO2 emission coefficient (released by the electric power companies).
+
+[Use of heat]
+Based on the indirect emission method.  Calculation from the yearly amount of heat in each division supplied by heat supply companies and the amount of CO2 emissions.
+
+[Waste incineration]
+Multiplication of the yearly amount of incineration of plastics (several types) and oils (excluding animal and vegetable oils) by their respective CO2 emission coefficients.
+
+*CH4: emissions accompanying fuel combustion, agriculture-sourced emissions, waste-sourced emissions, and emissions caused by conversion of forests and grasslands.
+
+*N2O: emissions accompanying fuel combustion, emissions caused by industrial processes, emissions due to use of organic solvents and other products, agriculture-sourced emissions, and waste-sourced emissions.
+
+*HFC, PFC, SF6: emissions at the stages of manufacturing and use",19300000,Because emission coefficients in the power sector worsened under the influence of the Great East Japan Earthquake.,"(35.4437078, 139.6380256)","(36.204824, 138.252924)"
+Comune di Genova,36262,Italy,Genova,,2014,2005,Other: Baseline 2005 SEAP,I used the data that have been monitored by the Province of Genoa and reported on SEAP,2376739,,"(44.3479608, 9.3184145)","(41.87194, 12.56738)"
+City of Paris,31175,France,Paris,C40,2014,2009,Other: Bilan Carbone (R),"We counted the direct and indirect GHG emissions that made possible the activity of the Paris territory as it was in 2009. e.g. for 1 liter of gasoline consumed in a parisian vehicle, the GHG emissions related to oil extraction, refining, and engine combustion are considered.
+
+The methodology used is the Bilan Carbone (R) methodology, that gives national calculation ratios and rules to apply within the French territory. This method gives CO2e emissions aggregated for the 6 GHG of the Kyoto protocol.",7413300,"GHG balance have been assessed for Paris in 2004 and in 2009 so far. Emissions decreased from 2004 to 2009 thanks to the Climate and Energy Action Plan impact.  The figure will be updated in 2016 based on the emissions for the year 2014. So far, the figures provided in both 2013 and 2014 are the same because they account for the year 2009.","(48.856614, 2.3522219)","(46.227638, 2.213749)"
+City of Chicago,3203,USA,Chicago,C40,2014,2010,Other: 2007 eGRID and 2006 IPCC Guidelines for National Greenhouse Gas Inventories,"Several protocols for estimating GHG emissions were used to prepare the 2010 Regional GHG Inventory, as no standard protocol for the development of local or regional community-wide inventories currently exists. ICLEI ‘s community inventory protocol which was not released at the time of the inventory may be utilized for future updates to the Chicago Region’s emissions inventory. These GHG protocols used in the 2010 Regional GHG Inventory are listed below, and were applied to each sector, as relevant and as discussed below for each emissions sector. 
+
+The LGOP for Greenhouse Gas Assessments developed by ICLEI, CAR, TCR and CARB (California Air Resources Board 2010a): This protocol includes methods for estimating emissions resulting from government buildings and facilities, government fleet vehicles, wastewater treatment and potable water treatment facilities, landfill and composting facilities, and other operations. This protocol was developed primarily for use by California local governments; although it contains methodologies for estimating emissions pertinent to community emissions sources. Further, this protocol can be modified for use outside of California, although in some cases, data sources or other references may need to be modified accordingly to local conditions or constraints.
+
+The USEPA Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990–2007 (U.S. Environmental Protection Agency 2009a): The national inventory documentation includes standard methodology and emission factors for nationwide GHG emissions inventorying. 
+
+The IPCC Guidelines for National Greenhouse Gas Inventories (Intergovernmental Panel on Climate Change 2006a): This document is the international standard for inventories and provides much of the baseline methodology used in the national and statewide emission inventories. 
+
+The GHG Protocol Corporate Standard developed by WRI and the WBCSD (World Resources Institute 2004): Although this is a protocol designed for use primarily by private corporations, it was one of the first documents to establish the principles and steps to developing a GHG inventory. This document has influenced the development of other types of GHG protocols, including those for municipal, government, and community-wide emissions.
+
+Emissions are commonly divided into three categories or “scopes”, as follows (World Resources Institute 2004):
+Scope 1: Direct GHG emissions, such as emissions from combustion of natural gas or in vehicles, where the emission occurs directly at the activity causing the emission.
+Scope 2: Indirect GHG emissions, such as emissions associate with the consumption of electricity due to power plant emissions or methane emissions at a landfill that receives waste, where the emissions occur at a location separate from the activity causing the emission.
+
+Scope 3: All other indirect emissions not covered in Scope 2 that are not owned or controlled by the reporting jurisdiction, such as the emissions resulting from the extraction and production of purchased materials and fuels.
+The 2010 Regional GHG Inventory includes Scope 1 and 2 emissions (World Resources Institute 2004), including all direct and indirect emissions; Scope 3 emissions are not included.",,,"(41.8781136, -87.6297982)","(37.09024, -95.712891)"
+City of Berlin,31153,Germany,Berlin,C40,2014,2010,"Other: Statistical Institute Berlin-Brandenburg,","The balance of energy-related CO2 emissions is calculated according to a methodology agreed between the German states. There are two ways to look at energy-related CO2 emissions: (1) The calculation of carbon balance based on primary energy sources is subdivided by the sources of emissions, energy transformation and final energy consumption. This method shows only the total amount of carbon dioxide emitted in the city but it does not include the impact of external electricity trade. Therefore, the consumption of final energy consumers is not reflected. That is why Berlin prefers method (2) which is a consumption-based accounting of CO2 emissions. This methodology of calculating CO2 emissions is based on data from the end-use sectors, and puts electricity imports into account. It also adds to the end-users’ emissions those produced by generation of electricity and district heating in the energy transformation sector. Consumption-based accounting of CO2 emissions is therefore one indicator to find out the end-users’ emissions in a region.
+The calculation is based on the energy balance as comprehensive and complete presentation of the energy consumption as a basis. In addition there are specific CO2 factors necessary based on the calorific value of an energy source offered by the Federal Environment Agency differentiated according to energy source and application.",21299000,"The energy and CO2 balance for the year 2010 presented by the Office for Statistics Berlin-Brandenburg state significant increases of the final energy consumption ( FEC) and CO2 emissions compared with the year 2009. Final energy consumption compared to the previous year increased by 7.4% and CO2 emissions by 5.9%.
+ Compared to the base year 1990 Berlin has achieved a reduction of 27.4% CO2. The increases in CO2 emissions results from the manufacturing industry ( +9.2 %), air transport ( +13.6 %) and the area of household, commercial and services ( +6.6 %). The latter area is crucial. It accounted for additional emitted 0,916 million tons of CO2. The increases were mainly in the mineral fuels, gases, and district heating. Obviously, the demand for heating energy in 2010 was very pronounced. This can be explained by the harsh winter of 2010. The Berlin development has not been invulnerable to the national trend. There, too, the final energy consumption increased by 7.5 percent.","(52.5200066, 13.404954)","(51.165691, 10.451526)"
+City of Pittsburgh,35877,USA,Pittsburgh,,2014,2008,International Emissions Analysis Protocol (ICLEI),"Citywide greenhouse gas (GHG) emissions are defined as all emissions within the municipality’s geographic boundaries. Citywide emissions include residential, commercial, and industrial activities as well as transportation and waste generation within city limits. Municipal emissions are embedded in the citywide inventory because municipal operations are within the city’s geographic boundaries. 
+
+The 2008 Pittsburgh Greenhouse Gas Emissions Inventory used ICLEI’s CACP software and Pittsburgh’s 2003 baseline Greenhouse Gas Emissions Inventory to guide citywide emissions inventorying in the absence of a formal citywide emissions reporting protocol. As with the municipal inventory, the data was converted to tons CO2e. 
+
+Pittsburgh’s 2003 and 2008 citywide GHG inventories are bounded by Pittsburgh city limits. This is a necessary delimitation for a manageable analysis. One way Pittsburgh is working to address the exclusion of Pittsburgh’s suburb neighborhoods, ports, and airports from the 2008 Pittsburgh GHG inventory data is to expand our reduction strategies and activities to include those entities whenever possible, even if they are or will be measured under separate inventories, such as Allegheny County’s inventory process. 
+
+The 2008 Pittsburgh citywide inventory includes all Scope 1 and Scope 2 emissions except fugitive emissions. The Scope 3 emissions included are those from waste generated within Pittsburgh city limits.
+
+The reported emission values are rounded.",6000000.79,"In 2008, Pittsburgh’s CO2e emissions totaled 6.79 million tons, a 28 percent increase from adjusted 2003 emissions levels of 5.30 million tons CO2e. Thus, to effectively meet the Pittsburgh greenhouse gas emissions reduction goal set in the Pittsburgh Climate Action Plan, Version 1.0 as 20 percent below 2003 levels by 2023, Pittsburgh must now work to reduce its 2008 greenhouse gas emissions levels by 2.55 million tons CO2e from 2008 levels.  
+
+There are multiple explanations for why Pittsburgh’s total greenhouse gas emissions increased 28 percent between 2003 and 2008:
+• Increased electricity usage
+• Expanded transportation data to include all road types within Pittsburgh city limits
+• More accurate natural gas combustion estimates using company-specific usage data and the actual number of natural gas customers • The inclusion of the Bellefield Boiler Plant’s commercial coal and natural gas combustion to produce steam in the Oakland area, excluded from 2003 data
+• The inclusion of kerosene and fuel oil combustion, excluded from 2003 data
+• The exclusion of sequestration factors while calculating solid waste emissions, thereby treating solid waste as an emitter rather than a sink
+• Weather differences.","(40.4406248, -79.9958864)","(37.09024, -95.712891)"
+Fafe,50671,Portugal,Fafe,,2014,2008,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"Determination of CO2 emissions methodology is based on IPCC principles. Presented data is determined by applying emission factors to the data resulting from energy matrix. 
+The energy matrix is calculated using a mathematical model that is based on local energy consumptions and macroeconomic and demographic variables.",179262,,"(41.4508217, -8.1728619)","(39.399872, -8.224454)"
+City of Athens,31149,Greece,Athens,C40,2014,2007,2006 IPCC Guidelines for National Greenhouse Gas Inventories,,4471000,,"(37.983917, 23.7293599)","(39.074208, 21.824312)"
+City of Dallas,35860,USA,Dallas,,2014,2010,Other: US Community Protocol for Accounting and Reporting,Methodology included a combination of Environmental Protection Agency (EPA) reported emission factors and EPA recommended emission modeling tools.,17229388,,"(32.7801399, -96.8004511)","(37.09024, -95.712891)"
+Comune di Venezia,36254,Italy,Venice,C40,2014,2005,2006 IPCC Guidelines for National Greenhouse Gas Inventories,Our BEI (Baseline Emission Inventory) has been made according to the Covenant of Mayors Guide Lines.,1418344,"Our BEI is based on 2005. Unfortunately, we have not a more updated inventory so that's why we consider that our emissions have no change. Next update is scheduled for the end of 2014 and will be liely based on 2012 or 2013.","(45.4332515, 12.3210704)","(41.87194, 12.56738)"
+Prefeitura de Sorocaba,50383,Brazil,Sorocaba,,2014,2012,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"This inventory were considered for calculating the following greenhouse gases ( GHG ) : Carbon Dioxide ( CO2 ), methane ( CH4 ) , nitrous oxide ( N2O ) , Hydrochlorofluorocarbons ( HFC "" s ) , Perclorofluorcarbonos ( PFC "" s ) and hexafluoride Sulfur ( SF6 ) . , 2000 IPCC Good Practice Guidance and Management in Natural Uncertanty Greenhouse Gas Inventories ; 2006 IPCC Guidelines for National , Greenhouse Gas Inventories ISO 14064-1/2006 : To estimate GHG emissions in Sorocaba , the following references were used : Greenhouse Gases , ISO 14064-2/2007 : Greenhouse Gases , Global Protocol for Community - Scale Greenhouse Gas Emissions ( GPC ) 2012. Potential GHG Global Warming was used , according to the Second Assessment Report of the IPCC (1995 ) . The sectors analyzed were : agriculture, forestry and land use ( rice planting in irrigated systems , liming the soil , herd management and animal manure management , agricultural soil management , agricultural waste burning and land use change ) , energy ( mobile combustion , stationary combustion and electricity consumption ) ; industry , and waste ( landfill and sewage treatment ) . Databases respected in the country , as the IBGE and SEADE were used , in addition to consulting the ANP ( National Petroleum Agency ) , municipal government information , agencies and agriculture companies .",1113971.3,"The 1st nis inventory in process, so we do not have an accurate assessment of its results","(-23.4774899, -47.4220615)","(-14.235004, -51.92528)"
+City of Las Vegas,10495,USA,Las Vegas,,2014,2012,International Emissions Analysis Protocol (ICLEI),"Community data was collected from local utilities (NV Energy and Southwest Gas), the Nevada Department of Transportation's Annual VMT Report for Clark County, the Regional Transportation Commission of Southern Nevada, and the Nevada Department of Environmental Protection. These data points were input into ICLEI's CACP software to obtain aggregated community emission data for Southern Nevada.",30089102,"The population of Las Vegas has stayed fairly constant in the last 5 years.  Population dropped slightly after the recession, but has returned to 2009 levels.  Community emissions targets are not as rigidly defined as the municipality's, so reductions in GHG emissions are not as pronounced.","(36.1699412, -115.1398296)","(37.09024, -95.712891)"
+City of Lexington,50548,USA,Lexington,,2014,2011,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),ICLEI CACP protocols.,6574968,"The reason is manifold.  Annual vehicle miles travelled (VMT) dropped by 40 million miles since our 2007 survey.  This is believed due to the recession and also to fewer younger adults driving which mirrors national trends.  Electricity use was down 7.6% over the last 4 years (average of 1.9% annual reduction).  Waste disposal (tonnage) is down 11.3% since 2007, an average annual reduction of 2.8%.","(38.0405837, -84.5037164)","(37.09024, -95.712891)"
+City of Lisbon,36159,Portugal,Lisbon,,2014,2010,Other: Own methodology,"The data for the final energy use in the city of Lisbon was obtained from the Portuguese Directorate-General for Energy and Geology (www.dgeg.pt).
+To estimate the emissions from fuel use (scope 1), the emission factors from the 2006 IPCC Guidelines for National Greenhouse Gas Inventories were used.
+To estimate the emissions from electricity use (scope 2), the emission factor of the Portuguese electric system was obtained from the Portuguese Environmental Agency (www.apambiente.pt). The latest value was used, which refers to 2009 conditions.",3133805,"Although the emissions from buildings increased, the emissions from transport decreased enough to offset that effect, leading to a 1.8% decrease in overall emissions.
+Regarding scope 1 and 2 emissions, the increase in electricity use led to a scope 2 emissions increase, which was offset by the scope 1 emissions reduction due do the decrease in the use of transport fuels.","(38.7222524, -9.1393366)","(39.399872, -8.224454)"
+City of Denver,32550,USA,Denver,,2014,2012,"Other: Denver used a hybrid methodology that mostly employs WRI protocols and ICLEI/CHO.  WRI was used for upstream (indirect) emissions that occur outside of our political boundary (fuel, concrete, food and packaging). This method is similar to the the most recent release by ICLEI as the US community protocol.","This workbook provides all of the necessary calculations to review the currrent inventory as well as update the inventory for future years based on new data, including population and the consumption of electricity, natural gas, vehicle fuels and key materials. The methodolody is explained in more detail in the peer-reviewed  journal paper ""A Demand-Centered, Hybrid Life-Cycle Methodology for City-Scale Greenhouse Gas Inventories"" located at http://pubs.acs.org/doi/abs/10.1021/es702992q .",8934000,"Recent statewide policies that have mandated higher percentages of renewables in our utility mix, and cleaner fuels for electricity production have reduced our CO2 emissions factor for our largest emitting sectors, i.e. the built environment.   In addition, regional build out of transit options, including light rail, bus lanes, and mode share options may have contributed to to slight decreases in transportation specific emissions.","(39.737567, -104.9847179)","(37.09024, -95.712891)"
+Free and Hanseatic City of Hamburg,35868,Germany,Hamburg,,2014,2011,2006 IPCC Guidelines for National Greenhouse Gas Inventories,"The emissions figures in fields C1.4-C1.6 do solely state Hamburg’s CO2 emissions (sum of Scope 1 and Scope 2 emissions) – they do not include any CH4, N2O etc. emissions. This is due to the statistical principles used in Germany for the ""Energiebilanzen der Bundesländer"" (energy balances of the German federal states) and the ""CO2-Bilanzen der Bundesländer"" (CO2 balances of the German federal states), which are based on the energy consumption within the respective statistical area.
+Nevertheless, these figures do reflect Hamburg’s CO2e emissions quite accurately, because CH4, N2O etc. emissions only cause less than 4% of Hamburg’s overall CO2e emissions.",17572000,This corresponds with a much warmer winter than in the year before.,"(53.5510846, 9.9936818)","(51.165691, 10.451526)"
+City of Toronto,31117,Canada,Toronto,C40,2014,2011,Other: The International Basic Standard for Community-Scale GHG Emission Inventories (ICLEI/C40/WB),"Currently, Toronto’s emissions calculations focus on our major emissions sources – energy (heating and cooling), transportation (mobile sources), and waste.
+
+a. Energy Heating and Cooling:
+The City of Toronto’s emissions factors for electricity and natural gas are updated annually and based on the National Inventory Reports (Environment Canada); however, the City of Toronto adds a 10% transmission loss to the NIR figure. Additionally, data is acquired from Toronto Hydro and Enbridge Gas on the electricity and natural gas consumption of the entire city, including residential, industrial, commercial, institutional etc...
+
+b. Transportation: 
+Data are collected and standardized only for car and truck traffic through the City using four main sources: 
+-truck traffic counts of over 2,000 intersections throughout the city from the City of Toronto’s Transportation Services Division
+-accumulated traffic count data from years 1987 to 2009 from the City of Toronto’s Transportation Services Division
+-the number of Ministry of Transportation registered vehicles in the City, and;
+-a Canadian standard developed by a Canadian consultant
+
+The above traffic data is then used to calculate “vehicle kilometers traveled” (VKT) and the EPA’s Mobil 6.2 software is used to calculate total emissions from mobile sources.
+
+c. Waste: 
+Tonnages of waste and approximate waste compositions are used in mass balance equations in the calculation of emissions from landfills.",20662821.41,,"(43.653226, -79.3831843)","(56.130366, -106.346771)"
+Wellington City Council,43937,New Zealand,Wellington,,2014,2012,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),"The GHG Inventory for the Wellington Region follows the methodology outlined in the Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) - Pilot Version 1.0. The project team developing the Inventory also participated in the international pilot study implementing and improving the GPC methodology.  
+The GPC Pilot Version 1.0 (May 2012) methodology is derived from the National Inventory accounting guidelines of the Intergovernmental Panel on Climate Change, however, it is different to National Inventory reporting (which assesses direct emissions across  New Zealand). The community Inventory assesses both direct (production-based) emission sources within the geographic area (Scope 1) and indirect (consumption-based) emission sources associated with goods and services imported into the geographic area, such as electricity from the national grid, transport into the area that originates outside the area, and imported waste (Scope 2 and 3). The GPC methodology follows emerging international best practice. 
+Due to the differences in methodological approach, the Regional, City and Districts absolute and per capita emissions cannot be compared directly to the absolute and per capita emissions reported in the New Zealand National GHG Inventory or emissions accounted for under the national Emissions Trading Scheme. However relative trends and the significance of individual emissions sources can still be compared in many cases.    
+ 
+Even though the GPC methodology was in a pilot phase during the development of this report, we anticipate the GPC to become the accepted international standard for community Inventory development. Participating in the pilot study allows the experience of the Wellington Region’s Councils to contribute to the final version of the GPC. 
+While the methodology is detailed in the main report, the following aspects are particularly worth noting:  
+ Due to data limitations, the study does not assess emissions from international aviation and international shipping.  Due to data limitations, the study estimates Regional emissions from industrial product use by scaling national industrial emissions from product use on a population basis after removing large point sources.    The study accounts for forest carbon stock changes from afforestation, reforestation, deforestation and forest management (i.e. it applies land-use accounting conventions under the UN Framework Convention on Climate Change rather than the Kyoto Protocol).  It treats emissions from harvesting and deforestation as instantaneous rather than accounting for the longer-term emission flows associated with harvested wood products.   The study accounts for waste-related emissions from both open and closed landfills.    Emissions are expressed on a carbon dioxide-equivalent basis using the 100-year global warming potentials from the IPCC Fourth Assessment Report: Climate Change 2007.",1301739,"Reduced petrol use, electricity use and natural gas use. 
+
+Changes in national grid emissions factor.","(-41.2864603, 174.776236)","(-40.900557, 174.885971)"
+City of San Diego,35884,USA,San Diego,,2014,2009,2006 IPCC Guidelines for National Greenhouse Gas Inventories,IPCC,12624227,"Emissions did not change much from 2008 (12.83 MMT) to 2009 (12.62 MMT). Residential, commercial, & industrial electricity use were all down slightly; residential & commercial natural gas use were down slightly; gasoline use & vehicle miles traveled increased slightly.","(32.715738, -117.1610838)","(37.09024, -95.712891)"
+Ayuntamiento de Madrid,31171,Spain,Madrid,C40,2014,2011,Other: See answer C1.3,"The GHG Report comprehends Direct and Indirect Emissions (Scope 1 and 2).
+- The Direct Emissions calculation is part of the Municipal Air Pollutant Emission Inventory (including GHG but also Particles, NOx, SO2, …). This inventory follows CORINAIR Methodology and complies with IPPC and TFEIP requirements.
+- The Indirect Emissions are calculated using electricity grid consumption data and national grid emission factors.",11527000,"Madrid has reduced its energy consumption in a 4.8 %  and the GHG direct emissions decreased a 7.5 % in the period 2011 - 2010. 
+
+However, the emission factor of the national electric power has increased in a 26.9 %. The indirect emissions increased a 23 % in the period 2011 - 2010.","(40.1076253, -3.3875673)","(40.463667, -3.74922)"
+City of Amsterdam,31148,Netherlands,Amsterdam,C40,2014,2011,Other:,Energy use,5094000,,"(52.3702157, 4.8951679)","(52.132633, 5.291266)"
+Stadt Zürich,35449,Switzerland,Zurich,,2014,2012,Other: Methodology according to the 2000-Watt society (www.2000watt.ch),"The 2000-Watt society methodology is a concept of sustainable development that uses two indicators: Primary energy demand and greenhouse gas emissions. The methodology is based on the final energy demand. Primary energy factors and GHG emission coefficients are according to the ecoinvent database (database with consistent and transparent, up-to-date Life Cycle Inventory (LCI) data – www.ecoinvent.org/database/). The grey energy of net imported other goods and services is not included in the methodology used by the city of Zurich as there is no specific data available. The methodology does not include emissions from non-energetic sources (e.g. landfills, waste water treatment).
+
+Primary energy, final energy and effective energy: The 2000-watt methodology defines primary energy as the total energy present in the original energy source, plus its grey energy. The energy that reaches the customer, after all conversion and transmission losses, is called final energy. In turn, only a part of this is actually used: the effective energy. The rest is lost as waste heat. Basis for all calculations is the final energy demand.
+
+Territorial principle: Basis of the methodology is the territorial principle. It refers to the energy consumed in the city area and the emissions which occur there. The energy sources grey energy and grey emissions are also taken into account. The grey energy of net imported other goods and service is not included in the 2000 watt society methodology (lack of specific data). However, the aim is to separately calculate and indicate the gray energy of net imported other goods and services.
+
+All calculations in regards to primary energy demand and greenhouse gas emissions are made with the balancing program ECORegion (http://www.ecospeed.ch/).",2053157,"The course of greenhouse gas emissions since 2008 is more or less constant. We assume that the positive effects of modernizing insulation of buildings are mostly compensated  by increased demands for comfort (e.g. higher room temperatures, larger living spaces, longer heating periods).","(47.3686498, 8.5391825)","(46.818188, 8.227512)"
+District of Columbia,31090,USA,Washington DC,C40,2014,2012,US Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions (ICLEI),"The community wide inventory includes GHG emissions from all building, transportation energy use and
+emissions from solid waste. In tracking emissions, the District calculates data for six sectors: residential buildings, federal buildings, non-residential buildings, transit (Metro), vehicle miles traveled in the city (indicated as vehicle miles traveled (VMT)), and waste generated in the city. The District government compiles the information necessary to report emissions for these sectors.",8361278,"Community wide GHG emissions in 2012 totaled 8,361,278 metric tons of CO2e, 570,385 metric tons of CO2e less (-7%) from the year 2011. The decrease in total GHG emissions represents an 18% reduction from the 2006 GHG emissions baseline. In the same year, however, the census revealed that the District population increased from 617,996 to 632,323 residents. District per capita emissions rate, previously measured 14.5 metric tons of CO2e per resident in 2011, presently stands at 13.2 metric tons of CO2e per resident. 
+Electricity continues to be the most prevalent source of GHG emissions in the District, accounting for 56.2% of the total GHG emitted in 2012. GHG emissions from electricity in 2012 was reported at 4,700,503 metric tons of CO2e, a 20.7% reduction from 2006 GHG emission by electricity level. Emissions from natural gas constituted 15.3% of the total GHG emitted followed by gasoline consumed by vehicles (17.8%) and other fuel sources such as diesel (4.8%) , fuel oil (3.7%) and energy produced from waste (1.9%) . Emissions from other sources such as kerosene (0%), steam (0.3%) and chilled water (0%) are considerably less due to improved technologies and the availability of more efficient fuels. 
+The 2012 inventory shows that overall energy consumption in the District continues to decrease. Electricity consumption in 2012 measured 10,878,440,707 kWh but represented a 3% decrease – a 4.6% reduction from 2006 level - in 2011 consumption level. 
+A larger reduction in GHG emissions (20.7%) than in consumption (4.6%) reflects the cleanliness of the regional supply which has cut coal generation in favor of cheaper and cleaner renewables. Overall, reductions in energy usage from the buildings sector and a fuel mix of renewable sources for energy generation continue to produce significant reductions in the District’s total GHG emissions.","(38.9071923, -77.0368707)","(37.09024, -95.712891)"
+City of Johannesburg,31115,South Africa,Johannesburg,C40,2014,2013,Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) Pilot Version 1.0 (C40 and ICLEI),,26.22,,"(-26.2041028, 28.0473051)","(-30.559482, 22.937506)"
+City of Edmonton,43912,Canada,Edmonton,,2014,2012,International Emissions Analysis Protocol (ICLEI),"Each year we manually collect empirical utility use information from the utilities for natural gas and electricity used within the geophysical border of the City of Edmonton. This information is provided to us in various reporting categories such as residential, commercial and industrial. We are currently trying to determine if finer detailed levels of breakdowns can be reported on by the utilities. Our propane fuel use for transportation is taken from Statistics Canada as recorded for the Province of Alberta, and then prorated according to the population of Edmonton compared to the population of Alberta. The diesel and gasoline use in litres is done in a similar fashion, but the information in this case is provided to us from the Alberta provincial government. The natural gas consumption in vehicles is received directly from the natural gas distributor. The conversion factors are derived from various sources: electricity grid from Statistics Canada, is always two years behind, natural gas and liquid fuels from US Environmental protection Agency, or Natural Resources Canada references, and the local utilities. The data is input manually each year into an excel spreadsheet model, and the conversion factors are checked for updates each year. Reports on the results are sent out on an as needed, customized basis.",16510297,"Residential dropped slightly, mostly due to natural gas reduction, likely a weather related drop, commercial, almost no change, industrial slight increase, not clear why, both electricity and natural gas consumption went up slightly, gasoline and diesel emissions went up much the same but not by much due to increase in vehicles on road (not sure - don't have vehicle statistics), Other emissions are almost unchanged. Total emissions only went up by 1.3% over 2011 data.","(53.544389, -113.4909267)","(56.130366, -106.346771)"
+City of Stockholm,3429,Sweden,Stockholm,C40,2014,2011,Other: City of Stockholm's standard. Developed in1996,"Greenhouse gas emissions inventory – The Stockholm proprietary method
+
+Stockholm includes the greenhouse gases CO2, CH4 and N2O in the yearly inventory of CO2e emission within the community boundary. 
+
+The total emissions for the community include (Scope 1 and 2 as defined in ""International standard for determining greenhouse gas emissions for cities"" Version 2.1 and ""Global protocol for community-scale greenhouse gas emissions (GPD)"" Pilot Version 1.0”. Scope 3 defined as the life cycle emissions of the energy use):
+•	scope 1 and 3 emissions from district heating and cooling system and other in-boundary fuel combustion for heating
+•	scope 2 and 3 emissions of the house-hold electricity consumption within the community boundary
+•	scope 1 and 3 emissions of use of gas for e.g. cooking
+•	scope 2 and 3 emissions for electricity use in the transportation system (metro, commuter train and train) within the community boundary
+•	scope 1 and 3 emissions for the fuel consumption from road traffic, non-road vehicles and shipping, and scope 1 emissions from aviation (within the landing and take-off cycle, i.e. up to 915m).
+
+This means that scope 3 emissions from transportation of Stockholmers outside the community boundary is not included (but transportation of non-Stockholmers within the community boundary is included). Emission from household waste incineration is embedded in the district heating emissions, since household waste is one source of energy used in district heating. Energy use for waste-water handling is included in the total community energy use.
+
+Emission factors are collected from a report published by Swedish Environmental Research Institute Ltd. (IVL) in 2001 and Thermal Engineering Research Institute (Värmeforsk) in 2011. The reports are widely used and acknowledged in Sweden. The global warming potentials are GWP100 from IPCC 2007, as recommended by the Swedish Environmental Protection Agency (SEPA).
+
+Energy statistics are collected from different sources. District heating and gas statistics are collected from the companies in charge, electricity statistics is compiled at, and collected from, Statistics Sweden. Emission from road transport is modelled using an extensive emission model combined with a road model over Stockholm, so that a large variety of vehicles, speeds, road types etc. are included. Non-road vehicle statistics derives from Statistics Sweden, marine emissions within the community boundary are based on emissions and energy use presented in environmental reports from shipping companies and Stockholm Hamnar (Ports of Stockholm), and further elaborated to account for the community of Stockholm only.
+
+The latest revision of the methodology for greenhouse gas emission inventory in the City of Stockholm has been approved by the Envionment and Health Administrations political board.",2742000,"Total emissions from the categories in Stockholm estimates at system boundaries have been reduced significantly over the past 10 years. Meanwhile , the population has grown by about 200 000 inhabitants. In Stockholm, it can be said that the reduction in per capita emissions by half will depend on the actual response , half of the population growth .
+
+The 2013 follow-up of greenhouse gas emissions in Stockholm is estimated at 3.0 tonnes per capita in 2012. The estimates are preliminary and based on forecasted values. Calculated values for the 2011 greenhouse gas emissions, based on available statistics and modeling, is 3.2 tonnes per capita .
+Energy use for heating has decreased in 2012, which is probably due to energy efficiency measures and conversions ( from oil to heat pumps). Stockholm has a clear reduction of the energy supply per capita for heating sector. The use of gas in the city decreases. Electricity use is however quite constant. There has been a large reduction in car traffic and a slight increase in the share of light trucks.
+In the category of passenger cars have petrol car proportion dropped in favor of gas and ethanol cars, but most of all diesel cars. Diesel passenger cars consist increasingly of environmentally rated efficient diesel cars. Along with the decrease in transport activity ,this leads to strong overall emission reductions in the transport sector.
+The preliminary figures show that 2015 target achieved already in 2012. But the variation is significant from year to year, depending on the rainfall situation and temperature.","(59.3293235, 18.0685808)","(60.128161, 18.643501)"
+Suwon city,44185,South Korea,Suwon,,2014,2010,2006 IPCC Guidelines for National Greenhouse Gas Inventories,,6048245,"Our city’s GHG emission quantity in 2013 was 5,753,647tCO2e, about a 5.1% increase from 2012’s. One of major contributing factors is an increase in indirect emission caused by growing energy use and rising waste amount. It was partly due to population growth of the city.","(37.2635727, 127.0286009)","(35.907757, 127.766922)"
+City of Buenos Aires,31155,Argentina,Buenos Aires,C40,2014,2012,Other: Propietary methodology,"The GHG emissions are calculated by the Buenos Aires EPA Climate Change team using, primarily, ICLEI methodology. The methodology for its preparation was divided into different stages: 
+
+-Obtaining selected information. 
+-Processing of the received data 
+-The conclusions drawn from this process. 
+
+In order to obtain the correct information, the EPA identified the different sectors to be included in the inventory and selected the accurate data to calculate GHG emissions. When the bodies responsible for providing the necessary information were identified, the data was requested. 
+
+When organizing information, the information was given a hierarchical order as follows: 
+-Field (I.e. Community) 
+-Sector (I.e. energy consumption) 
+-Category (I.e. Power consumption) 
+-Sub category (I.e. Power consumption for residential). 
+To represent the GHG emissions produced within the Community sector the following categories were selected:
+
+1. Energy consumption
+2. Transport
+3. Waste (Scope 3)
+4. Water treatment (Scope 3)
+
+1. Energy consumption
+This category includes electricity, natural gas and diesel consumption. It is divided in 3 sub-categories: residential, commercial and industrial.
+
+2. Transport
+This category includes different means of transport, both private and public, which were considered representative at the time of accounting GHG emissions.
+
+Private transport:
+-Private cars (including vans), taking into consideration the kind of fuel used: gasoline, diesel or natural gas.
+-Duty traces (light and heavy), taking into consideration the kind of fuel used: gasoline, diesel or natural gas.
+
+Public transport:
+-Buses, with diesel engines
+-Taxis, including diesel and natural gas
+-Subway, operating through electric power
+-Trains, including those running with electric power as well as those using diesel engines.
+
+3. Waste (Scope 3)
+This category includes the amount of Municipal Solid Waste generated (taking into consideration residential and urban solid waste) in Buenos Aires during the reporting year, as well as its composition.
+-food waste
+-Pruning and garden waste
+-Wood
+-Textile
+-Paper and cardboard
+-Glass, plastic, metal and others.
+
+4. Water treatment (Scope 3)
+This category includes de energy consumed (KWh) for treating and providing drinkable water to the City. 
+
+The data was processed and GHG emissions were calculated and converted to carbon dioxide equivalent using information on energy consumption (fuel, natural gas, electricity) for activities, emission factor, calorific power and density of energy used.
+
+For the community inventory, the methodology used in the Energy Sector was the one used for the Government operation inventory. That is, stating the KWh/year consumed by the 3 sub categories, and multiplying by the emission factor of the grid. As for gas consumption, m3 of gas consumed, calorific power of natural gas, density of the gas and its emissions factor (IPCC 2006 default) were considered in the equation. 
+
+For the private transport sector and buses, GHG emissions were calculated taking into consideration, for each sub categories within the sector, the amount of circulating cars by type of fuel consumed and the amount and type of fuel sold in the city. Fuel consumed by industries and government’s fleet was subtracted to the amount of fuel sold leaving amount of fuel consumed by vehicles.
+
+For the other public transport sector, trains and subways, GHG emissions were calculated from electricity and diesel consumed when travelling within the City. Kilometers travelled and energy consumption data was obtained from the National Regulatory Commission of transport, and Metrovías (Subway grant company). 
+
+For the Waste sector, the methodology used was one developed by the Intergovernmental Panel of Climate Change (IPCC), “Tool to determine methane emissions avoided from disposal of waste at a solid waste of disposal site”. In order to apply this methodology, it was necessary to obtain both the amount of Municipal Solid Waste (MSW) generated in the City of Buenos Aires in each of the years considered in the inventory, as well as their composition. 
+
+For the Water treatment sector, the energy consumed is calculated multiplying the amount of water supplied (m3) and the energy consumed per m3 of treated and distributed water.",9886932,"Last year we were still reporting GHG emissions for year 2010 as we had been working in methodology adjustments. This year we are pleased to update information as to December 2012. 
+
+When comparing Community GHG emissions from year 2012 with the previous year, there is an increase in emissions. However, in order to analyze annual GHG emission changes in a city there are several factors to take into consideration when analyzing, such as demographic growth, commuters, temperature variations and economic fluctuation, among other.
+
+During 2012, even though there has been a decrease in industrial activity, therefore reducing energy consumption, an increase in the total amount of fuel sold results in an increase of GHG emissions.","(-34.6037232, -58.3815931)","(-38.416097, -63.616672)"
