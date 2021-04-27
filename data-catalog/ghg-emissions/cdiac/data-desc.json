@@ -1327,7 +1327,8 @@
         "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/houghton.html",
         "DataSourceOrganism": "CDIAC",
         "DataSourceDesc": "NA",
-        "DataFormat": "csv",
+        "DataFormat": "excel",
+        "FileName": "Global_land-use_flux-1850_2005.xls",
         "DataAccess": "download"
       },
       "Coverage": {
@@ -1347,6 +1348,118 @@
       },
       "Gases": {
         "Included": "Net Flux of Carbon to the Atmosphere",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Worldwide Methane (CH4) Concentrations",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Donald Blake"
+        ],
+        "DataSourceLink1": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/data.html",
+        "DataSourceLink2": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/methane/methane.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "excel",
+        "FileName": "methane.xls",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": "NA",
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1975,
+          "MaxDate": 2010
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "Methane (CH4)",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Halogenated Organic Compounds",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Donald Blake"
+        ],
+        "DataSourceLink1": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/graphics.html",
+        "DataSourceLink2": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/data.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "excel",
+        "FileName": "comphalogens.xls",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": "NA",
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1975,
+          "MaxDate": 2010
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "[Carbon Tetrachloride, CFC-11, CFC-12, CFC-113, Chloroform, Halon 1211, Methyl Chloroform, Tetrachloroethene, data Alkyl Nitrates, Ethyl Nitrate, Methyl Nitrate, i-Propyl Nitrate, Ethyne, Ethane, Propane, i-Butane,n-Butane]",
         "FilterByGase": "NA"
       },
       "Scopes": {
