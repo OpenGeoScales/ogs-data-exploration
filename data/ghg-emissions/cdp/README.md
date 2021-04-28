@@ -2,6 +2,7 @@
 
 ## Data provider description
 
+
 CDP is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts. The world’s economy looks to CDP as the gold standard of environmental reporting with the richest and most comprehensive dataset on corporate and city action.
 
 CDP provides with a dataset of city/region/country emissions reported yearly by government. We can access every year's dataset (2020 and before).

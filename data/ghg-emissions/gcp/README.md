@@ -1,0 +1,4 @@
+
+Data provider | Description | Geoscale | Data sources | Access |
+---|---------|---|---| ---| 
+Global Carbon Project (GCP) | GCP is a global research project that seeks to quantify global greenhouse gas emissions and their causes. It provides data on carbon fluxes resulting from human activities and natural processes and a platform to explore and visualize the most up-to-date data ([Gloabl carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas)) | `World scale`<br />`Country scale`<br /> `City scale`| `GCP` |[Get data](https://www.globalcarbonproject.org/carbonbudget/20/data.htm) |
