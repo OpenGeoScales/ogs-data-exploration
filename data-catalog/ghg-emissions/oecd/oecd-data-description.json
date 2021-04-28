@@ -1,0 +1,64 @@
+{
+    "Version": "2021-12-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "oecd",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "OECD",
+				"DataProviderLink": "https://www.oecd.org/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "OECD Statistics",
+				"DataSourceLink": "https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG",
+				"DataSourceOrganism": "OECD",
+				"DataSourceDesc": "NA",
+				"DataFormat": "csv",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "OECD",
+					"NumberOfSpatialEntities": 48,
+					"ListOfSpatialEntities": ["Argentina", "Australia", "Austria", "Belgium", "Brazil", "Canada",
+						"Switzerland", "Chile", "China (People's Republic of)", "Colombia", "Costa Rica", "Czech Republic",
+						"Germany", "Denmark", "Spain", "Estonia", "European Union (28 countries)", "Finland", "France",
+						"United Kingdom", "Greece", "Hungary", "Indonesia", "India", "Ireland", "Iceland", "Israel", "Italy",
+						"Japan", "Korea", "Lithuania", "Luxembourg", "Latvia", "Mexico", "Netherlands", "Norway", "New Zealand",
+						"OECD - Europe", "OECD - Total", "Poland", "Portugal", "Russia", "Slovak Republic", "Slovenia", "Sweden",
+						"Turkey", "United States", "South Africa"]
+				},
+				"TemporalCoverage": {
+					"MinDate": 1990,
+					"MaxDate": 2018,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Country"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": ["Greenhouse gases", "Carbon dioxide", "Methane", "Nitrous oxide", "Nitrogen trifluoride",
+					"Sulphur hexafluoride", "Perfluorocarbons" "Hydrofluorocarbons", "Unspecified mix of HFCs and PFCs"]
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": ["None"],
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": "All sectors",
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "",
+				"ProtocolLink": ""
+			},
+			"EstimationMethod": {
+				"MethodType": "",
+				"MethodDescription": ""
+			}
+        }
+    ]
+}
