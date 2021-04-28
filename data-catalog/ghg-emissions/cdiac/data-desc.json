@@ -1,0 +1,1483 @@
+{
+  "Version": "2021-06-04",
+  "DatasourceAttributes": [
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Fossil-Fuel CO2 Emissions (Global)"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/overview_2014.html",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "csv",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 1,
+          "ListOfSpatialEntities": "World"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2014
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "World",
+        "TemporalResolution": "year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": "All sectors",
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Fossil-Fuel CO2 Emissions (Regions)"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/tre_regional.html",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "csv",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 10,
+          "ListOfSpatialEntities": [
+            "Western Europe",
+            "Oceania",
+            "North American",
+            "Middle East",
+            "Germany",
+            "Far East",
+            "Developing America",
+            "Centrally Planned Europe",
+            "Centrally Planned Asia",
+            "Africa"
+          ]
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2014
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "World region",
+        "TemporalResolution": "year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": "All sectors",
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Fossil-Fuel CO2 Emissions (Countries)"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/trends/emis/tre_regional.html",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "csv",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 258,
+          "ListOfSpatialEntities": [
+            "AFGHANISTAN",
+            "ALBANIA",
+            "ALGERIA",
+            "ANDORRA",
+            "ANGOLA",
+            "ANGUILLA",
+            "ANTARCTIC FISHERIES",
+            "ANTIGUA & BARBUDA",
+            "ARGENTINA",
+            "ARMENIA",
+            "ARUBA",
+            "AUSTRALIA",
+            "AUSTRIA",
+            "AZERBAIJAN",
+            "BAHAMAS",
+            "BAHRAIN",
+            "BANGLADESH",
+            "BARBADOS",
+            "BELARUS",
+            "BELGIUM",
+            "BELIZE",
+            "BENIN",
+            "BERMUDA",
+            "BHUTAN",
+            "BONAIRE",
+            " SAINT EUSTATIUS",
+            " AND SABA",
+            "BOSNIA & HERZEGOVINA",
+            "BOTSWANA",
+            "BRAZIL",
+            "BRITISH VIRGIN ISLANDS",
+            "BRUNEI (DARUSSALAM)",
+            "BULGARIA",
+            "BURKINA FASO",
+            "BURUNDI",
+            "CAMBODIA",
+            "CANADA",
+            "CAPE VERDE",
+            "CAYMAN ISLANDS",
+            "CENTRAL AFRICAN REPUBLIC",
+            "CHAD",
+            "CHILE",
+            "CHINA (MAINLAND)",
+            "CHRISTMAS ISLAND",
+            "COLOMBIA",
+            "COMOROS",
+            "CONGO",
+            "COOK ISLANDS",
+            "COSTA RICA",
+            "COTE D IVOIRE",
+            "CROATIA",
+            "CUBA",
+            "CURACAO",
+            "CYPRUS",
+            "CZECH REPUBLIC",
+            "CZECHOSLOVAKIA",
+            "DEMOCRATIC PEOPLE S REPUBLIC OF KOREA",
+            "DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)",
+            "DEMOCRATIC REPUBLIC OF VIETNAM",
+            "DENMARK",
+            "DJIBOUTI",
+            "DOMINICA",
+            "DOMINICAN REPUBLIC",
+            "EAST & WEST PAKISTAN",
+            "ECUADOR",
+            "EGYPT",
+            "EL SALVADOR",
+            "EQUATORIAL GUINEA",
+            "ERITREA",
+            "ESTONIA",
+            "ETHIOPIA",
+            "FAEROE ISLANDS",
+            "FALKLAND ISLANDS (MALVINAS)",
+            "FEDERAL REPUBLIC OF GERMANY",
+            "FEDERATED STATES OF MICRONESIA",
+            "FEDERATION OF MALAYA-SINGAPORE",
+            "FIJI",
+            "FINLAND",
+            "FORMER DEMOCRATIC YEMEN",
+            "FORMER GERMAN DEMOCRATIC REPUBLIC",
+            "FORMER PANAMA CANAL ZONE",
+            "FORMER YEMEN",
+            "FRANCE (INCLUDING MONACO)",
+            "FRENCH EQUATORIAL AFRICA",
+            "FRENCH GUIANA",
+            "FRENCH INDO-CHINA",
+            "FRENCH POLYNESIA",
+            "FRENCH WEST AFRICA",
+            "GABON",
+            "GAMBIA",
+            "GEORGIA",
+            "GERMANY",
+            "GHANA",
+            "GIBRALTAR",
+            "GREECE",
+            "GREENLAND",
+            "GRENADA",
+            "GUADELOUPE",
+            "GUATEMALA",
+            "GUINEA",
+            "GUINEA BISSAU",
+            "GUYANA",
+            "HAITI",
+            "HONDURAS",
+            "HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA",
+            "HUNGARY",
+            "ICELAND",
+            "INDIA",
+            "INDONESIA",
+            "IRAQ",
+            "IRELAND",
+            "ISLAMIC REPUBLIC OF IRAN",
+            "ISRAEL",
+            "ITALY (INCLUDING SAN MARINO)",
+            "JAMAICA",
+            "JAPAN",
+            "JAPAN (EXCLUDING THE RUYUKU ISLANDS)",
+            "JORDAN",
+            "KAZAKHSTAN",
+            "KENYA",
+            "KIRIBATI",
+            "KUWAIT",
+            "KUWAITI OIL FIRES",
+            "KYRGYZSTAN",
+            "LAO PEOPLE S DEMOCRATIC REPUBLIC",
+            "LATVIA",
+            "LEBANON",
+            "LEEWARD ISLANDS",
+            "LESOTHO",
+            "LIBERIA",
+            "LIBYAN ARAB JAMAHIRIYAH",
+            "LIECHTENSTEIN",
+            "LITHUANIA",
+            "LUXEMBOURG",
+            "MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA",
+            "MACEDONIA",
+            "MADAGASCAR",
+            "MALAWI",
+            "MALAYSIA",
+            "MALDIVES",
+            "MALI",
+            "MALTA",
+            "MARSHALL ISLANDS",
+            "MARTINIQUE",
+            "MAURITANIA",
+            "MAURITIUS",
+            "MEXICO",
+            "MONGOLIA",
+            "MONTENEGRO",
+            "MONTSERRAT",
+            "MOROCCO",
+            "MOZAMBIQUE",
+            "MYANMAR (FORMERLY BURMA)",
+            "NAMIBIA",
+            "NAURU",
+            "NEPAL",
+            "NETHERLAND ANTILLES",
+            "NETHERLAND ANTILLES AND ARUBA",
+            "NETHERLANDS",
+            "NEW CALEDONIA",
+            "NEW ZEALAND",
+            "NICARAGUA",
+            "NIGER",
+            "NIGERIA",
+            "NIUE",
+            "NORWAY",
+            "OCCUPIED PALESTINIAN TERRITORY",
+            "OMAN",
+            "PACIFIC ISLANDS (PALAU)",
+            "PAKISTAN",
+            "PALAU",
+            "PANAMA",
+            "PAPUA NEW GUINEA",
+            "PARAGUAY",
+            "PENINSULAR MALAYSIA",
+            "PERU",
+            "PHILIPPINES",
+            "PLURINATIONAL STATE OF BOLIVIA",
+            "POLAND",
+            "PORTUGAL",
+            "PUERTO RICO",
+            "QATAR",
+            "REPUBLIC OF CAMEROON",
+            "REPUBLIC OF KOREA",
+            "REPUBLIC OF MOLDOVA",
+            "REPUBLIC OF SOUTH SUDAN",
+            "REPUBLIC OF SOUTH VIETNAM",
+            "REPUBLIC OF SUDAN",
+            "REUNION",
+            "RHODESIA-NYASALAND",
+            "ROMANIA",
+            "RUSSIAN FEDERATION",
+            "RWANDA",
+            "RWANDA-URUNDI",
+            "RYUKYU ISLANDS",
+            "SABAH",
+            "SAINT HELENA",
+            "SAINT LUCIA",
+            "SAINT MARTIN (DUTCH PORTION)",
+            "SAMOA",
+            "SAO TOME & PRINCIPE",
+            "SARAWAK",
+            "SAUDI ARABIA",
+            "SENEGAL",
+            "SERBIA",
+            "SEYCHELLES",
+            "SIERRA LEONE",
+            "SINGAPORE",
+            "SLOVAKIA",
+            "SLOVENIA",
+            "SOLOMON ISLANDS",
+            "SOMALIA",
+            "SOUTH AFRICA",
+            "SPAIN",
+            "SRI LANKA",
+            "ST. KITTS-NEVIS",
+            "ST. KITTS-NEVIS-ANGUILLA",
+            "ST. PIERRE & MIQUELON",
+            "ST. VINCENT & THE GRENADINES",
+            "SUDAN",
+            "SURINAME",
+            "SWAZILAND",
+            "SWEDEN",
+            "SWITZERLAND",
+            "SYRIAN ARAB REPUBLIC",
+            "TAIWAN",
+            "TAJIKISTAN",
+            "TANGANYIKA",
+            "THAILAND",
+            "TIMOR-LESTE (FORMERLY EAST TIMOR)",
+            "TOGO",
+            "TONGA",
+            "TRINIDAD AND TOBAGO",
+            "TUNISIA",
+            "TURKEY",
+            "TURKMENISTAN",
+            "TURKS AND CAICOS ISLANDS",
+            "TUVALU",
+            "UGANDA",
+            "UKRAINE",
+            "UNITED ARAB EMIRATES",
+            "UNITED KINGDOM",
+            "UNITED KOREA",
+            "UNITED REPUBLIC OF TANZANIA",
+            "UNITED STATES OF AMERICA",
+            "URUGUAY",
+            "USSR",
+            "UZBEKISTAN",
+            "VANUATU",
+            "VENEZUELA",
+            "VIET NAM",
+            "WALLIS AND FUTUNA ISLANDS",
+            "YEMEN",
+            "YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC)",
+            "YUGOSLAVIA (MONTENEGRO & SERBIA)",
+            "ZAMBIA",
+            "ZANZIBAR",
+            "ZIMBABWE"
+          ]
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2014
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "Country",
+        "TemporalResolution": "year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": "All sectors",
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Annual Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/epubs/ndp/ndp058/ndp058_v2016.html",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "csv",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": "All sectors",
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "Marland and Rotty (1984)",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Monthly Fossil-Fuel CO2 Emissions: Mass of Emissions Gridded by One Degree Latitude by One Degree Longitude"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_v2016.html",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "csv",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1950,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Month"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": "All sectors",
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Global Carbon Budget (World)",
+        "Global Carbon Project"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": "Le Quéré C",
+        "DataSourceLink": "https://www.globalcarbonproject.org/",
+        "DataSourceOrganism": "Global Carbon Project",
+        "DataSourceDesc": "NA",
+        "DataFormat": "xlsx",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 1,
+          "ListOfSpatialEntities": "World"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1750,
+          "MaxDate": 2015
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "World",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "fossil fuel and cement emissions",
+          "land-use change emissions",
+          "atmospheric growth",
+          "ocean sink",
+          "land sink"
+        ],
+        "FilterBySector": "True"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": [
+        "Global Carbon Budget (National)",
+        "Global Carbon Project"
+      ],
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Global Carbon Project",
+          "CDIAC"
+        ],
+        "DataSourceLink": [
+          "https://cdiac.ess-dive.lbl.gov/",
+          "https://www.globalcarbonproject.org/"
+        ],
+        "DataSourceOrganism": [
+          "Global Carbon Project",
+          "CDIAC"
+        ],
+        "DataSourceDesc": "NA",
+        "DataFormat": "xlsx",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 234,
+          "ListOfSpatialEntities": [
+            "AFGHANISTAN",
+            "ALBANIA",
+            "ALGERIA",
+            "ANDORRA",
+            "ANGOLA",
+            "ANGUILLA",
+            "ANTIGUA & BARBUDA",
+            "ARGENTINA",
+            "ARMENIA",
+            "ARUBA",
+            "AUSTRALIA",
+            "AUSTRIA",
+            "AZERBAIJAN",
+            "BAHAMAS",
+            "BAHRAIN",
+            "BANGLADESH",
+            "BARBADOS",
+            "BELARUS",
+            "BELGIUM",
+            "BELIZE",
+            "BENIN",
+            "BERMUDA",
+            "BHUTAN",
+            "BONAIRE, SAINT EUSTATIUS, AND SABA",
+            "BOSNIA & HERZEGOVINA",
+            "BOTSWANA",
+            "BRAZIL",
+            "BRITISH VIRGIN ISLANDS",
+            "BRUNEI (DARUSSALAM)",
+            "BULGARIA",
+            "BURKINA FASO",
+            "BURUNDI",
+            "CAMBODIA",
+            "CANADA",
+            "CAPE VERDE",
+            "CAYMAN ISLANDS",
+            "CENTRAL AFRICAN REPUBLIC",
+            "CHAD",
+            "CHILE",
+            "CHINA (MAINLAND)",
+            "COLOMBIA",
+            "COMOROS",
+            "CONGO",
+            "COOK ISLANDS",
+            "COSTA RICA",
+            "COTE D IVOIRE",
+            "CROATIA",
+            "CUBA",
+            "CURACAO",
+            "CYPRUS",
+            "CZECH REPUBLIC",
+            "DEMOCRATIC PEOPLE S REPUBLIC OF KOREA",
+            "DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE)",
+            "DENMARK",
+            "DJIBOUTI",
+            "DOMINICA",
+            "DOMINICAN REPUBLIC",
+            "ECUADOR",
+            "EGYPT",
+            "EL SALVADOR",
+            "EQUATORIAL GUINEA",
+            "ERITREA",
+            "ESTONIA",
+            "ETHIOPIA",
+            "FAEROE ISLANDS",
+            "FALKLAND ISLANDS (MALVINAS)",
+            "FEDERATED STATES OF MICRONESIA",
+            "FIJI",
+            "FINLAND",
+            "FRANCE (INCLUDING MONACO)",
+            "FRENCH GUIANA",
+            "FRENCH POLYNESIA",
+            "GABON",
+            "GAMBIA",
+            "GEORGIA",
+            "GERMANY",
+            "GHANA",
+            "GIBRALTAR",
+            "GREECE",
+            "GREENLAND",
+            "GRENADA",
+            "GUADELOUPE",
+            "GUATEMALA",
+            "GUINEA",
+            "GUINEA BISSAU",
+            "GUYANA",
+            "HAITI",
+            "HONDURAS",
+            "HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA",
+            "HUNGARY",
+            "ICELAND",
+            "INDIA",
+            "INDONESIA",
+            "IRAQ",
+            "IRELAND",
+            "ISLAMIC REPUBLIC OF IRAN",
+            "ISRAEL",
+            "ITALY (INCLUDING SAN MARINO)",
+            "JAMAICA",
+            "JAPAN",
+            "JORDAN",
+            "KAZAKHSTAN",
+            "KENYA",
+            "KIRIBATI",
+            "KUWAIT",
+            "KYRGYZSTAN",
+            "LAO PEOPLE S DEMOCRATIC REPUBLIC",
+            "LATVIA",
+            "LEBANON",
+            "LESOTHO",
+            "LIBERIA",
+            "LIBYAN ARAB JAMAHIRIYAH",
+            "LIECHTENSTEIN",
+            "LITHUANIA",
+            "LUXEMBOURG",
+            "MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA",
+            "MACEDONIA",
+            "MADAGASCAR",
+            "MALAWI",
+            "MALAYSIA",
+            "MALDIVES",
+            "MALI",
+            "MALTA",
+            "MARSHALL ISLANDS",
+            "MARTINIQUE",
+            "MAURITANIA",
+            "MAURITIUS",
+            "MEXICO",
+            "MONGOLIA",
+            "MONTENEGRO",
+            "MONTSERRAT",
+            "MOROCCO",
+            "MOZAMBIQUE",
+            "MYANMAR (FORMERLY BURMA)",
+            "NAMIBIA",
+            "NAURU",
+            "NEPAL",
+            "NETHERLANDS",
+            "NEW CALEDONIA",
+            "NEW ZEALAND",
+            "NICARAGUA",
+            "NIGER",
+            "NIGERIA",
+            "NIUE",
+            "NORWAY",
+            "OCCUPIED PALESTINIAN TERRITORY",
+            "OMAN",
+            "PAKISTAN",
+            "PALAU",
+            "PANAMA",
+            "PAPUA NEW GUINEA",
+            "PARAGUAY",
+            "PERU",
+            "PHILIPPINES",
+            "PLURINATIONAL STATE OF BOLIVIA",
+            "POLAND",
+            "PORTUGAL",
+            "QATAR",
+            "REPUBLIC OF CAMEROON",
+            "REPUBLIC OF KOREA",
+            "REPUBLIC OF MOLDOVA",
+            "REPUBLIC OF SOUTH SUDAN",
+            "REPUBLIC OF SUDAN",
+            "REUNION",
+            "ROMANIA",
+            "RUSSIAN FEDERATION",
+            "RWANDA",
+            "SAINT HELENA",
+            "SAINT LUCIA",
+            "SAINT MARTIN (DUTCH PORTION)",
+            "SAMOA",
+            "SAO TOME & PRINCIPE",
+            "SAUDI ARABIA",
+            "SENEGAL",
+            "SERBIA",
+            "SEYCHELLES",
+            "SIERRA LEONE",
+            "SINGAPORE",
+            "SLOVAKIA",
+            "SLOVENIA",
+            "SOLOMON ISLANDS",
+            "SOMALIA",
+            "SOUTH AFRICA",
+            "SPAIN",
+            "SRI LANKA",
+            "ST. KITTS-NEVIS",
+            "ST. PIERRE & MIQUELON",
+            "ST. VINCENT & THE GRENADINES",
+            "SURINAME",
+            "SWAZILAND",
+            "SWEDEN",
+            "SWITZERLAND",
+            "SYRIAN ARAB REPUBLIC",
+            "TAIWAN",
+            "TAJIKISTAN",
+            "THAILAND",
+            "TIMOR-LESTE (FORMERLY EAST TIMOR)",
+            "TOGO",
+            "TONGA",
+            "TRINIDAD AND TOBAGO",
+            "TUNISIA",
+            "TURKEY",
+            "TURKMENISTAN",
+            "TURKS AND CAICOS ISLANDS",
+            "UGANDA",
+            "UKRAINE",
+            "UNITED ARAB EMIRATES",
+            "UNITED KINGDOM",
+            "UNITED REPUBLIC OF TANZANIA",
+            "UNITED STATES OF AMERICA",
+            "URUGUAY",
+            "UZBEKISTAN",
+            "VANUATU",
+            "VENEZUELA",
+            "VIET NAM",
+            "WALLIS AND FUTUNA ISLANDS",
+            "YEMEN",
+            "ZAMBIA",
+            "ZIMBABWE",
+            "KP Annex B",
+            "Non KP Annex B",
+            "OECD",
+            "Non-OECD",
+            "EU28",
+            "Africa",
+            "Asia",
+            "Central America",
+            "Europe",
+            "Middle East",
+            "North America",
+            "Oceania",
+            "South America",
+            "Bunkers",
+            "World"
+          ]
+        },
+        "TemporalCoverage": {
+          "MinDate": 1750,
+          "MaxDate": 2015
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "Country",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "Consumption emissions",
+          "Emissions transfers"
+        ],
+        "FilterBySector": "True"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Production of CO2 from Fossil Fuel Burning by Fuel Type, 1860-1982",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "R. M. Rotty",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/ndps/ndp006.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "dat",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 1,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1860,
+          "MaxDate": 1982
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "World",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "SOLID FUEL",
+          "LIQUID FUEL",
+          "GAS FUEL",
+          "GAS FLARING",
+          "CEMENT MANUFACTURING"
+        ],
+        "FilterBySector": "True"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Annual Fossil-Fuel CO2 Emissions: Global Stable Carbon Isotopic Signature",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/ndps/db1013_v2016.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "text",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "carbon isotopic signature",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "fossil-fuel consumption",
+          "cement manufacture"
+        ],
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Annual Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_annual_del13C_v2016.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "text",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1751,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2 isomass",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "All sectors"
+        ],
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "Andres et al. (1996)",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Monthly Fossil-Fuel CO2 Emissions: Isomass of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres",
+          "G. Marland"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_del13C_v2016.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "text",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1950,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Month"
+      },
+      "Gases": {
+        "Included": "CO2 isomass",
+        "FilterByGase": "False"
+      },
+      "Scopes": {
+        "Included": [
+          "Scope 1",
+          "Scope 2",
+          "Scope 3"
+        ],
+        "FilterByScope": "False"
+      },
+      "Sectors": {
+        "Included": [
+          "All sectors"
+        ],
+        "FilterBySector": "False"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "Andres et al. (1996)",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Annual Fossil-Fuel CO2 Emissions: Uncertainty of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_annual_uncertainty_v2016.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "text",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1950,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2 uncertainty",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Monthly Fossil-Fuel CO2 Emissions: Uncertainty of Emissions Gridded by One Degree Latitude by One Degree Longitude",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP/",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "T.A. Boden",
+          "R.J. Andres"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/epubs/fossil_fuel_CO2_emissions_gridded_monthly_uncertainty_v2016.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "text",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 64800,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1950,
+          "MaxDate": 2013
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "CO2 uncertainty",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Carbon Flux to the Atmosphere from Land-Use Changes 1850-2005",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Richard A. Houghton"
+        ],
+        "DataSourceLink": "https://cdiac.ess-dive.lbl.gov/trends/landuse/houghton/houghton.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "excel",
+        "FileName": "Global_land-use_flux-1850_2005.xls",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": 11,
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1850,
+          "MaxDate": 2000
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "Net Flux of Carbon to the Atmosphere",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Worldwide Methane (CH4) Concentrations",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Donald Blake"
+        ],
+        "DataSourceLink1": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/data.html",
+        "DataSourceLink2": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/methane/methane.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "excel",
+        "FileName": "methane.xls",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": "NA",
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1975,
+          "MaxDate": 2010
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "Methane (CH4)",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    },
+    {
+      "DataSourceStorageName": "cdiac",
+      "Topics": "Halogenated Organic Compounds",
+      "DataProvider": {
+        "DataProviderName": "CDIAC",
+        "DataProviderLink": "https://cdiac.ess-dive.lbl.gov/GCP",
+        "DataProviderDesc": "NA"
+      },
+      "DataSource": {
+        "DataSourceName": [
+          "Donald Blake"
+        ],
+        "DataSourceLink1": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/graphics.html",
+        "DataSourceLink2": "https://cdiac.ess-dive.lbl.gov/trends/otheratg/blake/data.html",
+        "DataSourceOrganism": "CDIAC",
+        "DataSourceDesc": "NA",
+        "DataFormat": "excel",
+        "FileName": "comphalogens.xls",
+        "DataAccess": "download"
+      },
+      "Coverage": {
+        "SpatialCoverage": {
+          "MainCoverage": "World",
+          "NumberOfSpatialEntities": "NA",
+          "ListOfSpatialEntities": "NA"
+        },
+        "TemporalCoverage": {
+          "MinDate": 1975,
+          "MaxDate": 2010
+        }
+      },
+      "Resolution": {
+        "SpatialResolution": "1°x1°",
+        "TemporalResolution": "Year"
+      },
+      "Gases": {
+        "Included": "[Carbon Tetrachloride, CFC-11, CFC-12, CFC-113, Chloroform, Halon 1211, Methyl Chloroform, Tetrachloroethene, data Alkyl Nitrates, Ethyl Nitrate, Methyl Nitrate, i-Propyl Nitrate, Ethyne, Ethane, Propane, i-Butane,n-Butane]",
+        "FilterByGase": "NA"
+      },
+      "Scopes": {
+        "Included": "NA",
+        "FilterByScope": "NA"
+      },
+      "Sectors": {
+        "Included": "NA",
+        "FilterBySector": "NA"
+      },
+      "Protocol": {
+        "ProtocolName": "NA",
+        "ProtocolLink": "NA"
+      },
+      "EstimationMethod": {
+        "MethodType": "NA",
+        "MethodDescription": "NA"
+      }
+    }
+  ]
+}
