@@ -114,6 +114,55 @@
 					"DataFormat": "zip",
 					"DataAccess": "download"
 				}
+			},
+			"Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 215,
+					"ListOfSpatialEntities": ["ABW", "AFG", "AGO", "AIA", "ALB", "AND", "ANNEXI", "ANT", "AOSIS",
+										       "ARE", "ARG", "ARM", "ATG", "AUS", "AUT", "AZE", "BASIC", "BDI",
+										       "BEL", "BEN", "BFA", "BGD", "BGR", "BHR", "BHS", "BIH", "BLR",
+										       "BLZ", "BOL", "BRA", "BRB", "BRN", "BTN", "BWA", "CAF", "CAN",
+										       "CHE", "CHL", "CHN", "CIV", "CMR", "COD", "COG", "COK", "COL",
+										       "COM", "CPV", "CRI", "CUB", "CYP", "CZE", "DEU", "DJI", "DMA",
+										       "DNK", "DOM", "DZA", "EARTH", "ECU", "EGY", "ERI", "ESP", "EST",
+										       "ETH", "EU28", "FIN", "FJI", "FRA", "GAB", "GBR", "GEO", "GHA",
+										       "GIN", "GMB", "GNB", "GNQ", "GRC", "GRD", "GTM", "GUY", "HKG",
+										       "HND", "HRV", "HTI", "HUN", "IDN", "IND", "IRL", "IRN", "IRQ",
+										       "ISL", "ISR", "ITA", "JAM", "JOR", "JPN", "KAZ", "KEN", "KGZ",
+										       "KHM", "KIR", "KNA", "KOR", "KWT", "LAO", "LBN", "LBR", "LBY",
+										       "LCA", "LDC", "LIE", "LKA", "LSO", "LTU", "LUX", "LVA", "MAC",
+										       "MAR", "MCO", "MDA", "MDG", "MDV", "MEX", "MHL", "MKD", "MLI",
+										       "MLT", "MMR", "MNE", "MNG", "MOZ", "MRT", "MUS", "MWI", "MYS",
+										       "NAM", "NER", "NGA", "NIC", "NIU", "NLD", "NONANNEXI", "NOR",
+										       "NPL", "NRU", "NZL", "OMN", "PAK", "PAN", "PER", "PHL", "PLW",
+										       "PNG", "POL", "PRK", "PRT", "PRY", "QAT", "ROU", "RUS", "RWA",
+										       "SAU", "SDN", "SEN", "SGP", "SHN", "SLB", "SLE", "SLV", "SMR",
+										       "SOM", "SRB", "SSD", "STP", "SUR", "SVK", "SVN", "SWE", "SWZ",
+										       "SYC", "SYR", "TCA", "TCD", "TGO", "THA", "TJK", "TKM", "TLS",
+										       "TON", "TTO", "TUN", "TUR", "TWN", "TZA", "UGA", "UKR", "UMBRELLA",
+										       "URY", "USA", "UZB", "VAT", "VCT", "VEN", "VGB", "VNM", "VUT",
+										       "WSM", "YEM", "ZAF", "ZMB", "ZWE", "FSM", "TKL", "TUV", "ATA"]
+				},
+				"TemporalCoverage": {
+					"MinDate": 1850,
+					"MaxDate": 2018,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["country", "country group"],
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": ["CH4", "CO2", "FGASESAR4", "FGASES", "HFCSAR4", "HFCS",
+       						 "KYOTOGHGAR4", "KYOTOGHG", "N2O", "NF3", "PFCSAR4", "PFCS", "SF6"],
+				"FilterByGase": true
+			},
+			"Sectors": {
+				"Included": ["IPC1A", "IPC1B1", "IPC1B2", "IPC1B3", "IPC1B", "IPC1", "IPC2B",
+					         "IPC2C", "IPC2D", "IPC2G", "IPC2H", "IPC2", "IPC3A", "IPC4",
+					         "IPC5", "IPCM0EL", "IPCMAGELV", "IPCMAG", "IPC2A"],
+				"FilterBySector": true
 			}
 		}
 	]
