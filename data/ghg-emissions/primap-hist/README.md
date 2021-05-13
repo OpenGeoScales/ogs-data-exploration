@@ -30,7 +30,7 @@ The two last files are documentation files and they are placed in the doc folder
 
 To have the most available and complete data, we only used the *PRIMAP-hist_v2.2_19-Jan-2021.csv* file for the exploration. Indeed, this file contains no missing values thanks to the extrapolation.
 
-The exploration generated two files:
+Plus, the exploration generated two files:
 - *PRIMAP-HISTCR.csv*: Contains only the data with the HISTCR scenario.
 - *PRIMAP-HISTTP.csv*: Contains only the data with the HISTTP scenario.
 
@@ -48,14 +48,3 @@ The fields are all the same for each csv file.
 | remaining columns | Years from 1850-2018. |
 
 The field values information and description can be found in the *PRIMAP-hist_v2.2_data-description.pdf* file.
-
-
-# Initial table (to be removed?)
-
-Data provider | Description | Geoscale | Data sources | Access |
----|---------|---|---| ---| 
-Postdam Institute for Climate Impact Research (PIK) | The Postdam Institute provides the **PRIMAP-hist dataset**, which combines several published datasets to create a comprehensive set of greenhouse gas emission pathways for every country and Kyoto gas covering the years 1850 to 2017, and all UNFCCC (United Nations Framework Convention on Climate Change) member states, as well as most non-UNFCCC territories.| `World scale` <br /> `Country scale`| `UNFCCC` `EDGAR`  |[Get data](https://github.com/JGuetschow/PRIMAP-hist) |
-
-- [Github page](https://github.com/JGuetschow/PRIMAP-hist)
-- [The PRIMAP-hist national historical emissions time series (1850-2018) v2.2](https://zenodo.org/record/4479172#.YHHWfugzZPY)
-- [The PRIMAP-hist national historical emissions time series (1850-2017)](https://dataservices.gfz-potsdam.de/pik/showshort.php?id=escidoc:4736895)

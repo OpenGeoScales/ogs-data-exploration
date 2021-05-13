@@ -9,7 +9,7 @@
 				"DataProviderLink": "https://zenodo.org/record/4479172",
 				"DataProviderDesc": "The Potsdam Institute for Climate Impact Research focuses its researches on the climate impact to reach a global sustainability and to bring knowledge and solutions for a more manageable climate in the future."
 			},
-			"DataSource": {
+			"DataSource": [
 				{
 					"DataSourceName": "Global CO2 emissions from cement production v4 (Andrew 2019)",
 					"DataSourceLink": "https://zenodo.org/record/3380081",
@@ -114,7 +114,7 @@
 					"DataFormat": "zip",
 					"DataAccess": "download"
 				}
-			},
+			],
 			"Coverage": {
 				"SpatialCoverage":{
 					"MainCoverage": "World",
