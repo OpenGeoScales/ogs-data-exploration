@@ -40,7 +40,7 @@
 			},
             "Gases": {
 				"Included": ["Greenhouse gases", "Carbon dioxide", "Methane", "Nitrous oxide", "Nitrogen trifluoride",
-					"Sulphur hexafluoride", "Perfluorocarbons" "Hydrofluorocarbons", "Unspecified mix of HFCs and PFCs"]
+					"Sulphur hexafluoride", "Perfluorocarbons" "Hydrofluorocarbons", "Unspecified mix of HFCs and PFCs"],
 				"FilterByGase": "True"
 			},
             "Scopes": {
