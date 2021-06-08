@@ -1,0 +1,80 @@
+{
+    "Version": "2021-04-04",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "wri",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "World Resource Institute",
+				"DataProviderLink": "https://cait.wri.org/",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "CAIT",
+				"DataSourceLink": "https://www.climatewatchdata.org/ghg-emissions",
+				"DataSourceOrganism": "WRI",
+				"DataSourceDesc": "NA",
+				"DataFormat": "xlsx",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 195,
+					"ListOfSpatialEntities": ['AFG', 'AGO', 'ALB', 'AND', 'ARE', 'ARG', 'ARM', 'ATG', 'AUS', 'AUT',
+                                    'AZE', 'BDI', 'BEL', 'BEN', 'BFA', 'BGD', 'BGR', 'BHR', 'BHS', 'BIH', 
+                                    'BLR', 'BLZ', 'BOL', 'BRA', 'BRB', 'BRN', 'BTN', 'BWA', 'CAF', 'CAN', 
+                                    'CHE', 'CHL', 'CHN', 'CIV', 'CMR', 'COD', 'COG', 'COK', 'COL', 'COM', 
+                                    'CPV', 'CRI', 'CUB', 'CYP', 'CZE', 'DEU', 'DJI', 'DMA', 'DNK', 'DOM', 
+                                    'DZA', 'ECU', 'EGY', 'ERI', 'ESP', 'EST', 'ETH', 'EUU', 'FIN', 'FJI',
+                                    'FRA', 'FSM', 'GAB', 'GBR', 'GEO', 'GHA', 'GIN', 'GMB', 'GNB', 'GNQ',
+                                    'GRC', 'GRD', 'GTM', 'GUY', 'HND', 'HRV', 'HTI', 'HUN', 'IDN', 'IND',
+                                    'IRL', 'IRN', 'IRQ', 'ISL', 'ISR', 'ITA', 'JAM', 'JOR', 'JPN', 'KAZ',
+                                    'KEN', 'KGZ', 'KHM', 'KIR', 'KNA', 'KOR', 'KWT', 'LAO', 'LBN', 'LBR',
+                                    'LBY', 'LCA', 'LIE', 'LKA', 'LSO', 'LTU', 'LUX', 'LVA', 'MAR', 'MDA',
+                                    'MDG', 'MDV', 'MEX', 'MHL', 'MKD', 'MLI', 'MLT', 'MMR', 'MNE', 'MNG', 
+                                    'MOZ', 'MRT', 'MUS', 'MWI', 'MYS', 'NAM', 'NER', 'NGA', 'NIC', 'NIU', 
+                                    'NLD', 'NOR', 'NPL', 'NRU', 'NZL', 'OMN', 'PAK', 'PAN', 'PER', 'PHL',
+                                    'PLW', 'PNG', 'POL', 'PRK', 'PRT', 'PRY', 'QAT', 'ROU', 'RUS', 'RWA',
+                                    'SAU', 'SDN', 'SEN', 'SGP', 'SLB', 'SLE', 'SLV', 'SOM', 'SRB', 'SSD',
+                                    'STP', 'SUR', 'SVK', 'SVN', 'SWE', 'SWZ', 'SYC', 'SYR', 'TCD', 'TGO', 
+                                    'THA', 'TJK', 'TKM', 'TLS', 'TON', 'TTO', 'TUN', 'TUR', 'TUV', 'TZA', 
+                                    'UGA', 'UKR', 'URY', 'USA', 'UZB', 'VCT', 'VEN', 'VNM', 'VUT', 'WORLD', 
+                                    'WSM', 'YEM', 'ZAF', 'ZMB', 'ZWE']
+				},
+				"TemporalCoverage": {
+					"MinDate": 1990,
+					"MaxDate": 2018,
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["World", "National"]
+				"TemporalResolution": "year",
+			},
+            "Gases": {
+				"Included": ["All GHG", "CO2", "CH4", "N2O", "F-Gases"],
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": "",
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ['Total excluding LUCF', 'Total including LUCF', 'Energy ',
+       'Industrial Processes ', 'Agriculture ', 'Waste ',
+       'Land-Use Change and Forestry ', 'Bunker Fuels ', 'Electricity/Heat ',
+       'Manufacturing/Construction ', 'Transportation ', 'Building',
+       'Other Fuel Combustion ', 'Fugitive Emissions '],
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        }
+    ]
+}
