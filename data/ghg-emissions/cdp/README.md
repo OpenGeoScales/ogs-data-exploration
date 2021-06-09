@@ -11,25 +11,30 @@ They provide also with 'corporate data', 'data for investors' and a yearly score
 
 ## Dataset description
 
-The data is composed of 3 datasets according to the year of the report (2018, 2019 or 2020).
+The data is composed of yearly reports since 2012, so we have one report per year.
 They can be either downloaded or accessed via API from [this portal](https://data.cdp.net/)
 
 
 
 There are also emissions [by sector](https://data.cdp.net/Emissions/2017-Cities-GPC-Inventory-Data/m9dr-uyqa)
-There also [emissions reduction target data](https://data.cdp.net/Emissions/2016-Cities-Emissions-Reduction-Targets/g6yr-2gzv)
+There are also [emissions reduction target data](https://data.cdp.net/Emissions/2016-Cities-Emissions-Reduction-Targets/g6yr-2gzv)
 There are also two 2020 datasets about Canadian cities [here](https://data.cdp.net/Emissions/2020-Canadian-Cities-Emissions-CRF-Format-/muuq-k63v) and [here](https://data.cdp.net/Emissions/2020-Canadian-Cities-Emissions-GPC-Format-/j9gw-nwjy)
 The format seems quite different
 
 => check if we should include these datasets (not done yet)
 
+## Concatenation of each report
+
+Each dataset does not have exactly the same columns. A [columns mapping excel file]("https://github.com/OpenGeoScales/ogs-data-exploration/blob/cdp/data/ghg-emissions/cdp/columns_mapping.xls") was made to map the columns and then be able to compare those datasets.
+A dataset called [CDP_data_all_years]("https://github.com/OpenGeoScales/ogs-data-exploration/blob/cdp/data/ghg-emissions/cdp/CDP_data_all_years.csv") is the concatenation of each yearly report.
+
 ## Fields description
 
 
-The following table describes columns for data from 2018 to 2020 (it needs to be updated). For more details about the columns included in the different datasets please check [this excel file]()
+The following table describes columns for data from 2018 to 2020 (it needs to be updated). For more details about the columns included in the different datasets please check the previously mentioned columns mapping Excel file.
+
 | Field | Description |
 |-------|-------------|
-| Index | colonne que j'ai ajoutée qui représente l'index de la ligne dans le dataset original (avant de concatener) |
 || Year Reported to CDP | année du rapport |
 | Account Number | id de la ligne dans le dataset |
 | Organization | entité en charge de la mesure |
