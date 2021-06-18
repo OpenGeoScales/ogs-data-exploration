@@ -1,0 +1,85 @@
+{
+    "Version": "2021-04-06",
+    "DatasourceAttributes": [
+        {
+            "DataSourceStorageName": "wri",
+			"Topics": ["GHG emissions"],
+			"DataProvider": {
+				"DataProviderName": "World Resource Institute",
+				"DataProviderLink": "https://www.climatewatchdata.org/data-explorer",
+				"DataProviderDesc": "NA"
+			},
+			"DataSource": {
+				"DataSourceName": "UNFCCC",
+				"DataSourceLink": "https://www.climatewatchdata.org/ghg-emissions",
+				"DataSourceOrganism": "WRI",
+				"DataSourceDesc": "NA",
+				"DataFormat": "xlsx",
+				"DataAccess": "download"
+			},
+            "Coverage": {
+				"SpatialCoverage":{
+					"MainCoverage": "World",
+					"NumberOfSpatialEntities": 193,
+					"ListOfSpatialEntities": ["ANNEXI", "AUS", "AUT", "BEL", "BGR", "BLR", "CAN", "CHE", "CYP",
+       "CZE", "DEU", "DNK", "ESP", "EST", "EUU", "FIN", "FRA", "GBR",
+       "GRC", "HRV", "HUN", "IRL", "ISL", "ITA", "JPN", "KAZ", "LIE",
+       "LTU", "LUX", "LVA", "MCO", "MLT", "NLD", "NOR", "NZL", "POL",
+       "PRT", "ROU", "RUS", "SVK", "SVN", "SWE", "TUR", "UKR", "USA",
+       "AFG", "AGO", "ALB", "ARE", "ARG", "ARM", "ATG", "AZE", "BDI",
+       "BEN", "BFA", "BGD", "BHR", "BHS", "BIH", "BLZ", "BOL", "BRA",
+       "BRB", "BRN", "BTN", "BWA", "CAF", "CHL", "CHN", "CIV", "CMR",
+       "COD", "COG", "COK", "COL", "COM", "CPV", "CRI", "CUB", "DJI",
+       "DMA", "DOM", "DZA", "ECU", "EGY", "ERI", "ETH", "FJI", "FSM",
+       "GAB", "GEO", "GHA", "GIN", "GMB", "GNB", "GRD", "GTM", "GUY",
+       "HND", "HTI", "IDN", "IND", "IRN", "IRQ", "ISR", "JAM", "JOR",
+       "KEN", "KGZ", "KHM", "KIR", "KNA", "KOR", "KWT", "LAO", "LBN",
+       "LBR", "LCA", "LKA", "LSO", "MAR", "MDA", "MDG", "MDV", "MEX",
+       "MHL", "MKD", "MLI", "MMR", "MNE", "MNG", "MOZ", "MRT", "MUS",
+       "MWI", "MYS", "NAM", "NER", "NGA", "NIC", "NIU", "NPL", "NRU",
+       "OMN", "PAK", "PAN", "PER", "PHL", "PLW", "PNG", "PRK", "PRY",
+       "PSE", "QAT", "RWA", "SAU", "SDN", "SEN", "SGP", "SLB", "SLE",
+       "SLV", "SMR", "SRB", "STP", "SUR", "SWZ", "SYC", "SYR", "TCD",
+       "TGO", "THA", "TJK", "TKM", "TLS", "TON", "TTO", "TUN", "TUV",
+       "TZA", "UGA", "URY", "UZB", "VCT", "VEN", "VNM", "VUT", "WSM",
+       "YEM", "ZAF", "ZMB", "ZWE"]
+				},
+				"TemporalCoverage": {
+					"MinDate": 1990,
+					"MaxDate": 2018
+				}
+			},
+			"Resolution": {
+				"SpatialResolution": ["Country Group", "National"],
+				"TemporalResolution": "year"
+			},
+            "Gases": {
+				"Included": ["Aggregate GHGs", "CO2", "CH4", "N2O", "Aggregate F-gases"],
+				"FilterByGase": "True"
+			},
+            "Scopes": {
+				"Included": "NA",
+				"FilterByScope": "False"
+			},
+			"Sectors": {
+				"Included": ["Agriculture", "Energy", "Industrial Processes and Product Use",
+       "Land Use, Land-Use Change and Forestry", "Other",
+       "Total GHG emissions with LULUCF",
+       "Total GHG emissions without LULUCF", "Waste",
+       "Industrial Processes", "Land-Use Change and Forestry",
+       "Solvent and Other Product Use",
+       "Total GHG emissions excluding LULUCF/LUCF",
+       "Total GHG emissions including LULUCF/LUCF"],
+				"FilterBySector": "True"
+			},
+			"Protocol": {
+				"ProtocolName": "NA",
+				"ProtocolLink": "NA"
+			},
+			"EstimationMethod": {
+				"MethodType": "NA",
+				"MethodDescription": "NA"
+			}
+        }
+    ]
+}
